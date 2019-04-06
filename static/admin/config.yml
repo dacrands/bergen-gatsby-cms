@@ -1,0 +1,17 @@
+backend:
+  name: test-repo  
+
+media_folder: static/img
+public_folder: /img
+
+collections:
+  - name: blog
+    label: Blog
+    folder: src/pages/blog
+    create: true
+    fields:
+      - {label: "Template Key", name: "templateKey", widget: "hidden", default: "projectTemplate"}
+      - { name: title, label: Project }
+      - {label: Image, name: image, widget: image}
+      - { name: date, label: Date, widget: date }
+      - { name: body, label: Body, widget: markdown } 
