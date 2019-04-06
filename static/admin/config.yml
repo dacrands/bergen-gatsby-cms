@@ -1,5 +1,6 @@
 backend:
-  name: test-repo  
+  name: github
+  repo: dacrands/cms-boilerplate
 
 media_folder: static/img
 public_folder: /img
