@@ -11,7 +11,7 @@ collections:
     folder: src/pages/blog
     create: true
     fields:
-      - { label: "Template Key", name: "templateKey", widget: "hidden", default: "projectTemplate" }
+      - { label: "Template Key", name: "templateKey", widget: "hidden", default: "blogTemplate" }
       - { name: title, label: Blog }
       - { label: Image, name: image, widget: image }
       - { name: date, label: Date, widget: date }
