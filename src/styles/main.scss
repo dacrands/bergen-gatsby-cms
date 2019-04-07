@@ -87,7 +87,7 @@ body {
 //    NAVBAR
 // =============
 .navbar {  
-  padding: 1em 0;  
+  padding: 1em;  
   a {
     &:hover {
       color: $primary;
@@ -150,7 +150,7 @@ body {
     margin: 0;
     margin-bottom: 1.75rem;
     font-size: calc((12px + 2vh) + 3.5vw);
-    // color: $primary;  
+    color: $primary;  
   }
   p {            
     font-size: 24px;

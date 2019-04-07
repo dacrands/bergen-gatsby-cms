@@ -16,3 +16,12 @@ collections:
       - { label: Image, name: image, widget: image }
       - { name: date, label: Date, widget: date }
       - { name: body, label: Body, widget: markdown } 
+  - name: project
+    label: Project
+    folder: src/pages/projects
+    create: true
+    fields:
+      - { label: "Template Key", name: "templateKey", widget: "hidden", default: "projectTemplate" }
+      - { name: title, label: Project}
+      - { label: Image, name: image, widget: image }
+      - { label: Abstract, name: abstract, widget: string}
