@@ -10,7 +10,7 @@ export default function BlogTemplate({
   const { markdownRemark } = data;
   const { frontmatter, html } = markdownRemark;
   return (
-    <div style={{maxWidth: `500px`, margin: `0 auto`, padding: `0 1em`}}>
+    <div className="container">
       <div className="blog-post">
         <Img fluid={frontmatter.image.childImageSharp.fluid}/>
         <h1>{frontmatter.title}</h1>
