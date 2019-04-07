@@ -19,7 +19,7 @@ export default ({ data }) => {
             <li className="list__li">
               <Link className="link link--primary link--img" to={edge.node.fields.slug}>
                 <Img fixed={edge.node.frontmatter.image.childImageSharp.fixed}/>
-                <span className="link__span">{edge.node.frontmatter.title}</span>
+                <div className="link__text">{edge.node.frontmatter.title}</div>
               </Link>              
             </li>
           ))
