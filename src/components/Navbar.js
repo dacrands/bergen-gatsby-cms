@@ -3,6 +3,10 @@ import { Link } from 'gatsby'
 
 const LINKS = [
   {
+    name: 'Home',
+    slug: '/'
+  },
+  {
     name: 'about',
     slug: '/about'
   },
@@ -18,14 +22,11 @@ const LINKS = [
 
 export default () => (
   <nav className="navbar container">
-    <div className="navbar__logo">
-      <Link to="/"><h3>STEM</h3></Link>
-    </div>
     <ul className="navbar__list">
       {
         LINKS.map(link => (
           <li>
-            <Link className="navbar__list-link" to={link.slug}>{link.name}</Link>
+            <Link activeStyle={{color: "rgb(98, 66, 228)"}} className="navbar__list-link" to={link.slug}>{link.name}</Link>
           </li>
         ))
       }
