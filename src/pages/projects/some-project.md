@@ -1,7 +1,7 @@
 ---
 templateKey: projectTemplate
 title: SOme Project
-projectImage: /img/port-blog.jpg
+image: /img/flask-smart-secure.jpg
 abstract: pASDAASDFASDF
 ---
 
