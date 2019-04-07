@@ -1,13 +1,15 @@
 import React from "react"
-import { Link } from "gatsby"
+import { graphql, Link } from "gatsby"
+import Img from 'gatsby-image'
 
-import wave from "../../static/img/groundstation.jpg"
 
 import Navbar from "../components/Navbar"
 
 import "../styles/main.scss"
 
-export default () => {
+export default ({ data }) => {
+  console.log(data.allFile.edges[0])
+  const edges = data.allFile.edges
   return (
     <div>
       <Navbar />
@@ -22,8 +24,12 @@ export default () => {
           <Link className="btn btn--dark landing__link">Learn More</Link>
         </div>
       </div>
-      <section className="section bg-light">
-        <div className="content">
+
+
+
+      <section className="section bg-light">        
+        <div className="grid--two container center">        
+        <div className="section__content">
           <h2>Research</h2>
           <p>
             From rockets to algae biodiesel, Bergen Community college offers
@@ -34,23 +40,50 @@ export default () => {
           </Link>
         </div>
         <div className="section__media">
-          <img className="fluid" src={wave} alt="" />
+          <Img fluid={edges[1].node.childImageSharp.fluid} />
         </div>
+        </div>        
       </section>
-      <section className="section bg-med">
+
+      <section className="section bg-med">        
+        <div className="grid--two container center">  
         <div className="section__media">
-          <img className="fluid" src={wave} alt="" />
-        </div>
-        <div className="content center">
-          <h2>Running Start Program</h2>
+        <Img fluid={edges[2].node.childImageSharp.fluid} />
+        </div>      
+        <div className="section__content">
+          <h2>STEM Student Scholars (3SP)</h2>
           <p>
-          Prep Classes are designed to give students a better foundation to start the courses they will be taking in the upcoming semesters.
+          Promotes excellence in knowledge, skills and ability of a select group of STEM students to 
+          ensure their success in 
+          securing research internships and successful transfer to their targeted 4-year institution.
           </p>
           <Link className="btn" to="/">
-            Running Start Program
+            3SP
           </Link>
         </div>
+        
+        </div>        
       </section>
+  
     </div>
   )
 }
+
+
+export const query = graphql`
+{
+  allFile(filter: {relativePath:{regex:"/landing/"}}) {
+    edges {
+      node {
+        id
+        childImageSharp {
+          id
+          fluid {
+            ...GatsbyImageSharpFluid
+          }
+        }
+      }
+    }
+  }
+}
+`
