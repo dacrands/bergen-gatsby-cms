@@ -3,12 +3,15 @@ $primary-shaded: rgba(98, 66, 228, 0.863);
 $bg-light: rgba(228, 225, 240, 0.164);
 $bg-med: rgba(228, 225, 240, 0.288);
 
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,700');
+
 
 body {
   margin: 0;
   padding: 0;
   // outline: 1px solid red;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-family: 'Roboto', sans-serif;
   color: rgba(0, 0, 0, 0.8);
 }
 
@@ -28,7 +31,7 @@ body {
 }
 
 .container {
-  max-width: 1200px;
+  max-width: 1000px;
   margin: 0 auto;
 }
 
@@ -39,6 +42,13 @@ body {
 .fluid {
   max-width: 100%;
   height: auto;
+}
+
+.grid--two {
+  display: grid;
+  grid-template-columns: 1fr 50%;    
+  justify-content: center;
+  grid-gap: 50px;
 }
 
 
@@ -76,14 +86,13 @@ body {
 // =============
 //    NAVBAR
 // =============
-.navbar {
-  // outline: 1px solid red;
-  // position: fixed;  
-  // background: rgba(228, 225, 240, 0.445);
-  padding: 0.5rem;
-  overflow: auto;
-  display: grid;
-  grid-template-columns: 100px 1fr;
+.navbar {  
+  padding: 1em 0;  
+  a {
+    &:hover {
+      color: $primary;
+    }
+  }
 }
 
 .navbar__logo {
@@ -94,6 +103,7 @@ body {
   }
   a {
     text-decoration: none;
+    color: rgba(0,0,0,.6);
   }
 }
 
@@ -102,7 +112,7 @@ body {
   margin: 0;
   list-style: none;  
   display: flex;
-  justify-content: flex-end;
+  // justify-content: flex-end;
   padding: 0;
   li {
     margin-right: 1.5rem;    
@@ -113,6 +123,7 @@ body {
   text-decoration: none;
   text-transform: capitalize;
   font-size: 14px;  
+  color: rgba(0,0,0,.6);
 }
 
 
@@ -127,6 +138,8 @@ body {
   flex-direction: column;
   padding-top: 70px;
   padding-bottom: 100px;
+  // border-top: 1px solid #6242e429;
+  // border-bottom: 1px solid #6242e429;
   // justify-content: center;
   
 }
@@ -157,35 +170,45 @@ body {
 //   SECTION
 // ===========
 .section {
-  // outline: 1px solid red;
-  padding: 20px 0;
-  // text-align: center;
-  display: flex;
-  padding: 8rem 1em;
-  justify-content: center;
-  // align-items: center;
+  // outline: 1px solid red;  
+  border-top: 1px solid #6242e429;
+  padding: 80px 1em;  
   h2 {
     margin: 0;
     margin-bottom: 1rem;
     font-size: 36px;
     // font-weight: normal;
   }
-  p {            
-    font-size: 24px;
+  p {                
     margin: 0 auto;    
     margin-bottom: 1.75rem;    
+    line-height: 150%;
+    font-size: 18px;
     color: rgba(0, 0, 0, 0.516);
-  }
-  div {
-    margin: 0 4rem;
   }
 }
 
-.section__media {
-  margin-top: 5rem;
-  margin-bottom: 5rem;  
-  max-width: 600px;
+.section__content {
+
+}
+
+.section__media {  
   img {
     box-shadow: 0 0 2rem rgba(0,0,0,.1);
+  }
+}
+
+
+
+// ==========
+//   MEDIA
+// ==========
+@media(max-width:768px) {
+  .section .grid--two {
+    display: block;
+  }
+
+  .section__content {
+    margin-bottom: 2rem;
   }
 }
