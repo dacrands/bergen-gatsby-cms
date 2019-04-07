@@ -1,56 +1,56 @@
 import React from "react"
-import { graphql, Link } from 'gatsby'
-import Img from 'gatsby-image'
+import { Link } from "gatsby"
 
-import '../styles/main.scss'  
+import wave from "../../static/img/groundstation.jpg"
 
-export default ({ data }) => {
-  const edges = data.allMarkdownRemark.edges
-  console.log(edges)
+import Navbar from "../components/Navbar"
 
+import "../styles/main.scss"
+
+export default () => {
   return (
-    <div className="container">
-      <h1>CMS Template</h1>
-      <p>A very simple blog CMS built with <a href="https://gatsbyjs.org">Gatsby</a>.</p>
-      <p>To add a blog page <a href="/admin/#/">click here</a>.</p>
-      <ul class="list">
-        {
-          edges.map(edge => (
-            <li className="list__li">
-              <Link className="link link--primary link--img" to={edge.node.fields.slug}>
-                <Img fixed={edge.node.frontmatter.image.childImageSharp.fixed}/>
-                <div className="link__text">{edge.node.frontmatter.title}</div>
-              </Link>              
-            </li>
-          ))
-        }
-      </ul>
+    <div>
+      <Navbar />
+      <div className="landing">
+        <div className="landing__title">
+          <h1>Bergen STEM</h1>
+          <p>
+            Science, Technology, Engineering, Mathematics at Bergen Community
+            College
+          </p>
+          <Link className="btn landing__link">Join STEM</Link>
+          <Link className="btn btn--dark landing__link">Learn More</Link>
+        </div>
+      </div>
+      <section className="section bg-light">
+        <div className="content">
+          <h2>Research</h2>
+          <p>
+            From rockets to algae biodiesel, Bergen Community college offers
+            STEM students a wide variety of research opportunities.
+          </p>
+          <Link className="btn" to="/">
+            Student Projects
+          </Link>
+        </div>
+        <div className="section__media">
+          <img className="fluid" src={wave} alt="" />
+        </div>
+      </section>
+      <section className="section bg-med">
+        <div className="section__media">
+          <img className="fluid" src={wave} alt="" />
+        </div>
+        <div className="content center">
+          <h2>Running Start Program</h2>
+          <p>
+          Prep Classes are designed to give students a better foundation to start the courses they will be taking in the upcoming semesters.
+          </p>
+          <Link className="btn" to="/">
+            Running Start Program
+          </Link>
+        </div>
+      </section>
     </div>
   )
 }
-
-
-export const query = graphql`
-{
-  allMarkdownRemark {
-    edges {
-      node {
-        id
-        fields {
-          slug
-        }
-        frontmatter {
-          title
-          image {
-            childImageSharp {
-              fixed(width: 180, height: 135) {
-                ...GatsbyImageSharpFixed
-              }
-            }
-          }
-        }
-      }
-    }
-  }
-}
-`

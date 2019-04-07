@@ -17,7 +17,7 @@ const LINKS = [
 ]
 
 export default () => (
-  <nav className="navbar">
+  <nav className="navbar container">
     <div className="navbar__logo">
       <Link to="/"><h3>STEM</h3></Link>
     </div>
