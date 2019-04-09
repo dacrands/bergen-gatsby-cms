@@ -1,7 +1,7 @@
 ---
 templateKey: projectTemplate
 title: Anthropomorphic Robotic Arm
-image: /img/mass-spec.jpg
+image: /img/robot-arm.jpg
 abstract: Coming soon...
 ---
 
