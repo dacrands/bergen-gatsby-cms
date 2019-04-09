@@ -1,18 +1,15 @@
 import React from "react"
 import { graphql, Link } from "gatsby"
-import Img from 'gatsby-image'
+import Img from "gatsby-image"
 
-
-import Navbar from "../components/Navbar"
+import Layout from "../components/Layout"
 
 import "../styles/main.scss"
 
 export default ({ data }) => {
-  console.log(data.allFile.edges[0])
   const edges = data.allFile.edges
   return (
-    <div>
-      <Navbar />
+    <Layout>
       <div className="landing">
         <div className="landing__title">
           <h1>Bergen STEM</h1>
@@ -25,65 +22,61 @@ export default ({ data }) => {
         </div>
       </div>
 
-
-
-      <section className="section bg-light">        
-        <div className="grid--two container center">        
-        <div className="section__content">
-          <h2>Research</h2>
-          <p>
-            From rockets to algae biodiesel, Bergen Community college offers
-            STEM students a wide variety of research opportunities.
-          </p>
-          <Link className="btn" to="/">
-            Student Projects
-          </Link>
+      <section className="section bg-light">
+        <div className="grid--two container center">
+          <div className="section__content">
+            <h2>Research</h2>
+            <p>
+              From rockets to algae biodiesel, Bergen Community college offers
+              STEM students a wide variety of research opportunities.
+            </p>
+            <Link className="btn" to="/">
+              Student Projects
+            </Link>
+          </div>
+          <div className="section__media">
+            <Img fluid={edges[1].node.childImageSharp.fluid} />
+          </div>
         </div>
-        <div className="section__media">
-          <Img fluid={edges[1].node.childImageSharp.fluid} />
-        </div>
-        </div>        
       </section>
 
-      <section className="section bg-med">        
-        <div className="grid--two container center">  
-        <div className="section__media">
-        <Img fluid={edges[2].node.childImageSharp.fluid} />
-        </div>      
-        <div className="section__content">
-          <h2>STEM Student Scholars (3SP)</h2>
-          <p>
-          Promotes excellence in knowledge, skills and ability of a select group of STEM students to 
-          ensure their success in 
-          securing research internships and successful transfer to their targeted 4-year institution.
-          </p>
-          <Link className="btn" to="/">
-            3SP
-          </Link>
+      <section className="section bg-med">
+        <div className="grid--two container center">
+          <div className="section__content">
+            <h2>STEM Student Scholars (3SP)</h2>
+            <p>
+              Promotes excellence in knowledge, skills and ability of a select
+              group of STEM students to ensure their success in securing
+              research internships and successful transfer to their targeted
+              4-year institution.
+            </p>
+            <Link className="btn" to="/">
+              3SP
+            </Link>
+          </div>
+          <div className="section__media">
+            <Img fluid={edges[2].node.childImageSharp.fluid} />
+          </div>
         </div>
-        
-        </div>        
       </section>
-  
-    </div>
+    </Layout>
   )
 }
 
-
 export const query = graphql`
-{
-  allFile(filter: {relativePath:{regex:"/landing/"}}) {
-    edges {
-      node {
-        id
-        childImageSharp {
+  {
+    allFile(filter: { relativePath: { regex: "/landing/" } }) {
+      edges {
+        node {
           id
-          fluid {
-            ...GatsbyImageSharpFluid
+          childImageSharp {
+            id
+            fluid {
+              ...GatsbyImageSharpFluid
+            }
           }
         }
       }
     }
   }
-}
 `
