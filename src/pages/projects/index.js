@@ -1,22 +1,22 @@
 import React from "react"
 import { graphql, Link } from "gatsby"
 import Layout from "../../components/Layout"
-
+import Img from 'gatsby-image'
 
 export default ({ data }) => {
   const edges = data.allMarkdownRemark.edges
-  console.log(edges)
   return (
       <Layout>
         <div className="container">
           <header className="header">
             <h1>Student Projects</h1>
           </header>
-          <main>
+          <main className="grid--wrap">
             {
               edges.map(edge => (
-                <Link to={edge.node.fields.slug}>
-                  {edge.node.frontmatter.title}
+                <Link className="info-link" to={edge.node.fields.slug}>
+                  <h4>{edge.node.frontmatter.title}</h4>
+                  <Img fluid={edge.node.frontmatter.image.childImageSharp.fluid}/>
                 </Link>
               ))
             }
@@ -39,6 +39,14 @@ export const query = graphql`
           title
           templateKey          
           abstract
+          image{
+            childImageSharp {
+              fluid(maxWidth: 350, quality: 100) {
+                ...GatsbyImageSharpFluid
+                presentationWidth
+              }
+            }
+          }
         }
       }
     }
