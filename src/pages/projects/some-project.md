@@ -1,7 +1,7 @@
 ---
 templateKey: projectTemplate
-title: SOme Project
-image: /img/flask-smart-secure.jpg
-abstract: pASDAASDFASDF
+title: The Rocket at BCC
+image: /img/rocket.png
+abstract: coming soon...
 ---
 
