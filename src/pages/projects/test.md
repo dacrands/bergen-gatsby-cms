@@ -1,7 +1,7 @@
 ---
 templateKey: projectTemplate
 title: TEst
-image: /img/rocket.png
+image: /img/circumin.jpg
 abstract: Coming soon...
 ---
 
