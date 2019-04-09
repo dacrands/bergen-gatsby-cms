@@ -1,6 +1,6 @@
 ---
 templateKey: projectTemplate
-title: The Rocket at BCC
+title: Compost Project
 image: /img/rocket.png
 abstract: coming soon...
 ---
