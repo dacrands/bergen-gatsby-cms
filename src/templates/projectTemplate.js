@@ -14,7 +14,7 @@ export default function ProjectTemplate({
       <div className="blog-post">
         <Img fluid={frontmatter.image.childImageSharp.fluid}/>
         <h1>{frontmatter.title}</h1>
-        
+        <p>{frontmatter.abstract}</p>
         
       </div>
     </div>
@@ -26,7 +26,8 @@ export const query = graphql`
     markdownRemark(fields: { slug: { eq: $slug } }) {
       frontmatter {
         title
-        image{
+        abstract
+        image {
           childImageSharp {
             fluid(maxWidth: 2500, quality: 100) {
               ...GatsbyImageSharpFluid
