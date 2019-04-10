@@ -11,9 +11,9 @@ export default () => (
         <p>
           There is no information at <code>{document.location.pathname.replace(/^\/([^\/]*).*$/, '$1')}</code>          
         </p>
-        <p>
+        {/* <p>
           To fix this error, please shut-down your computer for 75 minutes.
-        </p>
+        </p> */}
       </header>
     </div>
   </Layout>
