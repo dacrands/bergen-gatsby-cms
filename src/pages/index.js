@@ -11,7 +11,7 @@ export default ({ data }) => {
       <div className="landing">
         <div className="landing__title">
           <h1>Bergen STEM</h1>
-          <p>
+          <p className="content">
             Science, Technology, Engineering, Mathematics at Bergen Community
             College
           </p>
@@ -28,12 +28,12 @@ export default ({ data }) => {
               From rockets to algae biodiesel, Bergen Community college offers
               STEM students a wide variety of research opportunities.
             </p>
-            <Link className="btn" to="/">
+            <Link className="btn" to="/projects">
               Student Projects
             </Link>
           </div>
           <div className="section__media">
-            <Img fluid={edges[0].node.childImageSharp.fluid} />
+            <Img fluid={edges[3].node.childImageSharp.fluid} />
           </div>
         </div>
       </section>
@@ -53,7 +53,29 @@ export default ({ data }) => {
             </Link>
           </div>
           <div className="section__media">
-            <Img fluid={edges[2].node.childImageSharp.fluid} />
+            <Img fluid={edges[0].node.childImageSharp.fluid} />
+          </div>
+        </div>
+      </section>
+
+
+
+      <section className="section bg-light">
+        <div className="grid--two container center">
+          <div className="section__content">
+            <h2>STEM Student Scholars (3SP)</h2>
+            <p>
+              Promotes excellence in knowledge, skills and ability of a select
+              group of STEM students to ensure their success in securing
+              research internships and successful transfer to their targeted
+              4-year institution.
+            </p>
+            <Link className="btn" to="/">
+              3SP
+            </Link>
+          </div>
+          <div className="section__media">
+            <Img fluid={edges[0].node.childImageSharp.fluid} />
           </div>
         </div>
       </section>
