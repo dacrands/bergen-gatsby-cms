@@ -5,7 +5,7 @@ import Layout from '../components/Layout'
 export default () => {    
   return  (
     <Layout>
-      <div className="container">
+      <div style={{paddingBottom: "50vh"}} className="container">
         <header className="header">
           <h1>
             You Got Lost!
