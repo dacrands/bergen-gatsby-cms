@@ -15,11 +15,11 @@ export default function ProjectTemplate({
     <div>
       <div className="blog-post">
         <div className="bg-dark">
-          <div className="container"> 
+          <div className="container container--small"> 
             <Img fluid={frontmatter.image.childImageSharp.fluid}/>
           </div>          
         </div>        
-        <div className="container">
+        <div className="container container--small">
           <header className="header">
             <h1>{frontmatter.title}</h1>
           </header>          
