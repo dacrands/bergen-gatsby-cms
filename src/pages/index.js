@@ -23,6 +23,9 @@ export default ({ data }) => {
 
       <section className="section bg-light">
         <div className="grid--two container center">
+          <div className="section__media">
+            <Img fluid={edges[3].node.childImageSharp.fluid} />
+          </div>
           <div className="section__content">
             <h2>Research</h2>
             <p>
@@ -32,9 +35,6 @@ export default ({ data }) => {
             <Link className="btn" to="/projects">
               Student Projects
             </Link>
-          </div>
-          <div className="section__media">
-            <Img fluid={edges[3].node.childImageSharp.fluid} />
           </div>
         </div>
       </section>
@@ -61,6 +61,9 @@ export default ({ data }) => {
 
       <section className="section bg-light">
         <div className="grid--two container center">
+          <div className="section__media">
+            <Img fluid={edges[2].node.childImageSharp.fluid} />
+          </div>
           <div className="section__content">
             <h2>Running Start Program</h2>
             <p>
@@ -75,9 +78,6 @@ export default ({ data }) => {
             <Link className="btn" to="/">
               Running Start Program
             </Link>
-          </div>
-          <div className="section__media">
-            <Img fluid={edges[2].node.childImageSharp.fluid} />
           </div>
         </div>
       </section>

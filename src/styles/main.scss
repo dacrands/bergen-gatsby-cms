@@ -80,6 +80,7 @@ code {
 .grid--two {
   display: grid;
   grid-template-columns: 1fr 50%;    
+  grid-template-columns: 2 / 1fr;    
   justify-content: center;
   grid-gap: 50px;
 }
@@ -384,10 +385,16 @@ code {
 @media(max-width:768px) {
 
   .section .grid--two {
-    display: block;
+    display: flex;
+    flex-direction: column;
   }
 
   .section__content {
+    order: 1;
+  }  
+
+  .section__content,
+  .section__media {
     margin-bottom: 2rem;
   }
 }
