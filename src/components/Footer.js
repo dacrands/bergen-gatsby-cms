@@ -1,4 +1,5 @@
 import React from 'react'
+import { Link } from 'gatsby'
 
 export default () => (
   <footer className="footer">
@@ -24,7 +25,7 @@ export default () => (
       <ul>
         <li><a href="http://" target="_blank" rel="noopener noreferrer">bergen.edu</a></li>
         <li><a href="http://" target="_blank" rel="noopener noreferrer">Running Start Program</a></li>
-        {/* <li><a href="http://" target="_blank" rel="noopener noreferrer">Instagram</a></li> */}
+        <li><Link to="/admin/#/">Admin</Link></li>
       </ul>
     </section>
     

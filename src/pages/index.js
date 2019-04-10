@@ -17,7 +17,7 @@ export default ({ data }) => {
             College
           </p>
           <Link className="btn landing__link">Join STEM</Link>
-          <Link className="btn btn--dark landing__link">Learn More</Link>
+          <Link to="/about" className="btn btn--dark landing__link">Learn More</Link>
         </div>
       </div>
 
