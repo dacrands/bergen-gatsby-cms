@@ -1,7 +1,8 @@
-
 import React from 'react';
 import { graphql } from 'gatsby'
 import Img from 'gatsby-image'
+
+import Layout from '../components/Layout'
 
 
 export default function ProjectTemplate({
@@ -10,14 +11,23 @@ export default function ProjectTemplate({
   const { markdownRemark } = data;
   const { frontmatter, html } = markdownRemark;
   return (
-    <div className="container">
+    <Layout>
+    <div>
       <div className="blog-post">
-        <Img fluid={frontmatter.image.childImageSharp.fluid}/>
-        <h1>{frontmatter.title}</h1>
-        <p>{frontmatter.abstract}</p>
-        
+        <div className="bg-dark">
+          <div className="container"> 
+            <Img fluid={frontmatter.image.childImageSharp.fluid}/>
+          </div>          
+        </div>        
+        <div className="container">
+          <header className="header">
+            <h1>{frontmatter.title}</h1>
+          </header>          
+          <p>{frontmatter.abstract}</p>        
+        </div>        
       </div>
     </div>
+    </Layout>
   );
 }
 
