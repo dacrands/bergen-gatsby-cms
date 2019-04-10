@@ -154,13 +154,18 @@ code {
 // =============
 .footer {
   background: $primary-dark;
-  color: $font-light;  
+  color: $font-med;  
 }
 
 .footer__item {
   flex: 1;
-  padding: 2em 1em;
-  text-align: center;
+  padding: 1em 0;
+  margin-right: 40px;
+  h4 {
+    margin-bottom: 0.5rem;
+    text-transform: uppercase;    
+  }
+  // text-align: center;
   ul {
     margin: 0;
     padding: 0;
@@ -314,6 +319,7 @@ code {
 //   MEDIA
 // ==========
 @media(max-width:768px) {
+
   .section .grid--two {
     display: block;
   }

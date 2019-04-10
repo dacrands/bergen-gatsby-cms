@@ -4,7 +4,7 @@ export default () => (
   <footer className="footer">
     <small className="container flex--wrap">
     <section className="footer__item">
-      <h3>Location</h3>
+      <h4>Location</h4>
       <address>
         Room S-315<br/>      
         400 Paramus Road<br/>      
@@ -12,7 +12,7 @@ export default () => (
       </address>
     </section>
     <section className="footer__item">
-      <h3>Social Media</h3>
+      <h4>Social Media</h4>
       <ul>
         <li><a href="http://" target="_blank" rel="noopener noreferrer">Facebook</a></li>
         <li><a href="http://" target="_blank" rel="noopener noreferrer">Twitter</a></li>
@@ -20,7 +20,7 @@ export default () => (
       </ul>
     </section>
     <section className="footer__item">
-      <h3>Resources</h3>
+      <h4>Resources</h4>
       <ul>
         <li><a href="http://" target="_blank" rel="noopener noreferrer">bergen.edu</a></li>
         <li><a href="http://" target="_blank" rel="noopener noreferrer">Running Start Program</a></li>
