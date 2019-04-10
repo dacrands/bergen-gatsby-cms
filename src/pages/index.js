@@ -58,24 +58,25 @@ export default ({ data }) => {
         </div>
       </section>
 
-
-
       <section className="section bg-light">
         <div className="grid--two container center">
           <div className="section__content">
-            <h2>STEM Student Scholars (3SP)</h2>
+            <h2>Running Start Program</h2>
             <p>
-              Promotes excellence in knowledge, skills and ability of a select
-              group of STEM students to ensure their success in securing
-              research internships and successful transfer to their targeted
-              4-year institution.
+              Prep Classes are designed to give students a better foundation to
+              start the courses they will be taking in the upcoming semesters.
+            </p>
+            <p>
+              Eligible students have the option of taking the respective
+              proficiency exam after completing the boot camp and possibly test
+              out of the course.
             </p>
             <Link className="btn" to="/">
-              3SP
+              Running Start Program
             </Link>
           </div>
           <div className="section__media">
-            <Img fluid={edges[0].node.childImageSharp.fluid} />
+            <Img fluid={edges[2].node.childImageSharp.fluid} />
           </div>
         </div>
       </section>
