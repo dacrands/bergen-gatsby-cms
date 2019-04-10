@@ -33,7 +33,7 @@ export default ({ data }) => {
             </Link>
           </div>
           <div className="section__media">
-            <Img fluid={edges[1].node.childImageSharp.fluid} />
+            <Img fluid={edges[0].node.childImageSharp.fluid} />
           </div>
         </div>
       </section>
