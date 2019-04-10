@@ -4,8 +4,6 @@ import Img from "gatsby-image"
 
 import Layout from "../components/Layout"
 
-import "../styles/main.scss"
-
 export default ({ data }) => {
   const edges = data.allFile.edges
   return (
