@@ -1,5 +1,9 @@
 $black: rgba(0,0,0,0.8);
+$font-med: rgba(192, 167, 212, 0.8);
+$font-light: rgba(231, 223, 236, 0.8);
 $primary: rgb(98, 66, 228);
+$primary-dark: rgb(47, 38, 83);
+$primary-very-dark: rgb(29, 24, 46);
 $primary-shaded: rgba(98, 66, 228, 0.863);
 $bg-light: rgba(228, 225, 240, 0.164);
 $bg-med: rgba(228, 225, 240, 0.288);
@@ -42,6 +46,13 @@ code {
   margin: 0 auto;
 }
 
+.citation {  
+  padding: 0.5rem 0;
+  background: $primary-very-dark;
+  color: $font-med;
+  text-align: center;
+}
+
 .container {
   max-width: 1000px;
   margin: 0 auto;
@@ -54,6 +65,11 @@ code {
 
 .content {
   max-width: 600px;
+}
+
+.flex--wrap {
+  display: flex;
+  flex-flow: wrap;    
 }
 
 .fluid {
@@ -73,6 +89,7 @@ code {
   grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
   grid-gap: 20px;
 }
+
 
 
 // =============
@@ -127,6 +144,35 @@ code {
     img  {
       transition: all 400ms ease !important;
       filter: grayscale(80%);      
+    }
+  }
+}
+
+
+// =============
+//    FOOTER
+// =============
+.footer {
+  background: $primary-dark;
+  color: $font-light;  
+}
+
+.footer__item {
+  flex: 1;
+  padding: 2em 1em;
+  text-align: center;
+  ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+  a {
+    display: inline-block;
+    margin-bottom: .25rem;
+    text-decoration: none;
+    color: $font-med;    
+    &:hover {
+      color: $font-light;
     }
   }
 }
