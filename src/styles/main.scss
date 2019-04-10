@@ -17,6 +17,13 @@ body {
   color: rgba(0, 0, 0, 0.8);
 }
 
+code {
+  background: $primary;
+  color: white;
+  padding: 0.2em;
+  border-radius: 2px;
+}
+
 // =============
 //    HELPER
 // =============
