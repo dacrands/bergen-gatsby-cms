@@ -391,3 +391,11 @@ code {
     margin-bottom: 2rem;
   }
 }
+
+@media(max-width: 498px) {
+  .landing__title {
+    p {
+      font-size: 18px;
+    }
+  }
+}
