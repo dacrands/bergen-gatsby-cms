@@ -3,6 +3,7 @@ import { graphql, Link } from "gatsby"
 import Img from "gatsby-image"
 
 import Layout from "../components/Layout"
+import Video from "../components/Video"
 
 export default ({ data }) => {
   const edges = data.allFile.edges
@@ -77,6 +78,20 @@ export default ({ data }) => {
           </div>
           <div className="section__media">
             <Img fluid={edges[2].node.childImageSharp.fluid} />
+          </div>
+        </div>
+      </section>
+
+      <section className="section section--dark bg-dark">
+        <div className="grid--two container center">
+          <div className="section__content">
+            <h2>Students Talking STEM</h2>
+            <p>
+            Listen to BCC students discuss their experiences in the STEM program.
+            </p>
+          </div>
+          <div className="section__media">
+              <Video />
           </div>
         </div>
       </section>
