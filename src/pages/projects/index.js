@@ -7,7 +7,7 @@ export default ({ data }) => {
   const edges = data.allMarkdownRemark.edges
   return (
       <Layout>
-        <div className="container">
+        <div style={{ paddingBottom: "50px" }}  className="container">
           <header className="header">
             <h1>Student Projects</h1>
           </header>
