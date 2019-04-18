@@ -19,7 +19,7 @@ export default () => (
                   abstract
                   image{
                     childImageSharp {
-                      fixed(width: 180, quality: 100) {
+                      fixed(height: 120, quality: 100) {
                         ...GatsbyImageSharpFixed       
                       }
                     }
@@ -41,7 +41,9 @@ export default () => (
                 edges.map(edge => (
                   <li key={edge.node.id} >
                     <Link to={edge.node.fields.slug} className="aside__link" activeClassName="aside__link--active">
-                      <p>{edge.node.frontmatter.title}</p>
+                      <div className="aside__link--overlay flex--center">
+                        <p className="aside__link-p">{edge.node.frontmatter.title}</p>
+                      </div>
                       <Img fixed={edge.node.frontmatter.image.childImageSharp.fixed}/>
                     </Link>
                   </li>
