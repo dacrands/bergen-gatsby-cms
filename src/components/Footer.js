@@ -3,7 +3,7 @@ import { Link } from 'gatsby'
 
 export default () => (
   <footer className="footer">
-    <small className="container flex--wrap">
+    <div className="container">
     <section className="footer__item">
       <h4>Location</h4>
       <address>
@@ -25,16 +25,17 @@ export default () => (
       <ul>
         <li><a href="http://" target="_blank" rel="noopener noreferrer">bergen.edu</a></li>
         <li><a href="http://" target="_blank" rel="noopener noreferrer">Running Start Program</a></li>
-        <li><Link to="/admin/#/">Admin</Link></li>
+        <li><a href={`${document.location.host}/admin/`} target="_blank" rel="noopener noreferrer">admin</a></li>
+        
       </ul>
     </section>
     
-    </small>
+    </div>
     
     <div className="citation">    
-      <small>
+      <div>
         David Crandall, {new Date().getFullYear()}    
-      </small>                    
+      </div>                    
     </div>
     
   </footer>
