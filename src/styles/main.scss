@@ -200,6 +200,18 @@ code {
   }
 }
 
+.footer--three {
+  .footer__item {
+    // outline: 1px solid red;
+    &:nth-of-type(2) {
+      text-align: center;
+    }
+    &:last-of-type {      
+      text-align: right;
+    }
+  }
+}
+
 // =============
 //    NAVBAR
 // =============
