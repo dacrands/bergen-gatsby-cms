@@ -85,8 +85,12 @@ code {
   display: grid;
   grid-template-columns: 1fr 50%;    
   grid-template-columns: 2 / 1fr;    
-  justify-content: center;
   grid-gap: 50px;
+}
+
+.center {
+  justify-content: center;
+  align-items: center;
 }
 
 .grid--wrap{
@@ -391,6 +395,8 @@ code {
 
 
 
+
+
 // ==========
 //   MEDIA
 // ==========
@@ -399,6 +405,11 @@ code {
   .section .grid--two {
     display: flex;
     flex-direction: column;
+  }
+
+  .section .center {
+    justify-content: initial;
+    align-items: initial;
   }
 
   .section__content {
