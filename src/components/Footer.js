@@ -25,8 +25,7 @@ export default () => (
       <ul>
         <li><a href="http://" target="_blank" rel="noopener noreferrer">bergen.edu</a></li>
         <li><a href="http://" target="_blank" rel="noopener noreferrer">Running Start Program</a></li>
-        <li><a href={`${document.location.host}/admin/`} target="_blank" rel="noopener noreferrer">admin</a></li>
-        
+        {/* <li><a href={`${document.location.host}/admin/`} target="_blank" rel="noopener noreferrer">admin</a></li>         */}
       </ul>
     </section>
     
