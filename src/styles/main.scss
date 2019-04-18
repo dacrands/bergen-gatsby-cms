@@ -160,11 +160,14 @@ code {
   background: $primary-dark;
   color: $font-med;  
   font-size: 75%;
-  text-align: center;
+  
   // padding-top: 40px;  
   .container {
-    padding-top: 20px;
-    padding-bottom: 20px;
+    display: flex;
+    justify-content: space-around;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    flex-flow: wrap;
   }
 }
 
@@ -348,9 +351,11 @@ code {
 // ===========
 .section {
   // outline: 1px solid red;  
-  border-top: 1px solid #6242e429;
   padding: 80px 1em;  
-  p {                
+}
+
+.section__content {
+  P {
     margin: 0 auto;    
     margin-bottom: 1.75rem;    
     line-height: 150%;
@@ -359,6 +364,9 @@ code {
   }
 }
 
+.section--border {
+  border-top: 1px solid #6242e429;
+}
 
 .section__media {  
   //---------------------------------
