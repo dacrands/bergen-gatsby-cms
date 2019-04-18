@@ -24,12 +24,14 @@ export default () => (
         <h1>STEM at BCC</h1>
         <p></p>
       </header>
-      <main style={{ paddingBottom: "20vh" }} className="grid--two">
+      <main style={{ paddingBottom: "20vh" }} className="flex--wrap">
         {
           content.map(text => (
-            <section>
-              <h3>{text.h3}</h3>
-              <p>{text.p}</p>
+          <section  className="">
+              <div className="section__content">
+                <h3>{text.h3}</h3>
+                <p className="">{text.p}</p>
+              </div>
             </section>
           ))
         }
