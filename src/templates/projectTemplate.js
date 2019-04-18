@@ -3,6 +3,7 @@ import { graphql } from 'gatsby'
 import Img from 'gatsby-image'
 
 import Layout from '../components/Layout'
+import ProjectAside from "../components/ProjectsAside"
 
 
 export default function ProjectTemplate({
@@ -12,21 +13,24 @@ export default function ProjectTemplate({
   const { frontmatter, html } = markdownRemark;
   return (
     <Layout>
-    <div>
-      <div className="blog-post">
-        <div className="bg-dark">
-          <div className="container container--small"> 
-            <Img fluid={frontmatter.image.childImageSharp.fluid}/>
-          </div>          
-        </div>        
-        <div className="container container--small">
-          <header className="header">
-            <h1>{frontmatter.title}</h1>
-          </header>          
-          <p>{frontmatter.abstract}</p>        
-        </div>        
+      <div>
+            <ProjectAside />
+        <div className="blog-post">
+          <div className="bg-dark">
+            <div className="container container--small">
+              <Img fluid={frontmatter.image.childImageSharp.fluid} />
+            </div>
+          </div>
+          
+
+            <div className="container container--small">
+              <header className="header">
+                <h1>{frontmatter.title}</h1>
+              </header>
+              <p>{frontmatter.abstract}</p>
+            </div>
+          </div>        
       </div>
-    </div>
     </Layout>
   );
 }

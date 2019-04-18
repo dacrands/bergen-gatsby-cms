@@ -2,11 +2,15 @@ $black: rgba(0,0,0,0.8);
 $font-med: rgba(192, 167, 212, 0.8);
 $font-light: rgba(231, 223, 236, 0.8);
 $primary: rgb(98, 66, 228);
+$primary-shadow: rgba(98, 66, 228, 0.267);
 $primary-dark: rgb(47, 38, 83);
 $primary-very-dark: rgb(29, 24, 46);
 $primary-shaded: rgba(98, 66, 228, 0.863);
 $bg-light: rgba(228, 225, 240, 0.164);
 $bg-med: rgba(228, 225, 240, 0.288);
+
+$shadow: 0 16px 16px rgba(103,110,144,.05), 0 8px 8px rgba(103,110,144,.05), 0 4px 4px rgba(103,110,144,.05), 0 2px 2px rgba(103,110,144,.05);
+$shadow-hover: 0 8px 8px $primary-shadow;
 
 
 @import url('https://fonts.googleapis.com/css?family=Roboto:400,700');
@@ -93,6 +97,11 @@ code {
   align-items: center;
 }
 
+.grid--aside {
+  display: grid;
+  grid-template-columns: 400px 1fr;
+}
+
 .grid--wrap{
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
@@ -103,6 +112,46 @@ code {
 // =============
 //    ELEMENTS
 // =============
+.aside {  
+  background: $bg-med;
+  overflow: hidden;
+}
+
+
+.aside__nav-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  align-items: flex-end;
+  overflow-x: scroll;  
+  .aside__link {
+    box-shadow: $shadow;
+    text-decoration: none;
+    display: inline-block;
+    background: white;
+    margin: 1rem;
+    padding: 0.25rem;
+    justify-content: center;
+    text-align: center;
+    width: 220px;
+    // white-space: nowrap;
+    transition: all 200ms ease;
+    &:hover {
+      transform: translateY(-3px);   
+      box-shadow: $shadow-hover;
+    }
+  }
+  .aside__link--active {
+    background: $bg-light;
+    box-shadow: $shadow-hover;
+  }
+  
+}
+
+
+
+
 .btn {
   background: $primary;
   color: white;
