@@ -159,6 +159,13 @@ code {
 .footer {
   background: $primary-dark;
   color: $font-med;  
+  font-size: 75%;
+  text-align: center;
+  // padding-top: 40px;  
+  .container {
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
 }
 
 .footer__item {
@@ -169,7 +176,6 @@ code {
     margin-bottom: 0.5rem;
     text-transform: uppercase;    
   }
-  // text-align: center;
   ul {
     margin: 0;
     padding: 0;
@@ -180,6 +186,7 @@ code {
     margin-bottom: .25rem;
     text-decoration: none;
     color: $font-med;    
+    transition: all 200ms ease;
     &:hover {
       color: $font-light;
     }
