@@ -25,3 +25,4 @@ collections:
       - { name: title, label: Project}
       - { label: Image, name: image, widget: image }
       - { label: Abstract, name: abstract, widget: string}
+      - { label: Body, name: body, widget: markdown } 
