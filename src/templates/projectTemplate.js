@@ -26,8 +26,11 @@ export default function ProjectTemplate({
             <div className="container container--small">
               <header className="header">
                 <h1>{frontmatter.title}</h1>
-              </header>
-              <p>{frontmatter.abstract}</p>
+              </header>              
+              <div
+                className="blog-post-content"
+                dangerouslySetInnerHTML={{ __html: html }}
+              />
             </div>
           </div>        
       </div>
@@ -50,6 +53,7 @@ export const query = graphql`
           }
         }
       }
+      html
     }
   }
 `
