@@ -1,41 +1,37 @@
-import React from 'react';
-import { graphql } from 'gatsby'
-import Img from 'gatsby-image'
+import React from "react"
+import { graphql } from "gatsby"
+import Img from "gatsby-image"
 
-import Layout from '../components/Layout'
+import Layout from "../components/Layout"
+import Navbar from "../components/Navbar"
 import ProjectAside from "../components/ProjectsAside"
 
-
-export default function ProjectTemplate({
-  data,
-}) {
-  const { markdownRemark } = data;
-  const { frontmatter, html } = markdownRemark;
+export default function ProjectTemplate({ data }) {
+  const { markdownRemark } = data
+  const { frontmatter, html } = markdownRemark
   return (
-    <Layout>
-      <div>
-            <ProjectAside />
-        <div className="blog-post">
-          <div className="bg-dark">
-            <div className="container container--small">
-              <Img fluid={frontmatter.image.childImageSharp.fluid} />
-            </div>
+    <>
+      <Navbar fixed={true} />
+      <ProjectAside />
+      <div className="post">
+        <div className="bg-dark">
+          <div className="container container--small post__hero">
+            <Img fluid={frontmatter.image.childImageSharp.fluid} />
           </div>
-          
+        </div>
 
-            <div className="container container--small">
-              <header className="header">
-                <h1>{frontmatter.title}</h1>
-              </header>              
-              <div
-                className="blog-post-content"
-                dangerouslySetInnerHTML={{ __html: html }}
-              />
-            </div>
-          </div>        
+        <div className="container container--small">
+          <header className="header">
+            <h1>{frontmatter.title}</h1>
+          </header>
+          <div
+            className="post__content"
+            dangerouslySetInnerHTML={{ __html: html }}
+          />
+        </div>
       </div>
-    </Layout>
-  );
+    </>
+  )
 }
 
 export const query = graphql`

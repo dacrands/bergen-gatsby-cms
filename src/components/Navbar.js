@@ -24,21 +24,23 @@ const LINKS = [
   },
 ]
 
-export default () => (
-  <nav className="navbar container">
-    <ul className="navbar__list">
-      {LINKS.map(link => (
-        <li>
-          <Link
-            activeStyle={{ color: "rgb(98, 66, 228)" }}
-            className="navbar__list-link"
-            partiallyActive={link.partiallyActive}
-            to={link.slug}
-          >
-            {link.name}
-          </Link>
-        </li>
-      ))}
-    </ul>
+export default props => (
+  <nav className={props.fixed ? "navbar navbar--fixed" : "navbar"}>
+    <div className="container">
+      <ul className="navbar__list">
+        {LINKS.map(link => (
+          <li>
+            <Link
+              activeStyle={{ color: "rgb(98, 66, 228)" }}
+              className="navbar__list-link"
+              partiallyActive={link.partiallyActive}
+              to={link.slug}
+            >
+              {link.name}
+            </Link>
+          </li>
+        ))}
+      </ul>
+    </div>
   </nav>
 )
