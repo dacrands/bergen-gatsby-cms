@@ -1,17 +1,16 @@
-import React from 'react'
+import React from "react"
 import { globalHistory } from "@reach/router"
-import Layout from '../components/Layout'
+import Layout from "../components/Layout"
 
-export default () => {    
-  return  (
+export default () => {
+  return (
     <Layout>
-      <div style={{paddingBottom: "50vh"}} className="container">
+      <div style={{ paddingBottom: "50vh" }} className="container">
         <header className="header">
-          <h1>
-            You Got Lost!
-          </h1>
+          <h1>You Got Lost!</h1>
           <p>
-            There is no information at <code>{globalHistory.location.pathname}</code>          
+            There is no information at{" "}
+            <code>{globalHistory.location.pathname}</code>
           </p>
           {/* <p>
             To fix this error, please shut-down your computer for 75 minutes.
@@ -20,4 +19,4 @@ export default () => {
       </div>
     </Layout>
   )
-};
+}

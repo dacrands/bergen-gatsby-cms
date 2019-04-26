@@ -1,17 +1,14 @@
+import React from "react"
+import { graphql } from "gatsby"
+import Img from "gatsby-image"
 
-import React from 'react'
-import { graphql } from 'gatsby'
-import Img from 'gatsby-image'
-
-export default function BlogTemplate({
-  data,
-}) {
-  const { markdownRemark } = data;
-  const { frontmatter, html } = markdownRemark;
+export default function BlogTemplate({ data }) {
+  const { markdownRemark } = data
+  const { frontmatter, html } = markdownRemark
   return (
     <div className="container">
       <div className="blog-post">
-        <Img fluid={frontmatter.image.childImageSharp.fluid}/>
+        <Img fluid={frontmatter.image.childImageSharp.fluid} />
         <h1>{frontmatter.title}</h1>
         <h2>{frontmatter.date}</h2>
         <div
@@ -20,7 +17,7 @@ export default function BlogTemplate({
         />
       </div>
     </div>
-  );
+  )
 }
 
 export const query = graphql`
@@ -29,7 +26,7 @@ export const query = graphql`
       html
       frontmatter {
         title
-        image{
+        image {
           childImageSharp {
             fluid(maxWidth: 2500, quality: 100) {
               ...GatsbyImageSharpFluid
