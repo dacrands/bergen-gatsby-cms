@@ -2,7 +2,6 @@ import React from "react"
 import { graphql } from "gatsby"
 import Img from "gatsby-image"
 
-import Layout from "../components/Layout"
 import Navbar from "../components/Navbar"
 import ProjectAside from "../components/ProjectsAside"
 
