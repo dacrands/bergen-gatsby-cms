@@ -23,7 +23,7 @@ export default ({ data }) => {
         </div>
       </div>
 
-      <section className="section section--border bg-light">
+      <section className="section section--border section--big bg-light">
         <div className="grid--two container center">
           <div className="section__media">
             <Img fluid={edges[3].node.childImageSharp.fluid} />
@@ -41,7 +41,7 @@ export default ({ data }) => {
         </div>
       </section>
 
-      <section className="section section--border bg-med">
+      <section className="section section--border section--big bg-med">
         <div className="grid--two container center">
           <div className="section__content">
             <h2>STEM Student Scholars (3SP)</h2>
@@ -61,7 +61,7 @@ export default ({ data }) => {
         </div>
       </section>
 
-      <section className="section section--border bg-light">
+      <section className="section section--border section--big bg-light">
         <div className="grid--two container center">
           <div className="section__media">
             <Img fluid={edges[2].node.childImageSharp.fluid} />
@@ -84,7 +84,7 @@ export default ({ data }) => {
         </div>
       </section>
 
-      <section className="section section--dark bg-dark">
+      <section className="section section--dark section--big bg-dark">
         <div className="grid--two container center">
           <div className="section__content">
             <h2>Students Talking STEM</h2>
