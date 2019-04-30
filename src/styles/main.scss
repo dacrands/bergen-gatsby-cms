@@ -458,7 +458,7 @@ code {
 // ===========
 .section {
   // outline: 1px solid red;  
-  padding: 80px 1em;  
+  
 }
 
 .section__content {
@@ -473,6 +473,10 @@ code {
 
 .section--border {
   border-top: 1px solid #6242e429;
+}
+
+.section--big {
+  padding: 80px 1em;  
 }
 
 .section__media {  
