@@ -18,8 +18,8 @@ const LINKS = [
     partiallyActive: true,
   },
   {
-    name: "resources",
-    slug: "/resources",
+    name: "STEM Student Scholars",
+    slug: "/3sp",
     partiallyActive: false,
   },
 ]
