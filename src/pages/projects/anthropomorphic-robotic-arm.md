@@ -22,3 +22,7 @@ Different materials researched to use as artificial muscles:
 
 1. Shape Memory
 2. HASEL
+
+
+
+Alrighjt
