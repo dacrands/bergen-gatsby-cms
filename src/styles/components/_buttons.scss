@@ -1,0 +1,26 @@
+.btn {
+  display: inline-block;
+  border-radius: 3px;
+  padding: 0.7rem 1.3rem;
+  box-shadow: $shadow;
+  background: $primary;
+  color: white;
+  font-size: 14px;
+  font-weight: 500;
+  font-weight: bold;
+  letter-spacing: 0.5px;
+  text-decoration: none;
+  text-transform: uppercase;
+  transition: all 200ms ease;
+  &:hover {
+    transform: translateY(-3px);
+    background: $primary-hover;
+  }
+}
+
+.btn--dark {
+  background: $black;
+  &:hover {
+    background: $black-hover;
+  }
+}

@@ -1,0 +1,25 @@
+// BASE
+$black: rgba(0,0,0,0.8);
+$black-hover: rgba(0,0,0,0.6);
+
+// FONT
+// colors for dark theme
+$font-med: rgba(192, 167, 212, 0.8);
+$font-light: rgba(231, 223, 236, 0.8);
+
+// PRIMARY
+$primary: rgb(98, 66, 228);
+$primary-dark: rgb(47, 38, 83);
+$primary-very-dark: rgb(29, 24, 46);
+$primary-shadow: rgba(98, 66, 228, 0.267); // for box shadow
+$primary-hover: rgba(98, 66, 228, 0.863); // for hover state
+$primary-border: #6242e429; // for borders
+
+// BACKGROUNDS
+$bg: rgb(228, 225, 240);
+$bg-light: rgba(228, 225, 240, 0.164);
+$bg-med: rgba(228, 225, 240, 0.288);
+
+// SHADOWS
+$shadow: 0 16px 16px rgba(103,110,144,.05), 0 8px 8px rgba(103,110,144,.05), 0 4px 4px rgba(103,110,144,.05), 0 2px 2px rgba(103,110,144,.05);
+$shadow-hover: 0 8px 8px $primary-shadow;

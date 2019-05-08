@@ -1,0 +1,47 @@
+@media(max-width:768px) {
+
+  .section .grid--two {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .section .center {
+    justify-content: initial;
+    align-items: initial;
+  }
+
+  .section__content {
+    order: 1;
+  }  
+
+  .section__content,
+  .section__media {
+    margin-bottom: 2rem;
+  }
+
+
+  .aside {
+    position: relative;
+    display: flex;
+    overflow-x: scroll;
+    overflow-y: hidden;    
+    
+  }
+  .aside__nav-list {    
+    display: flex;
+  }
+
+  .post {
+    padding: 0;
+  }
+
+  
+}
+
+@media(max-width: 498px) {
+  .landing__title {
+    p {
+      font-size: 18px;
+    }
+  }
+}

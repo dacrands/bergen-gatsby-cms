@@ -1,0 +1,25 @@
+.info-link {
+  // outline: 1px solid red;  
+  display: inline-block;  
+  padding: 0.5rem;
+  border-radius: 5px;
+  transition: all 200ms ease;
+  text-decoration: none;
+  background: $bg-med;
+  h4 {
+    margin: 0;
+    margin-bottom: 1rem;
+    margin-top: 1rem;    
+  }
+  //*************************************
+  // Thank you Stripe for the box shadow!
+  //*************************************
+  // box-shadow: 0 11px 22px -5px rgba(50,50,93,.25), 0 6px 12px -8px rgba(0,0,0,.3), 0 -3px 12px -3px rgba(0,0,0,.025);
+  &:hover {
+    box-shadow: $shadow-hover;
+    img  {
+      transition: all 400ms ease !important;
+      filter: grayscale(80%);      
+    }
+  }
+}

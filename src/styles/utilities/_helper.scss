@@ -1,0 +1,33 @@
+.bg-light {
+  background: $bg-light;
+}
+
+.bg-med {
+  background: $bg-med;
+}
+
+.bg-dark {
+  background: rgba(0, 0, 0, 0.932);  
+}
+
+.center {
+  margin: 0 auto;
+  justify-content: center;
+  align-items: center;
+}
+
+.citation {  
+  padding: 0.5rem 0;
+  background: $primary-very-dark;
+  color: $font-med;
+  text-align: center;
+}
+
+.content {
+  max-width: 600px;
+}
+
+.fluid {
+  max-width: 100%;
+  height: auto;
+}

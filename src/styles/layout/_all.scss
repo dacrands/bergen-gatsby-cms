@@ -1,0 +1,33 @@
+.container {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 0 1em;
+}
+
+.container--small {
+  max-width: 600px;
+}
+
+.flex--wrap {
+  display: flex;
+  flex-flow: wrap;    
+}
+
+.flex--center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.grid--two {
+  display: grid;
+  grid-template-columns: 1fr 50%;    
+  grid-template-columns: 2 / 1fr;    
+  grid-gap: 50px;
+}
+
+.grid--wrap{
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  grid-gap: 20px;
+}

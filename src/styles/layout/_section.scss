@@ -1,0 +1,45 @@
+.section {
+  // outline: 1px solid red;    
+}
+
+.section__content {  
+  p {
+    @extend %typography;
+    margin: 0 auto;    
+    margin-bottom: 1.75rem;        
+  }
+  ul {
+    @extend %typography;    
+  }
+}
+
+.section--border {
+  border-top: 1px solid $primary-border;
+}
+
+.section--big {
+  padding: 80px 1em;  
+}
+
+.section__media {  
+  * {
+    //---------------------------------
+    // * selector necessary to put
+    // shadow, radius on gatsby-images  
+    //---------------------------------
+
+    //*************************************
+    // Thank you Stripe for the box shadow!
+    //*************************************
+    box-shadow: 0 11px 22px -5px rgba(50,50,93,.25), 0 6px 12px -8px rgba(0,0,0,.3), 0 -3px 12px -3px rgba(0,0,0,.025);
+    box-shadow: $shadow;
+    border-radius: 10px;
+  }
+}
+
+.section--dark {
+  color: white;
+  p {
+    color: $font-light;
+  }
+}

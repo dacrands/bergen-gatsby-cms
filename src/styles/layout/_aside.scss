@@ -1,0 +1,55 @@
+.aside {  
+  position: fixed;  
+  top: 50px; // This is the height of the nav
+  bottom: -50px;
+  height: calc(100% - 50px);
+  overflow-y: scroll;    
+  -webkit-overflow-scrolling: touch;  
+  background: $bg;
+
+}
+
+.aside__nav-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;  
+}
+
+.aside__link {
+  position: relative;
+  display: inline-block;
+  overflow: hidden;
+  box-shadow: $shadow;
+  background: white;
+  margin: 1rem;  
+  justify-content: center;
+  text-decoration: none;
+  text-align: center;  
+  transition: all 200ms ease;
+  &:hover > .aside__link--overlay {  
+    transform: translateX(0);
+  }
+}
+
+.aside__link-p {
+  margin-top: .5rem;
+  font-size: 80%;
+  font-weight: 600;     
+}
+
+.aside__link--overlay {
+  position: absolute;
+  z-index: 2;  
+  color: white;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.61);
+  transform: translateX(100%);
+  transition: all 200ms ease;
+}
+
+.aside__link--active .aside__link--overlay {  
+  transform: translateX(0);
+}
