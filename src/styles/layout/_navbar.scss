@@ -1,38 +1,18 @@
 .navbar {  
   padding: 1em;  
-  a {
-    &:hover {
-      color: $primary;
-    }
-  }
 }
 
-.navbar--fixed {
-  // outline: 3px dashed red;
+.navbar--fixed {  
   position: fixed;
   width: 100%;
   z-index: 3;
   background: white;
 }
 
-.navbar__logo {
-  // outline: 2px dashed green;
-  // float: left;  
-  h3 {
-    margin: 0;
-  }
-  a {
-    text-decoration: none;
-    color: rgba(0,0,0,.6);
-  }
-}
-
-.navbar__list {
-  // outline: 2px dashed blue;
+.navbar__list {  
   margin: 0;
   list-style: none;  
-  display: flex;
-  // justify-content: flex-end;
+  display: flex;  
   padding: 0;
   li {
     margin-right: 1.5rem;    
@@ -43,5 +23,8 @@
   text-decoration: none;
   text-transform: capitalize;
   font-size: 14px;  
-  color: rgba(0,0,0,.6);
+  color: $black-light;
+  &:hover {
+    color: $primary;
+  }
 }
