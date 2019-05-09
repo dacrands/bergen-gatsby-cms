@@ -2,7 +2,7 @@ import React from "react"
 
 import Layout from "../components/Layout"
 
-const content = [
+const CONTENT = [
   {
     h3: "Hands-on Faculty",
     p:
@@ -27,15 +27,15 @@ export default () => (
         <h1>STEM at BCC</h1>
         <p />
       </header>
-      <section className="section grid--two" style={{ paddingBottom: "20vh" }}>
-        {content.map(text => (
-          // <section className="">
+      <section className="section" style={{ paddingBottom: "20vh" }}>
+        <div className="grid--two">
+          {CONTENT.map(text => (            
             <div className="section__content">
               <h3>{text.h3}</h3>
               <p className="">{text.p}</p>
-            </div>
-          // </section>
-        ))}
+            </div>            
+          ))}
+        </div>
       </section>
     </main>
   </Layout>
