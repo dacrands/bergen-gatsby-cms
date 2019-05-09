@@ -12,3 +12,9 @@ code {
   padding: 0.2em;
   border-radius: 2px;
 }
+
+hr {
+ border: none;
+ background: $primary-border; 
+ height: 1px;
+}
