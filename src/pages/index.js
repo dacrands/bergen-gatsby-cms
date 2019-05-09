@@ -16,7 +16,7 @@ export default ({ data }) => {
             Science, Technology, Engineering, Mathematics at Bergen Community
             College
           </p>
-          <Link className="btn landing__link">Join STEM</Link>
+          <Link to="#contact" className="btn landing__link">Join STEM</Link>
           <Link to="/about" className="btn btn--dark landing__link">
             Learn More
           </Link>
@@ -34,7 +34,7 @@ export default ({ data }) => {
               From rockets to algae biodiesel, Bergen Community college offers
               STEM students a wide variety of research opportunities.
             </p>
-            <Link className="btn" to="/projects">
+            <Link to="/projects" className="btn">
               Student Projects
             </Link>
           </div>
@@ -51,7 +51,7 @@ export default ({ data }) => {
               research internships and successful transfer to their targeted
               4-year institution.
             </p>
-            <Link className="btn" to="/">
+            <Link to="/3sp" className="btn">
               3SP
             </Link>
           </div>
