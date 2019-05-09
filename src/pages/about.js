@@ -22,21 +22,21 @@ const content = [
 
 export default () => (
   <Layout>
-    <div className="container">
+    <main className="container">
       <header className="header">
         <h1>STEM at BCC</h1>
         <p />
       </header>
-      <main style={{ paddingBottom: "20vh" }} className="flex--wrap">
+      <section className="section grid--two" style={{ paddingBottom: "20vh" }}>
         {content.map(text => (
-          <section className="">
+          // <section className="">
             <div className="section__content">
               <h3>{text.h3}</h3>
               <p className="">{text.p}</p>
             </div>
-          </section>
+          // </section>
         ))}
-      </main>
-    </div>
+      </section>
+    </main>
   </Layout>
 )
