@@ -4,6 +4,7 @@ import Img from "gatsby-image"
 
 import Layout from "../components/Layout"
 import Video from "../components/Video"
+import Form from "../components/Form"
 
 export default ({ data }) => {
   const edges = data.allFile.edges
@@ -95,6 +96,22 @@ export default ({ data }) => {
           </div>
           <div className="section__media">
             <Video />
+          </div>
+        </div>
+      </section>
+
+      <section className="section section--big bg-med">
+        <div className="container">
+          <div className="grid--two center">
+            <Form />
+            <div className="section__content">
+              <h2>Want to get involved at STEM?</h2>
+              <p>
+                Send us a message with your name,
+                email, and a little about your research
+                interests.
+              </p>
+            </div>
           </div>
         </div>
       </section>
