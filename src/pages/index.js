@@ -102,9 +102,8 @@ export default ({ data }) => {
 
       <section className="section section--big bg-med">
         <div className="container">
-          <div className="grid--two center">
-            <Form />
-            <div className="section__content">
+          <div className="center">
+            <div className="section__content center--text">
               <h2>Want to get involved at STEM?</h2>
               <p>
                 Send us a message with your name,
@@ -112,6 +111,7 @@ export default ({ data }) => {
                 interests.
               </p>
             </div>
+            <Form />
           </div>
         </div>
       </section>

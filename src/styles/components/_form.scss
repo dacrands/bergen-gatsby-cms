@@ -1,6 +1,7 @@
 .form {
-  // outline: 1px solid red;
-  margin: 1rem;
+  // outline: 1px solid red;  
+  max-width: 480px;
+  margin: 0 auto;
   padding: 1rem;
   border-radius: 5px;
   border: 2px solid $primary-border;
@@ -31,7 +32,9 @@
 
   }
   button[type="submit"] {
+    margin-top: 1rem;
     border: none;
     cursor: pointer;
+    width: 100%;
   }
 }
