@@ -2,19 +2,18 @@
   background: $primary-dark;
   color: $font-med;  
   font-size: 75%;
-  
-  // padding-top: 40px;  
+  text-align: center;
   .container {
-    display: flex;
-    justify-content: space-around;
+    display: flex;      
+    flex-direction: column;
+    align-items: center;
     padding-top: 50px;
-    padding-bottom: 50px;
-    flex-flow: wrap;
+    padding-bottom: 50px;    
   }
 }
 
 .footer__item {
-  flex: 1;
+  // outline: 1px solid lime;
   padding: 1em 0;
   margin-right: 40px;
   h4 {
@@ -38,14 +37,14 @@
   }
 }
 
-.footer--three {
-  .footer__item {
-    // outline: 1px solid red;
-    &:nth-of-type(2) {
-      text-align: center;
-    }
-    &:last-of-type {      
-      text-align: right;
-    }
-  }
-}
+// .footer--three {
+//   .footer__item {
+//     // outline: 1px solid red;
+//     &:nth-of-type(2) {
+//       text-align: center;
+//     }
+//     &:last-of-type {      
+//       text-align: right;
+//     }
+//   }
+// }

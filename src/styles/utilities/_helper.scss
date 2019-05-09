@@ -17,10 +17,19 @@
 }
 
 .citation {  
-  padding: 0.5rem 0;
+  // outline: 1px solid green;
+  text-align: right;
+  padding: 1rem 0.5rem;
   background: $primary-very-dark;
   color: $font-med;
-  text-align: center;
+  a {
+    font-size: 85%;
+    transition: all 100ms;
+    color: $font-med;
+    &:hover {
+      font-size: 110%;
+    }
+  }
 }
 
 .content {
