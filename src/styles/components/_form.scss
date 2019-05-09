@@ -1,0 +1,35 @@
+.form {
+  // outline: 1px solid red;
+  margin: 1rem;
+  padding: 1rem;
+  border-radius: 5px;
+  border: 2px solid $primary-border;
+  background: white;
+  box-shadow: $shadow;
+  h3 {
+    color: $primary;
+    margin: 0;
+    font-weight: 100;
+    font-size: 24px;
+  }
+  label {
+    display: block;
+    font-size: 14px;
+    font-weight: bold;
+    color: $primary-light;
+  }
+  input,
+  textarea {
+    // outline: 1px solid green;
+    display: block;    
+    margin-top: 0.15rem;
+    border: none;    
+    padding: 0.5rem 0.25rem;
+    background: $bg;    
+
+  }
+  button[type="submit"] {
+    border: none;
+    cursor: pointer;
+  }
+}
