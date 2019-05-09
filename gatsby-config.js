@@ -1,6 +1,20 @@
 module.exports = {
   plugins: [
     {
+      resolve: `gatsby-plugin-manifest`,
+      options: {
+        name: "Bergen STEM",
+        short_name: "Bergen STEM",
+        start_url: "/",
+        background_color: "#6242e4",
+        theme_color: "#6242e4",
+        display: "standalone",
+        
+      }
+  },
+  `gatsby-plugin-offline`,
+  `gatsby-plugin-react-helmet`,
+    {
       resolve: `gatsby-source-filesystem`,
       options: {
         path: `${__dirname}/static/img`,
