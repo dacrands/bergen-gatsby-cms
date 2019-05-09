@@ -1,8 +1,9 @@
 @media(max-width:768px) {
 
-  .section .grid--two {
+  .section 
+  .grid--two {
     display: flex;
-    flex-direction: column;
+    flex-direction: column;    
   }
 
   .section .center {
@@ -27,6 +28,7 @@
     overflow-y: hidden;    
     
   }
+
   .aside__nav-list {    
     display: flex;
   }
