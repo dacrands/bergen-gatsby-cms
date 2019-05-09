@@ -23,7 +23,7 @@
   display: grid;
   grid-template-columns: 1fr 50%;    
   grid-template-columns: 2 / 1fr;    
-  grid-gap: 50px;
+  grid-gap: calc(50px + 3vw);
 }
 
 .grid--wrap{
