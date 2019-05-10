@@ -31,7 +31,7 @@ export default props => (
         {LINKS.map(link => (
           <li>
             <Link
-              activeStyle={{ color: "rgb(98, 66, 228)" }}
+              activeClassName={"navbar__list-link--active"}
               className="navbar__list-link"
               partiallyActive={link.partiallyActive}
               to={link.slug}
