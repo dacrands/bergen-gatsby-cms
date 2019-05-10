@@ -10,19 +10,19 @@ class Form extends Component {
             <label>Don’t fill this out if you're human: <input name="bot-field" /></label>
           </p>
           <p>
-            <label>First Name: 
+            <label>First Name
             <input type="text" name="first" /></label>
           </p>
           <p>
-            <label>Last Name: 
+            <label>Last Name
             <input type="text" name="last" /></label>
           </p>
           <p>
-            <label>Email: 
+            <label>Email
             <input size="35" type="text" name="email" /></label>
           </p>
           <p>
-            <label>Message: 
+            <label>Message
             <textarea name="message" cols="40" rows="5"></textarea></label>
           </p>
           <p>
