@@ -105,10 +105,10 @@ export default ({ data }) => {
           <div className="center">
             <div className="section__content center--text">
               <h2>Want to get involved at STEM?</h2>
-              <p>
-                Send us a message with your name,
-                email, and a little about your research
-                interests.
+              <p className="content">We are always looking for passionate
+                students to propose new research projects or join current research teams. 
+                If you wish to get involved in STEM at Bergen Community College, 
+                fill out the form below.
               </p>
             </div>
             <Form />
