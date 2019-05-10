@@ -20,11 +20,16 @@
 }
 
 .navbar__list-link {
+  white-space: nowrap;
   text-decoration: none;
   text-transform: capitalize;
   font-size: 14px;  
   color: $black-light;
+  transition: all 200ms ease;
   &:hover {
     color: $primary;
+  }
+  &--active {
+    color: $primary;    
   }
 }
