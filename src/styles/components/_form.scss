@@ -1,7 +1,8 @@
 .form {
   // outline: 1px solid red;  
-  max-width: 480px;
+  max-width: 400px;
   margin: 0 auto;
+  margin-top: 3rem;
   padding: 1rem;
   border-radius: 5px;
   border: 2px solid $primary-border;
@@ -9,20 +10,21 @@
   box-shadow: $shadow;
   h3 {
     color: $primary;
-    margin: 0;
+    margin-top: 1rem;        
     font-weight: 100;
     font-size: 24px;
-  }
-  label {
-    display: block;
+  }  
+  label {    
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 1.5rem;
     font-size: 14px;
     font-weight: bold;
     color: $primary-light;
   }
   input,
   textarea {
-    // outline: 1px solid green;
-    max-width: 100%;
+    // outline: 1px solid green;    
     font-size: 18px;
     display: block;    
     margin-top: 0.15rem;
