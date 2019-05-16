@@ -11,7 +11,7 @@ export default ({ data }) => {
         <header className="header">
           <h1>Student Projects</h1>
         </header>
-        <main className="grid--wrap">
+        <main className="grid-wrap">
           {edges.map(edge => (
             <Link className="info-link" to={edge.node.fields.slug}>
               <h4>{edge.node.frontmatter.title}</h4>

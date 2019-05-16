@@ -28,7 +28,7 @@ export default () => (
         <p />
       </header>
       <section className="section" style={{ paddingBottom: "20vh" }}>
-        <div className="grid--two">
+        <div className="grid-two">
           {CONTENT.map(text => (            
             <div className="section__content">
               <h3>{text.h3}</h3>

@@ -60,7 +60,7 @@ const CONTENT = [
 
 export default () => (
   <Layout>
-    <div className="container">
+    <div style={{ paddingBottom: "80px" }} className="container">
       <header className="header">
         <h1>STEM Student Scholars</h1>
       </header>
@@ -69,7 +69,7 @@ export default () => (
         <section className="section">
           <h2>{section.h2}</h2>
           <hr/>
-          <div className="grid--two">
+          <div className="grid-two">
             {section.items.map(item => {
               if ( !item.isList ) {
                 return (

@@ -19,14 +19,15 @@
   align-items: center;
 }
 
-.grid--two {
+.grid-two {
   display: grid;
   grid-template-columns: 1fr 50%;    
   grid-template-columns: 2 / 1fr;    
-  grid-gap: calc(50px + 3vw);
+  grid-gap: calc(10px + 3vw);
+
 }
 
-.grid--wrap{
+.grid-wrap{
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
   grid-gap: 50px;
