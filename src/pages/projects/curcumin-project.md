@@ -3,6 +3,11 @@ templateKey: projectTemplate
 title: Curcumin Project
 image: /img/circumin.jpg
 abstract: Coming soon...
+blog:
+  - date: 2019-05-16T23:35:05.493Z
+    title: teset
+    image: /img/circumin.jpg
+    body: Let us hope this _works_
 ---
 ## Team
 
