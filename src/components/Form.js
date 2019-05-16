@@ -10,8 +10,6 @@ class Form extends Component {
         netlify-honeypot="bot-field"
         data-netlify="true"
       >
-        <h3>Contact Us</h3>
-        <hr />
         <p class="hidden">
           <label>
             Don’t fill this out if you're human: <input name="bot-field" />
