@@ -1,6 +1,7 @@
 import React from "react"
 import { graphql, Link } from "gatsby"
 import Img from "gatsby-image"
+import Fade from 'react-reveal/Fade';
 
 import Layout from "../components/Layout"
 import Video from "../components/Video"
@@ -23,8 +24,8 @@ export default ({ data }) => {
           </Link>
         </div>
       </div>
-
       <section className="section section--border section--big bg-light">
+    <Fade>
         <div className="grid-two grid-two--big container center">
           <div className="section__media">
             <Img fluid={edges[3].node.childImageSharp.fluid} />
@@ -40,9 +41,11 @@ export default ({ data }) => {
             </Link>
           </div>
         </div>
+      </Fade>
       </section>
-
       <section className="section section--border section--big bg-med">
+        <Fade>
+
         <div className="grid-two grid-two--big container center">
           <div className="section__content">
             <h2>STEM Student Scholars (3SP)</h2>
@@ -60,9 +63,12 @@ export default ({ data }) => {
             <Img fluid={edges[0].node.childImageSharp.fluid} />
           </div>
         </div>
+        </Fade>
       </section>
 
       <section className="section section--border section--big bg-light">
+        <Fade>
+
         <div className="grid-two grid-two--big container center">
           <div className="section__media">
             <Img fluid={edges[2].node.childImageSharp.fluid} />
@@ -83,9 +89,12 @@ export default ({ data }) => {
             </Link>
           </div>
         </div>
+        </Fade>
       </section>
 
       <section className="section section--dark section--big bg-dark">
+        <Fade>
+
         <div className="container center">
           <div className="section__content">
             <h2>Students Talking STEM</h2>
@@ -98,9 +107,12 @@ export default ({ data }) => {
             <Video />
           </div>
         </div>
+        </Fade>
       </section>
 
       <section className="section section--big bg-med">
+        <Fade>
+
         <div className="container">
           <div className="center">
             <div className="section__content center--text">
@@ -114,6 +126,7 @@ export default ({ data }) => {
             <Form />
           </div>
         </div>
+        </Fade>
       </section>
     </Layout>
   )
