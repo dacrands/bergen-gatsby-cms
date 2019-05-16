@@ -1,6 +1,7 @@
 .form {
   // outline: 1px solid red;  
-  align-self: center;
+  align-self: center;    
+  width: 100%;
   max-width: 400px;
   margin-top: 3rem;
   padding: 1rem;
@@ -22,6 +23,7 @@
     font-weight: bold;
     color: $primary-light;
   }
+  select,
   input,
   textarea {
     // outline: 1px solid green;    
@@ -33,8 +35,11 @@
     background: $bg;    
 
   }
-  button[type="submit"] {
-    margin-top: 1rem;
+  p:last-of-type {
+    margin-bottom: 0;
+  }
+  button[type="submit"] {    
+    margin-bottom: 0;
     border: none;
     cursor: pointer;
     width: 100%;
