@@ -69,7 +69,7 @@ export default () => (
         <section className="section">
           <h2>{section.h2}</h2>
           <hr/>
-          <div className="grid-two">
+          <div style={{paddingBottom: "30px"}} className="grid-two">
             {section.items.map(item => {
               if ( !item.isList ) {
                 return (

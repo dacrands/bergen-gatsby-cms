@@ -23,8 +23,10 @@
   display: grid;
   grid-template-columns: 1fr 50%;    
   grid-template-columns: 2 / 1fr;    
-  grid-gap: calc(10px + 3vw);
-
+  grid-gap: 2em;
+  &--big {
+    grid-gap: calc(30px + 3vw);
+  }
 }
 
 .grid-wrap{
