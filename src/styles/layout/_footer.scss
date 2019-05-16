@@ -1,12 +1,11 @@
 .footer {
   background: $primary-dark;
   color: $font-med;  
-  font-size: 75%;
-  text-align: center;
+  font-size: 75%;  
   .container {
-    display: flex;      
-    flex-direction: column;
-    align-items: center;
+    display: flex;          
+    justify-content: space-between;
+    flex-flow: row wrap;
     padding-top: 50px;
     padding-bottom: 50px;    
   }
