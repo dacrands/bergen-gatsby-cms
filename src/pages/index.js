@@ -89,11 +89,7 @@ export default ({ data }) => {
       <section className="section section--dark section--big bg-dark">        
           <div className="container center">
             <div className="section__content">
-              <h2>Students Talking STEM</h2>
-              <p>
-                Listen to BCC students discuss their experiences in the STEM
-                program.
-              </p>
+              <h2>Students Talking STEM</h2>              
             </div>
             <div className="section__media">
               <Video />
@@ -105,12 +101,12 @@ export default ({ data }) => {
           <div className="container">
             <div className="grid-two center">
               <div className="section__content">
-                <h2>Want to get involved at STEM?</h2>
-                <p className="content">
+                <h2>Want to get involved in STEM?</h2>
+                <p>
                   We are always looking for passionate students to propose new
                   research projects or join current research teams. If you wish
-                  to get involved in STEM at Bergen Community College, fill out
-                  the form below.
+                  to get involved in STEM at Bergen Community College, fill out this form
+                  with your name, email, and research interests.
                 </p>
               </div>
               <Form />
