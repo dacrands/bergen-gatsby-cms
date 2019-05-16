@@ -1,0 +1,42 @@
+.success {
+  padding-bottom: 25vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.success h1 {
+  color: $primary
+}
+
+.success h3 {
+  font-weight: 400;
+}
+
+.success .button {
+  margin-top: 1rem;
+}
+
+.success__text {
+  text-align: center;
+  animation: show-check 900ms ease;  
+}
+
+.success__check {
+  font-size: 8rem;
+  margin-bottom: 1rem;
+  line-height: 100%;
+  animation: show-check 350ms ease;
+}
+
+@keyframes show-check {
+  0% {
+    opacity: 0;
+    transform: translateY(-15px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
