@@ -1,11 +1,10 @@
 import React from 'react'
 import { Link } from 'gatsby'
 
-import Layout from '../components/layout'
+import Layout from '../components/Layout'
 
-class Success extends React.Component {
-  render() {
-    if (!this.props.location.state) {
+const Success = ({ location }) => {
+    if (!location.state) {
       return (
         <Layout>                
           <div className="success">
@@ -35,7 +34,6 @@ class Success extends React.Component {
         </div>
       </Layout>
     )
-  }
 }
 
 export default Success
