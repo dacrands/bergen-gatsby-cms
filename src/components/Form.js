@@ -35,8 +35,8 @@ class Form extends Component {
         </p>
         <p>
           <label>
-            Message
-            <textarea name="message" cols="40" rows="5" />
+            Research Interests:
+            <textarea name="message" rows="5"/>
           </label>
         </p>
         <p>
