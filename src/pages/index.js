@@ -103,8 +103,8 @@ export default ({ data }) => {
 
       <section className="section section--big bg-med">        
           <div className="container">
-            <div className="center">
-              <div className="section__content center--text">
+            <div className="grid-two center">
+              <div className="section__content">
                 <h2>Want to get involved at STEM?</h2>
                 <p className="content">
                   We are always looking for passionate students to propose new
