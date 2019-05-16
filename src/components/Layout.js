@@ -11,8 +11,11 @@ export default ({ children }) => (
     <Helmet>
       <html lang="en" amp />
       <meta charSet="utf-8" />
-      <meta name="description" content="Science, Technology, Engineering, Mathematics at Bergen Community College" />
-      <title>Bergen STEM</title>      
+      <meta
+        name="description"
+        content="Science, Technology, Engineering, Mathematics at Bergen Community College"
+      />
+      <title>Bergen STEM</title>
     </Helmet>
     <Navbar />
     {children}

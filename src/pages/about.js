@@ -29,11 +29,11 @@ export default () => (
       </header>
       <section className="section" style={{ paddingBottom: "20vh" }}>
         <div className="grid-two">
-          {CONTENT.map(text => (            
+          {CONTENT.map(text => (
             <div className="section__content">
               <h3>{text.h3}</h3>
               <p className="">{text.p}</p>
-            </div>            
+            </div>
           ))}
         </div>
       </section>

@@ -10,7 +10,7 @@ const CONTENT = [
         isList: false,
         h3: "Benefits",
         para: [
-          "Students who successfully participate in the program shall have an opportunity in their second summer in the program to participate in an internship off campus in their target 4-year college or industry.",          
+          "Students who successfully participate in the program shall have an opportunity in their second summer in the program to participate in an internship off campus in their target 4-year college or industry.",
         ],
       },
       {
@@ -68,10 +68,10 @@ export default () => (
       {CONTENT.map(section => (
         <section className="section">
           <h2>{section.h2}</h2>
-          <hr/>
-          <div style={{paddingBottom: "30px"}} className="grid-two">
+          <hr />
+          <div style={{ paddingBottom: "30px" }} className="grid-two">
             {section.items.map(item => {
-              if ( !item.isList ) {
+              if (!item.isList) {
                 return (
                   <div className="section__content">
                     <h3>{item.h3}</h3>
@@ -83,18 +83,18 @@ export default () => (
               }
               return (
                 <div className="section__content">
-                    <h3>{item.h3}</h3>
-                    <ul>  
-                      {item.para.map(p => (
-                        <li>{p}</li>
-                      ))}
-                    </ul>
+                  <h3>{item.h3}</h3>
+                  <ul>
+                    {item.para.map(p => (
+                      <li>{p}</li>
+                    ))}
+                  </ul>
                 </div>
               )
             })}
           </div>
         </section>
-      ))}      
+      ))}
     </div>
   </Layout>
 )
