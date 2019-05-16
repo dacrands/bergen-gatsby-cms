@@ -3,6 +3,11 @@ templateKey: projectTemplate
 title: Anthropomorphic Robotic Arm
 image: /img/robot-arm.jpg
 abstract: Coming soon...
+blog:
+  - date: 2019-05-16T23:34:01.772Z
+    title: This is what we did
+    image: /img/robot-arm.jpg
+    body: We were at the stem center from **10 to 3.**
 ---
 ## Team
 
