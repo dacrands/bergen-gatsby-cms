@@ -7,7 +7,7 @@ import Footer from "./Footer"
 import "../styles/main.scss"
 
 export default ({ children }) => (
-  <div>
+  <>
     <Helmet>
       <html lang="en" amp />
       <meta charSet="utf-8" />
@@ -18,7 +18,9 @@ export default ({ children }) => (
       <title>Bergen STEM</title>
     </Helmet>
     <Navbar />
-    {children}
+    <main>
+      {children}
+    </main>
     <Footer />
-  </div>
+  </>
 )
