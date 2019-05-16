@@ -52,8 +52,8 @@ export default () => (
         </ul>
       </section>
     </div>
-    <div className="citation">
+    {/* <div className="citation">
       <a href="https://crandall.dev">David Crandall, {new Date().getFullYear()}</a>
-    </div>
+    </div> */}
   </footer>
 )
