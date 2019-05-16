@@ -11,7 +11,7 @@ export default ({ data }) => {
   const edges = data.allFile.edges
   return (
     <Layout>
-      <div className="landing">
+      <header className="landing">
         <div className="landing__title">
           <h1>Bergen STEM</h1>
           <p className="content">
@@ -25,7 +25,7 @@ export default ({ data }) => {
             Learn More
           </Link>
         </div>
-      </div>
+      </header>
       <section className="section section--border section--big bg-light">
         <Fade>
           <div className="grid-two grid-two--big container center">
