@@ -4,23 +4,22 @@ title: Anthropomorphic Robotic Arm
 image: /img/robot-arm.jpg
 abstract: Coming soon...
 blog:
-  - date: 2019-05-17T00:15:05.886Z
-    title: First Blog!
+  - date: 2019-05-17T00:26:06.630Z
+    title: First Blog Post!
     image: /img/robot-arm.jpg
     body: >-
-      The purpose of lorem ipsum is to create a natural looking block of text
-      (sentence, paragraph, page, etc.) that doesn't distract from the layout. A
-      practice not without controversy, laying out pages with meaningless filler
-      text can be very useful when the focus is meant to be on design, not
-      content.
+      It is a long established fact that a reader will be distracted by the
+      readable content of a page when looking at its layout. The point of using
+      Lorem Ipsum is that it has a more-or-less normal distribution of letters,
+      as opposed to using 'Content here, content here', making it look like
+      readable English. 
 
 
-      The passage experienced a surge in popularity during the 1960s when
-      Letraset used it on their dry-transfer sheets, and again during the 90s as
-      desktop publishers bundled the text with their software. Today it's seen
-      all around the web; on templates, websites, and stock designs. Use our
-      generator to get your own, or read on for the authoritative history of
-      lorem ipsum.
+      Many desktop publishing packages and web page editors now use Lorem Ipsum
+      as their default model text, and a search for 'lorem ipsum' will uncover
+      many web sites still in their infancy. Various versions have evolved over
+      the years, sometimes by accident, sometimes on purpose (injected humour
+      and the like).
 ---
 ## Team
 
