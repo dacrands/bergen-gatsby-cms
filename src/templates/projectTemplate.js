@@ -29,7 +29,7 @@ export default function ProjectTemplate({ data }) {
           />
 
           <div className="project-blogs">            
-              {
+              {/* {
               frontmatter.blog.map(post => {
                return (
                  <section>
@@ -41,7 +41,7 @@ export default function ProjectTemplate({ data }) {
                  </section>
                )
               })
-              }            
+              }             */}
           </div>
         </div>
       </div>
@@ -55,11 +55,6 @@ export const query = graphql`
       frontmatter {
         title
         abstract
-        blog {
-          date
-          title
-          body
-        }
         image {
           childImageSharp {
             fluid(maxWidth: 2500, quality: 100) {
