@@ -8,17 +8,12 @@ export default () => (
         <h4>Social Media</h4>
         <ul>
           <li>
-            <a href="http://" target="_blank" rel="noopener noreferrer">
+            <a href="https://www.facebook.com/bergen.stem" target="_blank" rel="noopener noreferrer">
               Facebook
             </a>
-          </li>
+          </li>         
           <li>
-            <a href="http://" target="_blank" rel="noopener noreferrer">
-              Twitter
-            </a>
-          </li>
-          <li>
-            <a href="http://" target="_blank" rel="noopener noreferrer">
+            <a href="https://www.instagram.com/bergen_stem/" target="_blank" rel="noopener noreferrer">
               Instagram
             </a>
           </li>
@@ -39,12 +34,12 @@ export default () => (
         <h4>Resources</h4>
         <ul>
           <li>
-            <a href="http://" target="_blank" rel="noopener noreferrer">
+            <a href="https://bergen.edu/faculty-staff/grants-administration/awards/stem/running-start-program/" target="_blank" rel="noopener noreferrer">
               Running Start Program
             </a>
           </li>
           <li>
-            <a href="http://" target="_blank" rel="noopener noreferrer">
+            <a href="https://bergen.edu/" target="_blank" rel="noopener noreferrer">
               bergen.edu
             </a>
           </li>
