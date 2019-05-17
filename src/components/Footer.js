@@ -43,12 +43,9 @@ export default () => (
               bergen.edu
             </a>
           </li>
-          {/* <li><a href={`${document.location.host}/admin/`} target="_blank" rel="noopener noreferrer">admin</a></li>         */}
+          <li><a href="https://bergenstem.com/admin/#/" target="_blank" rel="noopener noreferrer">admin</a></li>
         </ul>
       </section>
     </div>
-    {/* <div className="citation">
-      <a href="https://crandall.dev">David Crandall, {new Date().getFullYear()}</a>
-    </div> */}
   </footer>
 )
