@@ -5,6 +5,8 @@ import Img from "gatsby-image"
 import Navbar from "../components/Navbar"
 import ProjectAside from "../components/ProjectsAside"
 
+import "../styles/main.scss"
+
 export default function ProjectTemplate({ data }) {
   const { markdownRemark } = data
   const { frontmatter, html } = markdownRemark
