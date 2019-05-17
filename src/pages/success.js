@@ -10,7 +10,7 @@ const Success = ({ location }) => {
           <div className="success">
             <h1 className="success__check">&#10003;</h1>
             <div className="success__text">
-              <h1>You didn't submit form.</h1>
+              <h1>You didn't submit a form.</h1>
               <h3>But that's okay, enjoy this giant purple checkmark!</h3>
             </div>
             <Link className="button" to="/">
