@@ -51,3 +51,14 @@
     }
   }
 }
+
+@media(max-width:400px) {
+  .navbar {
+    // outline: 1px solid red;
+    overflow-x: scroll;
+    -webkit-overflow-scrolling: touch;
+  }
+  .landing .btn:last-of-type {
+    margin-top: 1rem;
+  }
+}
