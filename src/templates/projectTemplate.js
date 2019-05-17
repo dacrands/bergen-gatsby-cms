@@ -27,6 +27,22 @@ export default function ProjectTemplate({ data }) {
             className="post__content"
             dangerouslySetInnerHTML={{ __html: html }}
           />
+
+          <div className="project-blogs">            
+              {
+              frontmatter.blog.map(post => {
+               return (
+                 <section>
+                   <h2>{post.title}</h2>
+                   <p>{post.date}</p>
+                   <div
+                    dangerouslySetInnerHTML={{ __html: post.body }}
+                   />
+                 </section>
+               )
+              })
+              }            
+          </div>
         </div>
       </div>
     </>
@@ -39,6 +55,11 @@ export const query = graphql`
       frontmatter {
         title
         abstract
+        blog {
+          date
+          title
+          body
+        }
         image {
           childImageSharp {
             fluid(maxWidth: 2500, quality: 100) {
