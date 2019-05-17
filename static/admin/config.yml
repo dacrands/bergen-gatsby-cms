@@ -22,7 +22,7 @@ collections:
     create: true
     fields:
       - { label: "Template Key", name: "templateKey", widget: "hidden", default: "projectTemplate" }
-      - { name: title, label: Project}
+      - { label: Project, name: title}
       - { label: Image, name: image, widget: image }
       - { label: Abstract, name: abstract, widget: string}
       - { label: Body, name: body, widget: markdown } 
@@ -30,8 +30,7 @@ collections:
         label: Blog
         widget: list
         fields:
-          - { label: "Template Key", name: "templateKey", widget: "hidden", default: "blogTemplate" }
-          - { name: title, label: Blog }
-          - { label: Image, name: image, widget: image }
+          - { name: title, label: Title }
+          - { name: image, label: Image, widget: image }
           - { name: date, label: Date, widget: date }
-          - { name: body, label: Body, widget: markdown } 
+          - { name: body, label: Body, widget: text } 
