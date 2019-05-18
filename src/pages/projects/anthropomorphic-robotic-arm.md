@@ -53,6 +53,19 @@ blog:
       tie the ends of the fiber onto paper clips. one paper clip would be placed
       onto the hook, and the other would have a rotationally fixed weight placed
       on it.
+  - date: 2019-05-18T16:20:24.454Z
+    title: Week 5
+    image: /img/anthro-week-5.jpg
+    body: >-
+      Last week, the team built the apparatus to start coiling the two plastic
+      fibers: Nylon and Ultra High Molecular Weight Polyethylene. We used two
+      types of equipment for the twisting and coiling of the fibers. To the left
+      is the drill set up, which was tested last week. However, with the drill,
+      the speed at which the fiber is coiled is inconsistent. So, the team
+      decided to build another set up that will allow the fibers to twist and
+      coil at a constant speed. As you see in the figure, to the right is our
+      second set up using a servo motor that allows consistent rotation of the
+      fibers to create the coils.
 ---
 ## Team
 
