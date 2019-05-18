@@ -1,7 +1,7 @@
 ---
 templateKey: projectTemplate
 title: G Project
-image: /img/project-g.jpg
+image: /img/g-project-2.jpg
 abstract: >-
   Create new experiments for first semester Physics courses and write up a lab
   manual entries for them, which are clear and concise for execution.
