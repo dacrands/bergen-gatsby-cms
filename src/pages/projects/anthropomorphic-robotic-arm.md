@@ -38,7 +38,7 @@ blog:
       on it.
   - date: 2018-06-08T00:28:38.847Z
     title: Week 3
-    image: /img/bergen-v2-audit.jpg
+    image: /img/anthro-week-2.jpg
     body: >-
       As stated last week, work on GUI has started. The process of placing and
       labeling the joints for the expected movement of the bones at joints was
@@ -49,7 +49,7 @@ blog:
       that they must be placed inside one of the bones at the joints, for the
       bones to not overlap each other during the motion.
   - date: 2018-06-05T00:26:06.630Z
-    title: Furthering the research and starting to interface
+    title: 'Week 2: Furthering the research and starting to interface'
     image: /img/bergen-stem-graphic.jpg
     body: >-
       Previously work uncovered the possibility of utilizing nylon as a
