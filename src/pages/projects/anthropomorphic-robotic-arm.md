@@ -5,21 +5,23 @@ image: /img/robot-arm.jpg
 abstract: Coming soon...
 blog:
   - date: 2019-05-17T00:26:06.630Z
-    title: First Blog Post!
-    image: /img/robot-arm.jpg
+    title: Furthering the research and starting to interface
+    image: /img/bergen-stem-graphic.jpg
     body: >-
-      It is a long established fact that a reader will be distracted by the
-      readable content of a page when looking at its layout. The point of using
-      Lorem Ipsum is that it has a more-or-less normal distribution of letters,
-      as opposed to using 'Content here, content here', making it look like
-      readable English. 
-
-
-      Many desktop publishing packages and web page editors now use Lorem Ipsum
-      as their default model text, and a search for 'lorem ipsum' will uncover
-      many web sites still in their infancy. Various versions have evolved over
-      the years, sometimes by accident, sometimes on purpose (injected humour
-      and the like).
+      Previously work uncovered the possibility of utilizing nylon as a
+      synthetic muscle. However, the articles found suggested that the nylon may
+      require temperatures exceeding 170 degrees Celsius to match the biological
+      function that it would mimic. Thus, farther research was deemed necessary.
+      This week, more in-depth research into polymer usage as artificial muscles
+      was conducted. Polyethylene was the material of focus. An analysis
+      suggests that Linear Low-Density Polyethylene, or LLDPE, may be a more
+      efficient alternative to the nylon. It would require temperatures at a
+      maximum of one hundred degrees Celsius to achieve results matching the
+      biological functions. This difference is desirable because it will lead to
+      lower energy requirements, and cause fewer issues for any complimentary
+      material. Many other polyethylene compounds also require a lower
+      temperature for similar performance than the nylon compounds. Thus,
+      alongside the nylon, polyethylene will be tested.
   - date: 2019-05-17T00:28:38.847Z
     title: Second Blog Post
     image: /img/bergen-v2-audit.jpg
