@@ -25,31 +25,37 @@ export default function ProjectTemplate({ data }) {
           <header className="header">
             <h1>{frontmatter.title}</h1>
           </header>
-          <div
+          <article
             className="post__content"
             dangerouslySetInnerHTML={{ __html: html }}
           />
-
         </div>
-          <div className="project-blogs">  
+          <section className="project-blogs">  
             <div className="container container--small">
               {frontmatter.blog ?  <h2>Blog</h2> : null }
-              {
+              {                
                 frontmatter.blog
                 ? frontmatter.blog.map(post => {
                   return (
-                    <section className="section__content">
-                      <h3>{post.title}</h3>
-                      <p>{post.date}</p>
-                      <p>{post.body}</p>
-                    </section>
+                    <article className="card">                      
+                      <div className="card__title">
+                        <p><em>{post.date}</em></p>
+                        <h3>{post.title}</h3>
+                        <hr/>
+                      </div>
+                      <div className="card__img">
+                        <Img fixed={post.image.childImageSharp.fixed} />
+                      </div>
+                      <div className="card__content">
+                        <p>{post.body}</p>
+                      </div>
+                    </article>
                   )
                   })
                 : null
               }            
             </div>          
-          </div>
-        
+          </section>        
       </div>
     </>
   )
@@ -62,13 +68,21 @@ export const query = graphql`
         title
         abstract
         blog {
-          date
+          date(formatString: "MMMM, DD YYYY")
           title
           body
+          image {
+            id
+            childImageSharp {
+              fixed(width:400){
+              ...GatsbyImageSharpFixed
+              }
+            }
+          }
         }
         image {
           childImageSharp {
-            fluid(maxWidth: 2500, quality: 100) {
+            fluid(maxWidth: 800, quality: 100) {
               ...GatsbyImageSharpFluid
               presentationWidth
             }
