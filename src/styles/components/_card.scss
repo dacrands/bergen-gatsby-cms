@@ -1,0 +1,30 @@
+.card {
+  background: white;
+  border-radius: 3px;
+  border: 1px solid $primary-border;
+  margin: 2rem 0;  
+}
+
+.card__title {    
+  padding: 1em;
+  margin-bottom: 1rem;
+  p {
+    margin: 0;
+  }
+  h3 {  
+    margin: 0.5rem 0;
+    margin-bottom: 1rem;
+  }
+}
+
+.card__content {
+  padding: 1em;
+  line-height: 150%; 
+}
+
+.card__img {
+  text-align: center;
+  .gatsby-image-wrapper {
+    box-shadow: $shadow-stripe;     
+  }  
+}
