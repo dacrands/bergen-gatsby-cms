@@ -4,7 +4,7 @@ title: Anthropomorphic Robotic Arm
 image: /img/robot-arm.jpg
 abstract: Coming soon...
 blog:
-  - date: 2019-05-17T00:26:06.630Z
+  - date: 2018-06-05T00:26:06.630Z
     title: Furthering the research and starting to interface
     image: /img/bergen-stem-graphic.jpg
     body: >-
