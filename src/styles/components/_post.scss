@@ -4,6 +4,16 @@
   padding-left: 250px;
 }
 
+.post__content {
+  p {
+    @extend %typography;
+  }
+  ul {
+    p {
+      color: $primary;
+    }
+  }
+}
 .post__hero {
   padding-top: 50px;
 }
