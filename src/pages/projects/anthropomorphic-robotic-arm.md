@@ -34,6 +34,25 @@ blog:
       for each bone in the design. While placing the joints, the team learned
       that they must be placed inside one of the bones at the joints, for the
       bones to not overlap each other during the motion.
+  - date: 2019-05-18T16:18:46.911Z
+    title: Week 4
+    image: /img/anthro-week-4.jpg
+    body: >-
+      The most manageable means of powering the actuator was deemed to be
+      electrothermal heating. Electrothermal heating is the conversion of
+      electric energy to thermal energy for the purpose of producing heat. This
+      is done by running an electric current through a resistor and that leads
+      to the resistor heating up. a common example of a resistor is a copper
+      wire.
+
+
+      After deciding on the heat source, it was time to work on fabricating the
+      material. So, we started looking into means of applying the twist to the
+      string. To do so, we decided to find an elevated platform on which we plan
+      to attach an electric drill with a hook as the drill bit. Then, we would
+      tie the ends of the fiber onto paper clips. one paper clip would be placed
+      onto the hook, and the other would have a rotationally fixed weight placed
+      on it.
 ---
 ## Team
 
