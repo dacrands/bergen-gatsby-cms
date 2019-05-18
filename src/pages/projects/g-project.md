@@ -24,6 +24,19 @@ blog:
       Now, we're going to try to use different apps and software such as PASCO
       that will allow the students to analyze the video and find measurements
       and other information for the calculations.
+  - date: 2019-05-18T00:17:28.870Z
+    title: ' Pasco Capstone: Trials and Analyzing'
+    image: /img/g-project-2.jpg
+    body: >-
+      In trials including a golf ball, steel ball, and wooden ball using both
+      iPhone and Samsung cameras, the group found that the steel ball showed the
+      most accurate value for acceleration due to gravity, 9.79 +/- 0.09 m/s2 
+      while g for the golf ball was 9.41 +/1 0.10 m/s2.  This may be evidence
+      that air resistance plays a part in the general error presented during the
+      experimentation. Overall, the data found from these first few
+      determinations showed that the experiment can be validated since the data
+      is congruent with theoretical values and known values. In conclusion,
+      further testing must be done to finalize the process for the experiment.
 ---
 ## Mentor
 
