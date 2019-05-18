@@ -24,3 +24,7 @@ $bg-med: rgba(228, 225, 240, 0.288);
 // SHADOWS
 $shadow: 0 16px 16px rgba(103,110,144,.05), 0 8px 8px rgba(103,110,144,.05), 0 4px 4px rgba(103,110,144,.05), 0 2px 2px rgba(103,110,144,.05);
 $shadow-hover: 0 8px 8px $primary-shadow;
+//*************************************
+// Thank you Stripe for the box shadow!
+//*************************************
+$shadow-stripe: 0 11px 22px -5px rgba(50,50,93,.25), 0 6px 12px -8px rgba(0,0,0,.3), 0 -3px 12px -3px rgba(0,0,0,.025);
