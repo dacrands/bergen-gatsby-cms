@@ -23,17 +23,17 @@ blog:
       temperature for similar performance than the nylon compounds. Thus,
       alongside the nylon, polyethylene will be tested.
   - date: 2019-05-17T00:28:38.847Z
-    title: Second Blog Post
+    title: Week 3
     image: /img/bergen-v2-audit.jpg
     body: >-
-      of a page when looking at its layout. The point of using Lorem Ipsum is
-      that it has a more-or-less normal distribution of letters, as opposed to
-      using 'Content here, content here', making it look like readable English.
-      Many desktop publishing packages and web page editors now use Lorem Ipsum
-      as their default model text, and a search for 'lorem ipsum' will uncover
-      many web sites still in their infancy. Various versions have evolved over
-      the years, sometimes by accident, sometimes on purpose (injected humour
-      and the like
+      As stated last week, work on GUI has started. The process of placing and
+      labeling the joints for the expected movement of the bones at joints was
+      fairly complicated at first. Once a joint is a placed, the bones will be
+      allowed to move in all three axes: x, y, and z. Now, the team had to
+      figure out how to put limitations on the degrees of rotation or movement
+      for each bone in the design. While placing the joints, the team learned
+      that they must be placed inside one of the bones at the joints, for the
+      bones to not overlap each other during the motion.
 ---
 ## Team
 
