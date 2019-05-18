@@ -45,13 +45,10 @@ blog:
   * Abdoul Faye
   * Tommy Capalbo
 
-## Artificial Muscles
+## Objective
 
-Different materials researched to use as artificial muscles:
+Since the aim of the project is to create a robotic arm with the same articulation and coordination as a human arm, it is extremely crucial for all of the team members to have an in-depth knowledge and understanding of the anatomy of a human arm. 
 
-1. Shape Memory
-2. HASEL
+This week the team focused on expanding their knowledge of human arm structure and functions through intensive research. The skeleton of the human arm will be 3D printed in the upcoming weeks using PLA Filament. Simultaneously, some members looked into the subject of artificial muscles. Through his rigorous research, Patrick discovered a fairly new way of making artificial muscles using Nylon fibers as discovered by MIT Engineers. To learn more, click the link below:
 
-
-
-Alrighjt
+<http://news.mit.edu/2016/nylon-muscle-fibers-1123>
