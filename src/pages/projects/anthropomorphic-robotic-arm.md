@@ -22,7 +22,7 @@ blog:
       material. Many other polyethylene compounds also require a lower
       temperature for similar performance than the nylon compounds. Thus,
       alongside the nylon, polyethylene will be tested.
-  - date: 2019-05-17T00:28:38.847Z
+  - date: 2018-06-08T00:28:38.847Z
     title: Week 3
     image: /img/bergen-v2-audit.jpg
     body: >-
