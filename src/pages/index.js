@@ -79,9 +79,9 @@ export default ({ data }) => {
                 proficiency exam after completing the boot camp and possibly
                 test out of the course.
               </p>
-              <Link className="btn" to="/">
+              <a target="_blank" rel="noopener noreferrer" href="https://bergen.edu/faculty-staff/grants-administration/awards/stem/running-start-program/" className="btn">
                 Running Start Program
-              </Link>
+              </a>
             </div>
           </div>        
       </section>
