@@ -57,7 +57,7 @@ export default function ProjectTemplate({ data }) {
             </div>          
           </section>        
       </div>
-    <main/>
+    </main>
   )
 }
 
