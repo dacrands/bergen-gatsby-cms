@@ -11,7 +11,7 @@ export default function ProjectTemplate({ data }) {
   const { markdownRemark } = data
   const { frontmatter, html } = markdownRemark
   return (
-    <>
+    <main>
       <Navbar fixed={true} />
       <ProjectAside />
       <div className="post">
@@ -57,7 +57,7 @@ export default function ProjectTemplate({ data }) {
             </div>          
           </section>        
       </div>
-    </>
+    <main/>
   )
 }
 
