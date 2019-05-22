@@ -25,6 +25,7 @@
 .card__img {
   text-align: center;
   .gatsby-image-wrapper {
+    max-width: 100%;  
     box-shadow: $shadow-stripe;     
   }  
 }
