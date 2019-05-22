@@ -36,6 +36,10 @@ export default ({ data }) => {
                 From rockets to algae biodiesel, Bergen Community college offers
                 STEM students a wide variety of research opportunities.
               </p>
+              <p>
+                If you are a STEM student and are looking to get involved in
+                research, be sure to check out the current projects.
+              </p>
               <Link to="/projects" className="btn">
                 Student Projects
               </Link>
