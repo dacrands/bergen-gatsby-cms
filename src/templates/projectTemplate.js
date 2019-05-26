@@ -1,4 +1,5 @@
 import React from "react"
+import showdown from 'showdown'
 import { graphql } from "gatsby"
 import Img from "gatsby-image"
 
@@ -7,9 +8,11 @@ import ProjectAside from "../components/ProjectsAside"
 
 import "../styles/main.scss"
 
+const converter = new showdown.Converter()
+
 export default function ProjectTemplate({ data }) {
   const { markdownRemark } = data
-  const { frontmatter, html } = markdownRemark
+  const { frontmatter } = markdownRemark
   return (
     <main>
       <Navbar fixed={true} />
@@ -25,11 +28,42 @@ export default function ProjectTemplate({ data }) {
           <header className="header">
             <h1>{frontmatter.title}</h1>
           </header>
-          <article
-            className="post__content"
-            dangerouslySetInnerHTML={{ __html: html }}
-          />
+          <div>
+            <h3>Objective</h3>
+            <p>{frontmatter.abstract}</p>
+          </div>
+          <div>
+            <h3>Meeting</h3>
+            <p>{frontmatter.meeting}</p>
+          </div>
+          <div>
+            <h3>Students</h3>
+            <ul>
+              {
+                frontmatter.students.map(student => (
+                  <li>                    
+                    {student.name} &mdash; {` `}                
+                  <a href={`mailto:${student.email}`}>{student.email}</a>
+                  </li>
+                ))
+              }
+            </ul>
+          </div>
+          <div>
+            <h3>Mentor(s)</h3>
+            <ul>
+              {
+                frontmatter.mentors.map(mentor => (
+                  <li>                    
+                  {mentor.name} &mdash; {` `}                                
+                  <a href={`mailto:${mentor.email}`}>{mentor.email}</a>
+                  </li>
+                ))
+              }
+            </ul>
+          </div>
         </div>
+        
           <section className="project-blogs">  
             <div className="container container--small">
               {frontmatter.blog ?  <h2>Blog</h2> : null }
@@ -47,7 +81,7 @@ export default function ProjectTemplate({ data }) {
                         <Img fixed={post.image.childImageSharp.fixed} />
                       </div>
                       <div className="card__content">
-                        <p>{post.body}</p>
+                        <div dangerouslySetInnerHTML={{ __html: converter.makeHtml(post.body)}} />
                       </div>
                     </article>
                   )
@@ -66,7 +100,18 @@ export const query = graphql`
     markdownRemark(fields: { slug: { eq: $slug } }) {
       frontmatter {
         title
-        abstract
+          templateKey
+          date
+          abstract
+          meeting
+          mentors {
+            email
+            name
+          }
+          students {
+            email
+            name
+        }
         blog {
           date(formatString: "MMMM, DD YYYY")
           title
