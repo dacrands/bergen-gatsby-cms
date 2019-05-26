@@ -14,8 +14,8 @@ students:
   - email: capalbot18@gmail.com
     name: Tommy Capalbo
 mentors:
-  - email: test
-    name: test
+  - email: bbenjamin@bergen.edu
+    name: Dr. Benjamin
 blog:
   - body: |-
       ## a test
