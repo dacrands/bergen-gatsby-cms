@@ -13,6 +13,9 @@ students:
     name: Shivani Patel
   - email: Coming soon...
     name: Jan Mark Talingdan
+mentors:
+  - email: Coming soon...
+    name: Dr. Estelle Esptein
 blog:
   - body: >-
       Today, we started with the initial trials for the new free-fall experiment
