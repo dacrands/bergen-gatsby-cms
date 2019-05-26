@@ -2,10 +2,13 @@
 templateKey: projectTemplate
 title: Curcumin Project
 image: /img/circumin.jpg
-abstract: Coming soon...
+abstract: Analytical methods in assessing complexation of Curcumin with Ferric ions.
+meeting: Coming soon...
 students:
-  - email: test
-    name: test
+  - email: agriffith999@gmail.com
+    name: Alexandra Griffith
+  - email: alczecho@gmail.com
+    name: Alexander Czechowicz
 mentors:
   - email: test
     name: test
