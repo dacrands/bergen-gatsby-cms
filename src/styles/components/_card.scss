@@ -3,6 +3,11 @@
   border-radius: 3px;
   border: 1px solid $primary-border;
   margin: 2rem 0;  
+  .gatsby-image-wrapper, 
+  img {
+    max-width: 100%;  
+    // box-shadow: $shadow-stripe;     
+  }  
 }
 
 .card__title {    
@@ -24,8 +29,5 @@
 
 .card__img {
   text-align: center;
-  .gatsby-image-wrapper {
-    max-width: 100%;  
-    box-shadow: $shadow-stripe;     
-  }  
+  
 }
