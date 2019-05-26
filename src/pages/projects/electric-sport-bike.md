@@ -3,17 +3,17 @@ templateKey: projectTemplate
 title: Electric Sport Bike
 image: /img/electric-bike.jpg
 abstract: Coming soon...
+meeting: Coming soon...
+students:
+  - email: Coming soon...
+    name: Coming soon...
+mentors:
+  - email: Coming soon...
+    name: Coming soon...
+blog:
+  - body: Coming soon...
+    date: 2019-05-26T22:06:44.880Z
+    title: Coming soon...
+    image: /img/bergen-stem-graphic.jpg
 ---
-## Team
 
-* Students
-  * Mykhailo Malko
-  * Jemil Srejic
-* Faculty
-  * Mark Balzarette
-
-
-
-## Project
-
-Images can go here and links
