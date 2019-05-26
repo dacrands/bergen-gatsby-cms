@@ -6,26 +6,28 @@ media_folder: static/img
 public_folder: /img
 
 collections:
-  - name: blog
-    label: Blog
-    folder: src/pages/blog
-    create: true
-    fields:
-      - { label: "Template Key", name: "templateKey", widget: "hidden", default: "blogTemplate" }
-      - { name: title, label: Blog }
-      - { label: Image, name: image, widget: image }
-      - { name: date, label: Date, widget: date }
-      - { name: body, label: Body, widget: markdown } 
   - name: project
     label: Project
     folder: src/pages/projects
     create: true
     fields:
       - { label: "Template Key", name: "templateKey", widget: "hidden", default: "projectTemplate" }
-      - { label: Project, name: title}
-      - { label: Image, name: image, widget: image }
-      - { label: Abstract, name: abstract, widget: string}
-      - { label: Body, name: body, widget: markdown } 
+      - { name: title, label: Project }
+      - { name: image, label: Image, widget: image }
+      - { name: abstract, label: Abstract, widget: text}   
+      - { name: meeting, label: Meeting, widget: string }
+      - name: students
+        label: Students
+        widget: list
+        fields:
+          - { name: name, label: Name}   
+          - { name: email, label: Email}   
+      - name: mentors
+        label: Mentors
+        widget: list
+        fields:
+          - { name: name, label: Name}   
+          - { name: email, label: Email}   
       - name: blog
         label: Blog
         widget: list
@@ -33,4 +35,4 @@ collections:
           - { name: title, label: Title }
           - { name: image, label: Image, widget: image }
           - { name: date, label: Date, widget: date }
-          - { name: body, label: Body, widget: text } 
+          - { name: body, label: Body, widget: markdown } 
