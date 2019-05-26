@@ -9,5 +9,10 @@ students:
     name: David Gordon
   - email: jalverez111681@me.bergen.edu
     name: Jean Alvarez
+blog:
+  - body: Coming soon...
+    date: 2019-05-26T22:16:44.130Z
+    title: Test
+    image: /img/bergen-stem-graphic.jpg
 ---
 
