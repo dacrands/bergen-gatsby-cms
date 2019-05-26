@@ -5,7 +5,14 @@ image: /img/g-project-2.jpg
 abstract: >-
   Create new experiments for first semester Physics courses and write up a lab
   manual entries for them, which are clear and concise for execution.
-meeting: Coming soon...
+meeting: M-Th 1-3 PM in Room S-332
+students:
+  - email: Coming soon...
+    name: Jennifer Milkulko
+  - email: Coming soon...
+    name: Shivani Patel
+  - email: Coming soon...
+    name: Jan Mark Talingdan
 blog:
   - body: >-
       Today, we started with the initial trials for the new free-fall experiment
