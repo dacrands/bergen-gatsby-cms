@@ -52,5 +52,9 @@ blog:
     date: 2018-06-05T00:19:12.542Z
     title: Furthering the research and starting to interface
     image: /img/anthro-week-2.jpg
+  - body: "As stated last week, work on GUI has started. The process of placing and labeling the joints for the expected movement of the bones at joints was fairly complicated at first. Once a joint is a placed, the bones will be allowed to move in all three axes: x, y, and z. Now, the team had to figure out how to put limitations on the degrees of rotation or movement for each bone in the design. While placing the joints, the team learned that they must be placed inside one of the bones at the joints, for the bones to not overlap each other during the motion.\r\n\n\r\n\nAlongside, more research on Linear Low-Density Polyethylene (LLDPE), the substance to be used in making the artificial muscle has been done over the week. This polymer has high elasticity and low water absorption. This substance can be easily stressed and will not break when heated as important for our project. To contract the artificial muscle fibers, required heat must be supplied. Through our research, we learned that LLDPE generates strain as high as 23% at 90° C.\r\n\n\r\n\nMeanwhile, research on the heat source has just begun. Updates on the research will be provided in the next blog."
+    date: 2019-05-27T00:24:12.993Z
+    title: Week 3
+    image: /img/bergen-stem-graphic.jpg
 ---
 
