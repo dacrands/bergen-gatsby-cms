@@ -10,8 +10,8 @@ students:
   - email: alczecho@gmail.com
     name: Alexander Czechowicz
 mentors:
-  - email: test
-    name: test
+  - email: akahyaoglu@bergen.edu
+    name: Ara Kahyaoglu
 blog:
   - body: >-
       ## So this is cool
