@@ -56,5 +56,9 @@ blog:
     date: 2019-05-27T00:24:12.993Z
     title: Week 3
     image: /img/bergen-stem-graphic.jpg
+  - body: "The most manageable means of powering the actuator was deemed to be electrothermal heating. Electrothermal heating is the conversion of electric energy to thermal energy for the purpose of producing heat. This is done by running an electric current through a resistor and that leads to the resistor heating up. a common example of a resistor is a copper wire.\r\n\n\r\n\nAfter deciding on the heat source, it was time to work on fabricating the material. So, we started looking into means of applying the twist to the string. To do so, we decided to find an elevated platform on which we plan to attach an electric drill with a hook as the drill bit. Then, we would tie the ends of the fiber onto paper clips. one paper clip would be placed onto the hook, and the other would have a rotationally fixed weight placed on it.\r\n\n\r\n\nWe completed that setup and tested it by producing a sample twisted polyethylene fiber."
+    date: 2018-06-15T00:29:29.040Z
+    title: Week 4
+    image: /img/anthro-week-4.jpg
 ---
 
