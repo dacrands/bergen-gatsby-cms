@@ -19,6 +19,12 @@ students:
     name: 'Tyler Zamski '
   - email: rel-saleh@me.bergen.edu
     name: Ramya El-Saleh
+  - email: agonzalez114138@me.bergen.edu
+    name: 'Andres Gonzalez '
+  - email: mhernandez113775@me.bergen.edu
+    name: Michael Hernandez
+  - email: cmooney@me.bergen.edu
+    name: Caitlin Mooney
 mentors:
   - email: aeliscu@bergen.edu
     name: Professor Alan S. Eliscu
