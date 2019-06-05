@@ -17,6 +17,8 @@ meeting: 'Monday-Thursday 10:00am-12:00pm / 1:00pm-3:00pm in room S-243'
 students:
   - email: tzamski@me.bergen.edu
     name: 'Tyler Zamski '
+  - email: rel-saleh@me.bergen.edu
+    name: Ramya El-Saleh
 mentors:
   - email: aeliscu@bergen.edu
     name: Professor Alan S. Eliscu
