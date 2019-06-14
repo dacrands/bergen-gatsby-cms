@@ -1,20 +1,23 @@
 .info-link {
   // outline: 1px solid red;  
-  display: inline-block;  
-  padding: 0.5rem;
-  border: 1.5px solid $primary;  
+  display: inline-block;    
   transition: all 200ms ease;
-  text-decoration: none;
-  background: $bg-med;
-  box-shadow: 8px 8px 0 $primary;
-  transition: all 500ms ease;
+  text-decoration: none;  
+  color: $med;
+  border-top: 2px solid $med;
+  margin-bottom: 2rem;
   h4 {
     margin: 0;
     margin-bottom: 1rem;
-    margin-top: 1rem;    
-    color: $primary;
+    margin-top: 1rem;        
   }  
   &:hover {       
-    box-shadow: 0 0 0 $primary;
+    color: $primary;   
+    border-top: 2px solid $primary; 
+    img {
+      transition: all 500ms ease;
+      -webkit-filter: grayscale(0%); /* Chrome, Safari, Opera */
+      filter: grayscale(0%);
+    }
   }
 }
