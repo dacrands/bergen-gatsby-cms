@@ -1,12 +1,14 @@
 ---
 templateKey: projectTemplate
 title: Anthropomorphic Robotic Arm
-image: /img/robot-arm.jpg
-abstract: >
-  Building a Anthropomorphic robotic arm that is able to attain the same or the
-  equivalence of human coordination and articulation by engineering off of human
-  anatomy.
-meeting: '10:00am to 3:00pm in Stem Room, BCC'
+image: /img/robot-arm.jpeg
+abstract: >-
+  The goal of our project is to develop an anthropomorphic robotic arm which
+  closely mimics the functions and capabilities of an average human arm. Through
+  literature reviews and results verification, we have found that LLDPE, UHMWPE,
+  PET, and polycarbonate could be used as replacements for muscle, cartilage,
+  ligament, and bone respectively.
+meeting: Mon-Thu 10-12 and 1-3
 students:
   - email: alexmariecortez@gmail.com
     name: Alexandra Cortez
@@ -14,6 +16,10 @@ students:
     name: Patrick Hanna
   - email: capalbot18@gmail.com
     name: Tommy Capalbo
+  - email: rpjtalingdan@gmail.com
+    name: Jan Mark Talingdan
+  - email: mnha.echreshzadeh@gmail.com
+    name: Mina Echreshzadeh
 mentors:
   - email: bbenjamin@bergen.edu
     name: Dr. Benjamin
