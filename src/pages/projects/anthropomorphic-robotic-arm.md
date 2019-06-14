@@ -20,6 +20,8 @@ students:
     name: Jan Mark Talingdan
   - email: mnha.echreshzadeh@gmail.com
     name: Mina Echreshzadeh
+  - email: jsouza108272@me.bergen.edu
+    name: Marcos Souza
 mentors:
   - email: bbenjamin@bergen.edu
     name: Dr. Benjamin
