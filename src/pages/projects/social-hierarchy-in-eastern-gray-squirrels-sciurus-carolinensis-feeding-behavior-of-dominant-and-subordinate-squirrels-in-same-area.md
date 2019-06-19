@@ -30,5 +30,50 @@ blog:
     date: 2019-06-14T11:56:59.664Z
     title: Week 1
     image: /img/bergen-stem-graphic.jpg
+  - body: >-
+      This week I decided that it would be best to move the sunflower seeds to
+      one location rather than two locations in the same vicinity to more
+      efficiently utilize the sunflower seeds. I have yet to be successful in
+      making the squirrels comfortable around with me to congregate around me
+      but I am seeing success in regard to them frequently eating the food that
+      I place for them. The branch in which the bird feeder was attached to
+      actually broke so what this tells me is that there was probably more than
+      one squirrel that was on the feeder and the weight caused the branch to
+      break. While this is terrible news for the branch, it is good news for me
+      because it tells me that the food is being eaten by squirrels and not
+      chipmunks because 1) chipmunks are substantially lighter than squirrels
+      and thus would require a significant amount of chipmunks on the same
+      branch which is unlikely and 2) chipmunks are not social foragers and thus
+      are more independent and isolated than squirrels so it is unlikely a large
+      number of chipmunks caused the branch to snap. I will continue placing
+      sunflower seeds as I cannot force the squirrels to cooperate with me and
+      it will take a lot of patience and time (hopefully they will start
+      trusting me soon!). The highlight of my week was spotting a very young
+      squirrel.
+    date: 2019-06-19T22:30:15.246Z
+    title: Week 3
+    image: /img/week2.jpg
+  - body: >-
+      This week I started to start sunflower seed trust exercises in Leonia on
+      Tuesday mornings and Wednesdays. On Mondays, Tuesday afternoons, and on
+      Thursdays, I am on the Bergen campus feeding the squirrels at
+      approximately 11:30 AM and 1:40 PM and continuing to prepare my research
+      article after I finish placing the sunflower seeds at the designated place
+      each time. I noticed that the squirrels in Leonia are starting to eat the
+      sunflowers because all the seeds I have placed have been eaten. This is
+      good because if all goes well, Leonia will be an exceptional experimenting
+      site since there is a large population of S. carolinensis.  
+
+
+      I am hoping that the squirrels make a habit of visiting the location at a
+      certain time every day to make it possible for me to begin conducting
+      experiments. It is a priority for to hopefully start recording next week
+      and begin collecting data. I have started preparing my
+      introduction/literature review. If anyone would like to help conduct
+      experiments please reach out to me so we can discuss the best course of
+      action!
+    date: 2019-06-19T22:31:20.924Z
+    title: Week 4
+    image: /img/bergen-stem-graphic.jpg
 ---
 
