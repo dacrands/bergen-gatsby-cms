@@ -39,17 +39,24 @@ blog:
       I place for them. The branch in which the bird feeder was attached to
       actually broke so what this tells me is that there was probably more than
       one squirrel that was on the feeder and the weight caused the branch to
-      break. While this is terrible news for the branch, it is good news for me
-      because it tells me that the food is being eaten by squirrels and not
-      chipmunks because 1) chipmunks are substantially lighter than squirrels
-      and thus would require a significant amount of chipmunks on the same
-      branch which is unlikely and 2) chipmunks are not social foragers and thus
-      are more independent and isolated than squirrels so it is unlikely a large
-      number of chipmunks caused the branch to snap. I will continue placing
-      sunflower seeds as I cannot force the squirrels to cooperate with me and
-      it will take a lot of patience and time (hopefully they will start
-      trusting me soon!). The highlight of my week was spotting a very young
-      squirrel.
+      break. 
+
+
+      While this is terrible news for the branch, it is good news for me because
+      it tells me that the food is being eaten by squirrels and not chipmunks
+      because 
+
+
+      1.  chipmunks are substantially lighter than squirrels and thus would
+      require a significant amount of chipmunks on the same branch which is
+      unlikely
+
+      2. chipmunks are not social foragers and thus are more independent and
+      isolated than squirrels so it is unlikely a large number of chipmunks
+      caused the branch to snap. I will continue placing sunflower seeds as I
+      cannot force the squirrels to cooperate with me and it will take a lot of
+      patience and time (hopefully they will start trusting me soon!). The
+      highlight of my week was spotting a very young squirrel.
     date: 2019-06-19T22:30:15.246Z
     title: Week 3
     image: /img/week2.jpg
