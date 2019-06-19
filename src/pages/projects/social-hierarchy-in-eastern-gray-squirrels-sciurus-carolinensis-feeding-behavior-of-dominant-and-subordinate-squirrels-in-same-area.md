@@ -43,7 +43,7 @@ blog:
       action!
     date: 2019-06-19T22:31:20.924Z
     title: Week 4
-    image: /img/bergen-stem-graphic.jpg
+    image: /img/week-4-squirrel.jpg
   - body: >-
       This week I decided that it would be best to move the sunflower seeds to
       one location rather than two locations in the same vicinity to more
