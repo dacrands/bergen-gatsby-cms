@@ -45,5 +45,18 @@ blog:
     date: 2019-05-20T16:19:09.039Z
     title: Week 1
     image: /img/bergen-stem-graphic.jpg
+  - body: >-
+      Today the Supercomputer Team decided to stress test our 10 cluster
+      supercomputer compared to a single computer. We chose the program
+      GNUOctave because it is optimized for long mathematical computation. Cesar
+      and Leyki wrote a prime number calculator to count the number of prime
+      numbers from 1 to 100000. We have also included a function to tell us the
+      processing time the cpus took to complete the task. We have done the same
+      process to the single computer. Unfortunately, the time it took to
+      complete the task on both computers were identical and only apart by 1
+      second.
+    date: 2019-06-20T15:54:19.634Z
+    title: Week 3
+    image: /img/bergen-stem-graphic.jpg
 ---
 
