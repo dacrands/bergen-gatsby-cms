@@ -58,5 +58,9 @@ blog:
     date: 2019-06-20T15:54:19.634Z
     title: Week 3
     image: /img/bergen-stem-graphic.jpg
+  - body: "Last week we got Pelican HPC to run in all computers, and test stresses the supercomputer using the same program as last week and then compare the processing time of the supercomputer with a single computer and the results were not as expected.\r\n\n\r\n\nwe made both computers to count all the prime numbers from 1 to 1*10^6 and the difference in time processing between them was 2.38 with the supercomputer being faster. It was expected that the supercomputer was ten times as fast because it is 10 computers against one but those weren’t the results, now need to find the reason why is not working.\r\n\n\r\n\nWhile looking at the problem we try to see the communication speed between the ethernet cables and found out that the computer nodes and the front end were communicating at a 70% efficiency which will reduce the processing time but won't really affect it as much to make so similar to the single computer.\r\n\n\r\n\nWe try to replicate the process but the front end wasn’t detecting the compute nodes."
+    date: 2019-06-20T15:56:32.739Z
+    title: Week 4
+    image: /img/bergen-stem-graphic.jpg
 ---
 
