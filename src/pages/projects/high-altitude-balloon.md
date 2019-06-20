@@ -23,6 +23,18 @@ students:
     name: Joshua Grebler
   - email: ghee@me.bergen.edu
     name: Gregory Hee
+  - email: vlavilla@me.bergen.edu
+    name: Vito LaVilla
+  - email: JohnnyPaguay25@gmail.com
+    name: 'Jonathan Paguay '
+  - email: gquispe104601@me.bergen.edu
+    name: Guery Quispe
+  - email: ian.reekmans@gmail.com
+    name: Ian Reekmans
+  - email: mcshuler121212@gmail.com
+    name: Malcolm Shuler
+  - email: nuchida@me.bergen.edu
+    name: Nami Uchida
 mentors:
   - email: pgriffo@bergen.edu
     name: Professor Paul J. Griffo
