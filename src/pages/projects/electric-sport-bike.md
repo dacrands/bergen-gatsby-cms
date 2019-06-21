@@ -24,7 +24,7 @@ blog:
       decided to connect cells 2S-24P for discharge. 6.6V was tested, and the
       calculations show that the pack will be discharged in 32 hours. 9 hours a
       day, for three and a half days.
-    date: 2019-06-21T16:37:23.080Z
+    date: 2019-05-21T16:37:23.080Z
     title: Week 2
     image: /img/esb2.jpg
   - body: >-
