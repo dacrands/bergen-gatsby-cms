@@ -63,5 +63,13 @@ blog:
     date: 2019-05-20T22:06:44.880Z
     title: Week 1
     image: /img/esb4.jpg
+  - body: >-
+      The group manufactured 40 connectors for the battery pack out of a large
+      copper sheet. Upon completion of connecting all the cells together, we
+      noticed that we had two damaged cells. Upon realization of this, we
+      decided to take apart the battery pack and replace the two damaged cells.
+    date: 2019-06-21T17:03:46.017Z
+    title: Week 5
+    image: /img/esb5.jpg
 ---
 
