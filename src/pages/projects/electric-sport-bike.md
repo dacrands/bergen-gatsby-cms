@@ -12,6 +12,18 @@ mentors:
     name: Coming soon...
 blog:
   - body: >-
+      The throttle that was purchased arrived with a couple manufacturing
+      defects. The throttle was jamming and the wires were not extruded from the
+      correct spot. To overcome this issue, we cut out a small hole were the
+      wires would be pulled through and covered them with electrical tape to
+      enable the throttle to move properly. The next thing we covered today was
+      assembling and testing the discharging circuit. Calculations were also
+      revised and it was found that at 10kW power usage the motor will be able
+      to accelerate the motorcycle up to 27.5 m/s (61 mph).
+    date: 2019-05-22T16:57:12.536Z
+    title: Week 3
+    image: /img/esb3.jpg
+  - body: >-
       A safety kill switch was purchased along with fully insulated
       quick-disconnect terminals, steel pipe flange and a grip throttle in order
       to connect the general circuit. We are currently looking for a set of
@@ -43,16 +55,13 @@ blog:
     title: Week 1
     image: /img/esb.jpg
   - body: >-
-      The throttle that was purchased arrived with a couple manufacturing
-      defects. The throttle was jamming and the wires were not extruded from the
-      correct spot. To overcome this issue, we cut out a small hole were the
-      wires would be pulled through and covered them with electrical tape to
-      enable the throttle to move properly. The next thing we covered today was
-      assembling and testing the discharging circuit. Calculations were also
-      revised and it was found that at 10kW power usage the motor will be able
-      to accelerate the motorcycle up to 27.5 m/s (61 mph).
-    date: 2019-05-22T16:57:12.536Z
-    title: Week 3
-    image: /img/esb3.jpg
+      Today we managed to complete the circuit connecting the motor to the
+      controller. To construct the discharging unit, we cut holes in plywood for
+      the Flange and was later mounted.  The discharging circuit was also
+      completed and the group is working on a graph to track and display the
+      voltage of the battery.
+    date: 2019-05-23T17:02:00.735Z
+    title: Week 4
+    image: /img/esb4.jpg
 ---
 
