@@ -12,6 +12,15 @@ mentors:
     name: Coming soon...
 blog:
   - body: >-
+      Today we managed to complete the circuit connecting the motor to the
+      controller. To construct the discharging unit, we cut holes in plywood for
+      the Flange and was later mounted.  The discharging circuit was also
+      completed and the group is working on a graph to track and display the
+      voltage of the battery.
+    date: 2019-05-23T17:02:00.735Z
+    title: Week 4
+    image: /img/esb4.jpg
+  - body: >-
       The throttle that was purchased arrived with a couple manufacturing
       defects. The throttle was jamming and the wires were not extruded from the
       correct spot. To overcome this issue, we cut out a small hole were the
@@ -53,15 +62,6 @@ blog:
       throughout the summer.
     date: 2019-05-20T22:06:44.880Z
     title: Week 1
-    image: /img/esb.jpg
-  - body: >-
-      Today we managed to complete the circuit connecting the motor to the
-      controller. To construct the discharging unit, we cut holes in plywood for
-      the Flange and was later mounted.  The discharging circuit was also
-      completed and the group is working on a graph to track and display the
-      voltage of the battery.
-    date: 2019-05-23T17:02:00.735Z
-    title: Week 4
     image: /img/esb4.jpg
 ---
 
