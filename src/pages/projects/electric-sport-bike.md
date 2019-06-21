@@ -42,5 +42,17 @@ blog:
     date: 2019-05-20T22:06:44.880Z
     title: Week 1
     image: /img/esb.jpg
+  - body: >-
+      The throttle that was purchased arrived with a couple manufacturing
+      defects. The throttle was jamming and the wires were not extruded from the
+      correct spot. To overcome this issue, we cut out a small hole were the
+      wires would be pulled through and covered them with electrical tape to
+      enable the throttle to move properly. The next thing we covered today was
+      assembling and testing the discharging circuit. Calculations were also
+      revised and it was found that at 10kW power usage the motor will be able
+      to accelerate the motorcycle up to 27.5 m/s (61 mph).
+    date: 2019-05-22T16:57:12.536Z
+    title: Week 3
+    image: /img/esb3.jpg
 ---
 
