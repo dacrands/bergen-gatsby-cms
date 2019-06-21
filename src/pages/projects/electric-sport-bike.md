@@ -12,6 +12,22 @@ mentors:
     name: Coming soon...
 blog:
   - body: >-
+      A safety kill switch was purchased along with fully insulated
+      quick-disconnect terminals, steel pipe flange and a grip throttle in order
+      to connect the general circuit. We are currently looking for a set of
+      tires, a chain, and a sprocket for the motorcycle, however the group is
+      currently thinking to manufacture a custom sprocket. The battery was
+      disassembled in order to discharge the battery cells for safety reasons.
+      The heating element was tested with motor connected in series with it. Did
+      not heat up the heating element. However, connecting the heating element
+      by itself to the batteries (2S-1P, 6.6V) heated it up very quickly. It was
+      decided to connect cells 2S-24P for discharge. 6.6V was tested, and the
+      calculations show that the pack will be discharged in 32 hours. 9 hours a
+      day, for three and a half days.
+    date: 2019-06-21T16:37:23.080Z
+    title: Week 2
+    image: /img/esb2.jpg
+  - body: >-
       Today we welcomed Edgar Hernandez, Adrian Ortega, Erin Brett and Ben
       Wenberg to the project. The new group members were introduced to the
       motorcycle and we discussed the plans for the summer as a group. We took
