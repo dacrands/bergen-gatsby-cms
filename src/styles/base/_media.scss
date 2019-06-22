@@ -32,7 +32,7 @@
     overflow-y: hidden;    
     background: white;
     h2 {
-      margin: 0;
+      // margin: 0;
     }
   }
   .aside__nav-list {        
@@ -43,7 +43,7 @@
     display: flex;
     border-left: 1px solid $primary-border;    
     height: 100%;
-    // align-items: center;
+    align-items: center;
     text-align: center;
   }
   .aside__link-p {
