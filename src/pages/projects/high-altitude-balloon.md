@@ -38,5 +38,10 @@ students:
 mentors:
   - email: pgriffo@bergen.edu
     name: Professor Paul J. Griffo
+blog:
+  - body: "**Software/circuit:**\n\n* A quick crash course in Arduino and electronics (ALL)\r\n* Experimenting with spare Arduino (MALCOLM)\r\n* Ran through the code to understand all parts of it (ALL)\r\n* Managed to get all 3 thermistors working accurately at the same time (LANA)\r\n* Schematic was finished and now the board layout is being worked on (VITO)\r\n\n****\n\n**CAD**\n\nGetting familiar with Autodesk Fusion 360 by trying to design given objects\r:\n\n* Zach - wagon\r\n* Guery - sword & car\r\n* Luis - sword\r\n\nRail support was printed but turned out too heavy out of the printer in the TECH building:\n\n* Priority 1 was to shed as much weight as possible by shrinking and cutting after marking all places that we can change to reduce weight.\r\n* As many eyes as possible are needed on this to make sure we are not missing any obvious and/or unneeded pieces (JOSH&IAN)\r\n* We will try printing on the LulzBot in the Research Center\r\n\n****\n\n**Camera crew**\n\nLocated a probable cause in the crashing:\n\n* _GoPros_ will shut off at 125F, so ways to keep the temperature low while allowing clear visibility are being looked at (GREG&NAMI)"
+    date: 2019-05-21T15:56:17.023Z
+    title: Week 1
+    image: /img/bergen-stem-graphic.jpg
 ---
 
