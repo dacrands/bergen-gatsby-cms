@@ -1,8 +1,6 @@
 ---
 templateKey: projectTemplate
-title: >-
-  Social Hierarchy in Eastern Gray Squirrels (Sciurus carolinensis): Feeding
-  behavior of dominant and subordinate squirrels in same area
+title: Social Hierarchy in Eastern Gray Squirrels
 image: /img/carolinensis.jpg
 abstract: >-
   To further examine the social dominance in eastern gray squirrels in regard to
