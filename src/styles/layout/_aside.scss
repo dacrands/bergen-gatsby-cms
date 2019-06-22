@@ -4,27 +4,28 @@
   bottom: -50px;
   height: calc(100% - 50px);
   overflow-y: scroll;    
-  -webkit-overflow-scrolling: touch;  
-  background: $bg;
-
+  -webkit-overflow-scrolling: touch;   
+  header {
+    padding: 0 0.5rem;
+  }
 }
 
 .aside__nav-list {
+  // outline: 1px solid red;
   list-style: none;
   margin: 0;
   padding: 0;  
 }
 
 .aside__link {
+  // outline: 1px solid green;
+  border-top: 1px solid $primary-border;
   position: relative;
   display: inline-block;
   overflow: hidden;
-  box-shadow: $shadow;
-  background: white;
-  margin: 1rem;  
-  justify-content: center;
+  background: white;   
+  padding: 0.5rem;  
   text-decoration: none;
-  text-align: center;  
   transition: all 200ms ease;
   &:hover > .aside__link--overlay {  
     transform: translateX(0);
@@ -37,19 +38,15 @@
   font-weight: 600;     
 }
 
-.aside__link--overlay {
-  position: absolute;
+.aside__link--overlay {  
+  width: 220px;
   z-index: 2;  
-  color: white;
+  // color: white;
   top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  background: rgba(0, 0, 0, 0.61);
-  transform: translateX(100%);
+  left: 0;      
   transition: all 200ms ease;
 }
 
 .aside__link--active .aside__link--overlay {  
-  transform: translateX(0);
+  text-decoration: underline;
 }

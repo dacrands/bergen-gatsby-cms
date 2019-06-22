@@ -25,16 +25,29 @@
   }
 
 
-  .aside {
+  .aside {    
     position: relative;
     display: flex;
     overflow-x: scroll;
     overflow-y: hidden;    
-    
+    background: white;
+    h2 {
+      margin: 0;
+    }
   }
-
-  .aside__nav-list {    
+  .aside__nav-list {        
+    // outline: 1px solid red;
     display: flex;
+  }
+  .aside__link {
+    display: flex;
+    border-left: 1px solid $primary-border;    
+    height: 100%;
+    // align-items: center;
+    text-align: center;
+  }
+  .aside__link-p {
+    margin: 0;
   }
 
   .post {
