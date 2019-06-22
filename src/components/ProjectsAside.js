@@ -18,14 +18,7 @@ export default () => (
               frontmatter {
                 title
                 templateKey
-                abstract
-                image {
-                  childImageSharp {
-                    fixed(height: 120, quality: 100) {
-                      ...GatsbyImageSharpFixed
-                    }
-                  }
-                }
+                abstract                
               }
             }
           }
@@ -36,6 +29,9 @@ export default () => (
       const edges = data.allMarkdownRemark.edges
       return (
         <aside className="aside">
+          <header>
+            <h2>Projects</h2>
+          </header>
           <nav className="aside__nav">
             <ul className="aside__nav-list">
               {edges.map(edge => (
@@ -45,14 +41,11 @@ export default () => (
                     className="aside__link"
                     activeClassName="aside__link--active"
                   >
-                    <div className="aside__link--overlay flex--center">
+                    <div className="aside__link--overlay">
                       <p className="aside__link-p">
                         {edge.node.frontmatter.title}
                       </p>
-                    </div>
-                    <Img
-                      fixed={edge.node.frontmatter.image.childImageSharp.fixed}
-                    />
+                    </div>                    
                   </Link>
                 </li>
               ))}
