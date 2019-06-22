@@ -70,6 +70,6 @@ blog:
       throughout the summer.
     date: 2019-05-20T22:06:44.880Z
     title: Week 1
-    image: /img/esb4.jpg
+    image: /img/esb.jpg
 ---
 
