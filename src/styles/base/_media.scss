@@ -1,7 +1,10 @@
-@media(max-width:768px) {
+@media(max-width:875px) {
+  
+  .form {
+    order: 2;
+  }
 
-  .section 
-  .grid-two {
+  .row {
     display: flex;
     flex-direction: column;    
   }
@@ -14,10 +17,6 @@
   .section__content {
     order: 1;
   }  
-
-  .form {
-    order: 2;
-  }
 
   .section__content,
   .section__media {
@@ -32,9 +31,6 @@
     overflow-y: hidden;    
     background: white;
     border-bottom: 1px solid $primary-border;
-    h2 {
-      // margin: 0;
-    }
   }
   .aside__nav-list {        
     // outline: 1px solid red;

@@ -25,12 +25,13 @@ export default ({ data }) => {
           </Link>
         </div>
       </header>
+
       <section className="section section--border section--big bg-light">
-          <div className="grid-two grid-two--big container center">
-            <div className="section__media">
+          <div className="row container center">
+            <div className="col section__media">
               <Img fluid={edges[3].node.childImageSharp.fluid} />
             </div>
-            <div className="section__content">
+            <div className="col section__content">
               <h2>Research</h2>
               <p>
                 From rockets to algae biodiesel, Bergen Community college offers
@@ -46,9 +47,10 @@ export default ({ data }) => {
             </div>
           </div>        
       </section>
+
       <section className="section section--border section--big bg-med">        
-          <div className="grid-two grid-two--big container center">
-            <div className="section__content">
+          <div className="row container center">
+            <div className="col section__content">
               <h2>STEM Student Scholars (3SP)</h2>
               <p>
                 Promotes excellence in knowledge, skills and ability of a select
@@ -60,18 +62,18 @@ export default ({ data }) => {
                 3SP
               </Link>
             </div>
-            <div className="section__media">
+            <div className="col section__media">
               <Img fluid={edges[0].node.childImageSharp.fluid} />
             </div>
           </div>        
       </section>
 
       <section className="section section--border section--big bg-light">        
-          <div className="grid-two grid-two--big container center">
-            <div className="section__media">
+          <div className="row container center">
+            <div className="col section__media">
               <Img fluid={edges[2].node.childImageSharp.fluid} />
             </div>
-            <div className="section__content">
+            <div className="col section__content">
               <h2>Running Start Program</h2>
               <p>
                 Prep Classes are designed to give students a better foundation
@@ -103,8 +105,8 @@ export default ({ data }) => {
 
       <section className="section section--big bg-med">        
           <div className="container">
-            <div className="grid-two center">
-              <div className="section__content">
+            <div className="row center">
+              <div className="col section__content">
                 <h2>Want to get involved in STEM?</h2>
                 <p>
                   We are always looking for passionate students to propose new
@@ -113,7 +115,7 @@ export default ({ data }) => {
                   with your name, email, and research interests.
                 </p>
               </div>
-              <Form />
+              <Form className="col"/>
             </div>
           </div>        
       </section>
