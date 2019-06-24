@@ -73,8 +73,8 @@ export default function ProjectTemplate({ data }) {
                   return (
                     <article className="card">                      
                       <div className="card__title">
-                        <p><em>{post.date}</em></p>
                         <h3>{post.title}</h3>
+                        <p><em>{post.date}</em></p>
                         <hr/>
                       </div>
                       <div className="card__img">
