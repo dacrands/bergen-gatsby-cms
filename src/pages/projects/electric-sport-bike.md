@@ -1,7 +1,7 @@
 ---
 templateKey: projectTemplate
 title: Electric Sport Bike
-image: /img/electric-bike.jpg
+image: /img/esb.jpg
 abstract: Coming soon...
 meeting: Coming soon...
 students:
