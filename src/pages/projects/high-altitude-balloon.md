@@ -1,7 +1,7 @@
 ---
 templateKey: projectTemplate
 title: 'High Altitude Balloon '
-image: /img/balloon-project.jpg
+image: /img/hab.png
 abstract: >-
   An extension of lessons learned from Bergen Community College’s ongoing High
   Altitude Balloon Program prompted the development of a meteor dust capture and
