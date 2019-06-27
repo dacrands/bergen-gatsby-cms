@@ -8,7 +8,7 @@ abstract: >-
   literature reviews and results verification, we have found that LLDPE, UHMWPE,
   PET, and polycarbonate could be used as replacements for muscle, cartilage,
   ligament, and bone respectively.
-meeting: Mon-Thu 10-12 and 1-3
+meeting: 'Mon-Thu, 10-12 and 1-3'
 students:
   - email: alexmariecortez@gmail.com
     name: Alexandra Cortez
