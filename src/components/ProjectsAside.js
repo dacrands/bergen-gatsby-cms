@@ -29,27 +29,17 @@ export default () => (
       const edges = data.allMarkdownRemark.edges
       return (
         <aside className="aside">
-          <header>
-            <h2>Projects</h2>
-          </header>
-          <nav className="aside__nav">
-            <ul className="aside__nav-list">
-              {edges.map(edge => (
-                <li key={edge.node.id}>
+          <nav className="aside__nav">            
+              {edges.map(edge => (                
                   <Link
+                    key={edge.node.id}
                     to={edge.node.fields.slug}
                     className="aside__link"
                     activeClassName="aside__link--active"
-                  >
-                    <div className="aside__link--overlay">
-                      <p className="aside__link-p">
-                        {edge.node.frontmatter.title}
-                      </p>
-                    </div>                    
-                  </Link>
-                </li>
-              ))}
-            </ul>
+                  >                    
+                    {edge.node.frontmatter.title}                  
+                  </Link>                
+              ))}            
           </nav>
         </aside>
       )

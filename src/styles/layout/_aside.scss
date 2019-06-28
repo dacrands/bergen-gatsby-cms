@@ -5,6 +5,7 @@
   height: calc(100% - 50px);
   overflow-y: scroll;    
   -webkit-overflow-scrolling: touch;   
+  width: 250px;
   header {
     padding: 0 0.5rem;
   }
@@ -14,39 +15,21 @@
   // outline: 1px solid red;
   list-style: none;
   margin: 0;
-  padding: 0;  
+  padding: 0;      
 }
 
 .aside__link {
-  // outline: 1px solid green;
-  border-top: 1px solid $primary-border;
-  position: relative;
-  display: inline-block;
-  overflow: hidden;
-  background: white;   
-  padding: 0.5rem;  
+  // outline: 1px solid green;    
+  border-top: 1px solid $primary-border;  
+  display: block;  
+  padding: 1.5rem 0.5rem;  
   text-decoration: none;
-  transition: all 200ms ease;
-  &:hover > .aside__link--overlay {  
-    transform: translateX(0);
-  }
-}
-
-.aside__link-p {
-  margin-top: .5rem;
+  transition: all 200ms ease;  
   font-size: 80%;
-  font-weight: 600;     
+  font-weight: 600;       
 }
 
-.aside__link--overlay {  
-  width: 220px;
-  z-index: 2;  
-  // color: white;
-  top: 0;
-  left: 0;      
-  transition: all 200ms ease;
-}
 
-.aside__link--active .aside__link--overlay {  
-  text-decoration: underline;
+.aside__link--active  {    
+  background: $bg;
 }

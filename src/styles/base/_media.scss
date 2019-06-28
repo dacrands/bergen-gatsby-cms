@@ -30,26 +30,27 @@
 
 
   .aside {    
+    // outline: 1px solid red;
     position: relative;
-    display: flex;
+    // display: flex;
+    width: 100%;
     overflow-x: scroll;
     overflow-y: hidden;    
     background: white;
     border-bottom: 1px solid $primary-border;
   }
-  .aside__nav-list {        
-    // outline: 1px solid red;
+
+  .aside__nav {
     display: flex;
   }
-  .aside__link {
-    display: flex;
-    border-left: 1px solid $primary-border;    
-    height: 100%;
+
+  .aside__link { 
+    min-width: 200px;       
+    display: flex;    
+    border-left: 1px solid $primary-border;        
+    padding: 0.5rem 2rem;
     align-items: center;
-    text-align: center;
-  }
-  .aside__link-p {
-    margin: 0;
+    justify-content: center;
   }
 
   .post {
