@@ -10,6 +10,10 @@
     flex-direction: column;    
   }
 
+  .col:first-of-type {
+    margin-right: 0;
+  }
+
   .section .center {
     justify-content: initial;
     align-items: initial;
