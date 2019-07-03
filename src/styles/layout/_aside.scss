@@ -11,14 +11,7 @@
   }
 }
 
-.aside__nav-list {
-  // outline: 1px solid red;
-  list-style: none;
-  margin: 0;
-  padding: 0;      
-}
-
-.aside__link {
+.aside__nav-link {
   // outline: 1px solid green;    
   border-top: 1px solid $primary-border;  
   display: block;  
@@ -29,7 +22,6 @@
   font-weight: 600;       
 }
 
-
-.aside__link--active  {    
+.aside__nav-link--active  {    
   background: $bg;
 }

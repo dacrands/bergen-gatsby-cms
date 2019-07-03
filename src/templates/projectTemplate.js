@@ -41,7 +41,7 @@ export default function ProjectTemplate({ data }) {
             <ul>
               {
                 frontmatter.students.map(student => (
-                  <li>                    
+                  <li key={student.name}>                    
                     {student.name} &mdash; {` `}                
                   <a href={`mailto:${student.email}`}>{student.email}</a>
                   </li>
@@ -54,7 +54,7 @@ export default function ProjectTemplate({ data }) {
             <ul>
               {
                 frontmatter.mentors.map(mentor => (
-                  <li>                    
+                  <li key={mentor.name}>                    
                   {mentor.name} &mdash; {` `}                                
                   <a href={`mailto:${mentor.email}`}>{mentor.email}</a>
                   </li>
@@ -71,7 +71,9 @@ export default function ProjectTemplate({ data }) {
                 frontmatter.blog
                 ? frontmatter.blog.map(post => {
                   return (
-                    <article className="card">                      
+                    <article 
+                      key={post.title}
+                      className="card">                      
                       <div className="card__title">
                         <h3>{post.title}</h3>
                         <p><em>{post.date}</em></p>
@@ -112,7 +114,7 @@ export const query = graphql`
             email
             name
         }
-        blog {
+        blog {          
           date(formatString: "MMMM, DD YYYY")
           title
           body

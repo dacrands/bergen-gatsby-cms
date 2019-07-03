@@ -1,6 +1,5 @@
 import React from "react"
 import { StaticQuery, graphql, Link } from "gatsby"
-import Img from "gatsby-image"
 
 export default () => (
   <StaticQuery
@@ -16,9 +15,7 @@ export default () => (
                 slug
               }
               frontmatter {
-                title
-                templateKey
-                abstract                
+                title             
               }
             }
           }
@@ -27,6 +24,7 @@ export default () => (
     `}
     render={data => {
       const edges = data.allMarkdownRemark.edges
+      
       return (
         <aside className="aside">
           <nav className="aside__nav">            
@@ -34,8 +32,8 @@ export default () => (
                   <Link
                     key={edge.node.id}
                     to={edge.node.fields.slug}
-                    className="aside__link"
-                    activeClassName="aside__link--active"
+                    className="aside__nav-link"
+                    activeClassName="aside__nav-link--active"
                   >                    
                     {edge.node.frontmatter.title}                  
                   </Link>                
