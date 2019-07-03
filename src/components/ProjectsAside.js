@@ -32,8 +32,8 @@ export default () => (
                   <Link
                     key={edge.node.id}
                     to={edge.node.fields.slug}
-                    className="aside__link"
-                    activeClassName="aside__link--active"
+                    className="aside__nav-link"
+                    activeClassName="aside__nav-link--active"
                   >                    
                     {edge.node.frontmatter.title}                  
                   </Link>                
