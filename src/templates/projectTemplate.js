@@ -3,10 +3,10 @@ import showdown from 'showdown'
 import { graphql } from "gatsby"
 import Img from "gatsby-image"
 
-import Navbar from "../components/Navbar"
-import ProjectAside from "../components/ProjectsAside"
+import "../components/ProjectLayout"
 
 import "../styles/main.scss"
+import ProjectLayout from "../components/ProjectLayout";
 
 const converter = new showdown.Converter()
 
@@ -14,16 +14,13 @@ export default function ProjectTemplate({ data }) {
   const { markdownRemark } = data
   const { frontmatter } = markdownRemark
   return (
-    <main>
-      <Navbar fixed={true} />
-      <ProjectAside />
+    <ProjectLayout>      
       <div className="post">
         <div className="bg-dark">
           <div className="container container--small post__hero">
             <Img fluid={frontmatter.image.childImageSharp.fluid} />
           </div>
         </div>
-
         <div className="container container--small">
           <header className="header">
             <h1>{frontmatter.title}</h1>
@@ -62,8 +59,7 @@ export default function ProjectTemplate({ data }) {
               }
             </ul>
           </div>
-        </div>
-        
+        </div>        
           <section className="project-blogs">  
             <div className="container container--small">
               {frontmatter.blog ?  <h2>Blog</h2> : null }
@@ -93,7 +89,7 @@ export default function ProjectTemplate({ data }) {
             </div>          
           </section>        
       </div>
-    </main>
+    </ProjectLayout>
   )
 }
 
