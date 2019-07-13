@@ -44,5 +44,28 @@ blog:
     date: 2019-05-20T22:22:36.695Z
     title: Week 1
     image: /img/robotics-week-0.jpg
+  - body: >-
+      I finished working on the base today and now I am researching about the
+      VEX competition for 2019- 2020. 
+
+
+      The registration date for the VEX competition was already closed. I was
+      researching the different options for us to have a competition. I spent
+      the whole day researching about the college and the competition they are
+      having in their colleges.
+
+
+      I reached out to some of the school for the competition but those
+      competition was only for the middle and high school. I was still
+      researching about the colleges and other options which we can use our
+      robot for.
+
+
+      On Thursday we decided that we will build our robot based on the
+      requirement of the VEX competition and we will use that robot for the
+      scrimmage if any college are available.
+    date: 2019-05-28T22:01:03.784Z
+    title: Week 2
+    image: /img/robotics-week-1.jpg
 ---
 
