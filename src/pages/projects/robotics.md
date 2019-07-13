@@ -67,5 +67,11 @@ blog:
     date: 2019-05-28T22:01:03.784Z
     title: Week 2
     image: /img/robotics-week-1.jpg
+  - body: >-
+      I spent all Monday researching the concept for the robot and the rules for
+      the VEX competition 2019-2020 tower takeover.
+    date: 2019-06-04T23:21:48.958Z
+    title: Week 3
+    image: /img/robotics-week-2.jpg
 ---
 
