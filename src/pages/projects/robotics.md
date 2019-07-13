@@ -21,9 +21,11 @@ mentors:
   - email: bbenjamin@bergen.edu
     name: Bruce Benjamin
 blog:
-  - body: Coming soon...
-    date: 2019-06-19T22:22:36.695Z
-    title: First Blog
+  - body: >-
+      It is the first day of the internship for the summer of 2019. We spent
+      most of our day transferring the robotics stuff in the new STEMatics room.
+    date: 2019-05-20T22:22:36.695Z
+    title: Week 1
     image: /img/bergen-stem-graphic.jpg
 ---
 
