@@ -1,8 +1,6 @@
 ---
 templateKey: projectTemplate
-title: >-
-  The Impact of Visuals Aids on Memory Skills through Qualitative Surveys and
-  Quantitative Data Analysis
+title: The Impact of Visuals Aids on Memory Skills
 image: /img/eeg-main.jpg
 abstract: >-
   Biofeedback instruments help understand the physiological responses to stimuli
