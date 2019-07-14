@@ -28,6 +28,10 @@ students:
     name: Riya Chaudhary
   - email: emarshyti11868@me.bergen.edu
     name: Erika Marshyti
+  - email: tkim117607@me.bergen.edu
+    name: Tae Min Kim (Tae)
+  - email: shernandez43443@me.bergen.edu
+    name: Sara Hernandez
 mentors:
   - email: cdilauro@bergen.edu
     name: Dr. DiLauro
