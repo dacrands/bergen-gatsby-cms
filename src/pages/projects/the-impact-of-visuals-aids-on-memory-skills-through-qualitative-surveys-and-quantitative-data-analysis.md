@@ -35,5 +35,9 @@ blog:
     date: 2019-05-22T01:18:54.126Z
     title: Week 1
     image: /img/bergen-stem-graphic.jpg
+  - body: "Today we started the purchase order request form. Also, we started looking into why the brain reacts with fear while something scares us. (<https://www.businessinsider.com/what-happen s-when-you-are-scared-2015-10>). The link explains clearly what part of the brain are affected, and how that helped the human population years ago, and how that effect has evolved. \n\n_Ideas:_ \r\n\n* Social media, videos (horror, comedy, sad) How watching different genres of videos could affect the mood of a person. \r\n* How emotions triggered by different genres of movies affect our internal body (brain waves, heartbeat, perspiration) \r\n\n_For BioPac:_ \r\n\n* Lesson 7 (testing) and 9 (table)\r\n\n_Possible Videos:_\r\n\n* Comedy - \r\n* Horror - \r\n* Sad - <https://www.youtube.com/watch?v=F2bk_9T482g>"
+    date: 2019-07-14T01:20:22.301Z
+    title: Week 2
+    image: /img/bergen-stem-graphic.jpg
 ---
 
