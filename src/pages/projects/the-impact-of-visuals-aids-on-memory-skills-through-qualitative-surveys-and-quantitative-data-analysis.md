@@ -20,6 +20,14 @@ meeting: 'Monday - Thursday, 10:00AM - 2:00PM'
 students:
   - email: dchae@me.bergen.edu
     name: Danbee (Sarah) Chae
+  - email: tkim113231@me.bergen.edu
+    name: Tae Kyung Kim (Tim)
+  - email: aturku@me.bergen.edu
+    name: Adelajda Turku
+  - email: rchaudhary@me.bergen.edu
+    name: Riya Chaudhary
+  - email: emarshyti11868@me.bergen.edu
+    name: Erika Marshyti
 mentors:
   - email: cdilauro@bergen.edu
     name: Dr. DiLauro
