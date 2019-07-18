@@ -2,7 +2,7 @@
 import React from 'react'
 import { navigate } from 'gatsby'
 
-const MAJORS = ["Physics", "Engineering", "Chemistry", "Biology", "CompSci", "Mathematics"]
+const MAJORS = ["Physics", "Engineering", "Chemistry", "Biology", "CompSci", "Mathematics", "Other", "Undecided"]
 
 function encode(data) {
   return Object.keys(data)
