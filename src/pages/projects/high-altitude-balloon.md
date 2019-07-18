@@ -13,7 +13,7 @@ abstract: >-
   pressure experiment.
 meeting: 'Monday through Thursday  8:00 am - 12:00 pm, 1:00 pm - 3:00 pm'
 students:
-  - email: lcedeno112082@me.bergem.edu
+  - email: lcedeno112082@me.bergen.edu
     name: Luis Cedeno
   - email: zcitti@me.bergen.edu
     name: Zachary Citti
