@@ -3,8 +3,6 @@ import showdown from 'showdown'
 import { graphql } from "gatsby"
 import Img from "gatsby-image"
 
-import "../components/ProjectLayout"
-
 import "../styles/main.scss"
 import ProjectLayout from "../components/ProjectLayout";
 
