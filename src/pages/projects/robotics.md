@@ -22,28 +22,11 @@ mentors:
     name: Bruce Benjamin
 blog:
   - body: >-
-      It is the first day of the internship for the summer of 2019. We spent
-      most of our day transferring the robotics stuff in the new STEMatics room.
-
-
-      The stuff which we were not able to transfer to the new room, we
-      transferred in the next day. Most of our day we spent it in organizing the
-      stuff.
-
-
-      On Wednesday, we organized bits and pieces of the metal and the tools. The
-      tools and the metal pieces we have was not easily accessible. we spent the
-      day making the working place clutter free. We also discussed about how to
-      manage the tools and organize all the stuff so that it is easily
-      accessible to everyone
-
-
-      Since I am only one doing the internship, I spent most of the day working
-      on the base of our robot. According to my plan I am planning to work on
-      the base first and make it more stable.
-    date: 2019-05-20T22:22:36.695Z
-    title: Week 1
-    image: /img/robotics-week-0.jpg
+      I spent all Monday researching the concept for the robot and the rules for
+      the VEX competition 2019-2020 tower takeover.
+    date: 2019-06-04T23:21:48.958Z
+    title: Week 3
+    image: /img/robotics-week-2.jpg
   - body: >-
       I finished working on the base today and now I am researching about the
       VEX competition for 2019- 2020. 
@@ -68,10 +51,27 @@ blog:
     title: Week 2
     image: /img/robotics-week-1.jpg
   - body: >-
-      I spent all Monday researching the concept for the robot and the rules for
-      the VEX competition 2019-2020 tower takeover.
-    date: 2019-06-04T23:21:48.958Z
-    title: Week 3
-    image: /img/robotics-week-2.jpg
+      It is the first day of the internship for the summer of 2019. We spent
+      most of our day transferring the robotics stuff in the new STEMatics room.
+
+
+      The stuff which we were not able to transfer to the new room, we
+      transferred in the next day. Most of our day we spent it in organizing the
+      stuff.
+
+
+      On Wednesday, we organized bits and pieces of the metal and the tools. The
+      tools and the metal pieces we have was not easily accessible. we spent the
+      day making the working place clutter free. We also discussed about how to
+      manage the tools and organize all the stuff so that it is easily
+      accessible to everyone
+
+
+      Since I am only one doing the internship, I spent most of the day working
+      on the base of our robot. According to my plan I am planning to work on
+      the base first and make it more stable.
+    date: 2019-05-20T22:22:36.695Z
+    title: Week 1
+    image: /img/robotics-week-0.jpg
 ---
 
