@@ -73,5 +73,34 @@ blog:
     date: 2019-05-20T22:22:36.695Z
     title: Week 1
     image: /img/robotics-week-0.jpg
+  - body: >-
+      July 8, 2019
+
+
+      In summer one, we finished working on building the solid base and the
+      support for the arms. I(Deepa) spent most of the time on Monday working on
+      improving some parts of robot and started working on building mechanism
+      for picking up the cubes.
+
+
+      Work picked up and I (Tyler) started focusing on parts needed for future
+      attachment such as the lifting mechanism, cube intake method, and
+      adjustments needed for the lifting mechanism. For the rest of Tuesday I 
+      also prepared the purchase request forum for tools.
+
+
+      On Wednesday, Tyler and Deepa was working on the support for the arms of
+      the robot. During the process we encounter some of the issues with the
+      arms which was not allowing the arms to move efficiently. We researched
+      and try to apply different mechanism to solve the problem but none of the
+      method was helping. So we spent all day working on solving the problem.
+
+
+      On Thursday, Deepa was working on extending parts of an arm. As well Tyler
+      was working on the mechanism to lift both arms of the superstructure so
+      orientation of both gears go in the right direction.
+    date: 2019-07-08T21:02:55.763Z
+    title: 'Week 4 '
+    image: /img/screen-shot-2019-07-30-at-5.04.05-pm.png
 ---
 
