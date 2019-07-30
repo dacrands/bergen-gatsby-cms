@@ -64,5 +64,19 @@ blog:
     date: 2019-05-27T04:00:00.000Z
     title: 'Week 2 '
     image: /img/bergen-stem-graphic.jpg
+  - body: >-
+      Created some UI designs of the: Splash screen, Login screen, Home screen.
+      Going to be implemented next week in Ionic with minimal
+      functionality.(insert pics of GUI)
+
+
+      Becoming more comfortable with Ionic to the point where we can rely on the
+      Ionic documentation to guide us rather than tutorials. We learned what an
+      API is, how it gets and returns data from a database, how to implement
+      APIs in projects, what OCR is and how to use it, and finally how to
+      connect back-end code to front-end code via routing and modules.
+    date: 2019-06-03T04:00:00.000Z
+    title: 'Week 3 '
+    image: /img/bergen-stem-graphic.jpg
 ---
 
