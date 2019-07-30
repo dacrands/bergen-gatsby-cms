@@ -78,5 +78,21 @@ blog:
     date: 2019-06-03T04:00:00.000Z
     title: 'Week 3 '
     image: /img/bergen-stem-graphic.jpg
+  - body: >-
+      Compiled a list of the companies which allow its users to opt-out from
+      their servers and added the list to our Firebase. Now attempting to link
+      the API to use data from the Firebase which is the first step of the
+      process; putting in the request. 
+
+
+      Hardcoded the “Unsubscribe” feature in the prototype for demonstration
+      purposes. Currently trying to figure out how to legitimately unsubscribe
+      the user from the sender automatically. This is the hardest part of the
+      project, and we are brainstorming ideas. As an alternative, we are also
+      implementing a form that allows the user to manually input information
+      which would also unsubscribe them, except it would lack automation.
+    date: 2019-06-10T20:29:12.416Z
+    title: Week 4
+    image: /img/bergen-stem-graphic.jpg
 ---
 
