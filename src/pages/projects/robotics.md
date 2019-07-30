@@ -22,6 +22,39 @@ mentors:
     name: Bruce Benjamin
 blog:
   - body: >-
+      Deepa finished half of the stacker mechanism. I was trying to attach the
+      stacker mechanism to the robot and was trying to build an extension
+      mechanism to the stacker, but I was having trouble with it. Tyler worked
+      preparing the game piece to help with experimentation for the robot with
+      3D printing of the cube.
+
+
+      Deepa was working on the stacker and I spent the whole Tuesday working on
+      it. However, I could not figure out the extension for the stacker and I
+      was having trouble with attaching it. 
+
+
+      The mechanism Deepa and Tyler is working for the robot is almost done
+      however, we were having trouble fixing minor problems. The stacking
+      mechanism Deepa has been working on was not functionable because there was
+      no grip for the cube to stay in the stacker and the stacking of cube
+      requires extra push to extend the stacker. Deepa was trying to understand
+      how that mechanism will work and spend the whole day researching. As well
+      Chalres and Tyler focused on a new idea of the chassis and made it similar
+      to that of Cherry and Blueberry.
+
+
+      Deepa tried to experiment with different mechanism for the stacker to work
+      properly. Tyler had completed the first piece of the VEX game piece and is
+      preparing for next week to print the other half. As well as fixing issues
+      with the electronics from changing the chassis of the robot.
+
+
+      ![](/img/screen-shot-2019-07-30-at-5.14.40-pm.png)
+    date: 2019-07-22T21:12:44.920Z
+    title: Week 6
+    image: /img/screen-shot-2019-07-30-at-5.14.49-pm.png
+  - body: >-
       On July 15, Tyler and Deepa was working on the extension part for the arm
       and motors to the super structure. However, we had to reconfigure some of
       the mechanism which took us all day to figure out. We did figure out what
@@ -130,38 +163,5 @@ blog:
     date: 2019-05-20T22:22:36.695Z
     title: Week 1
     image: /img/robotics-week-0.jpg
-  - body: >-
-      Deepa finished half of the stacker mechanism. I was trying to attach the
-      stacker mechanism to the robot and was trying to build an extension
-      mechanism to the stacker, but I was having trouble with it. Tyler worked
-      preparing the game piece to help with experimentation for the robot with
-      3D printing of the cube.
-
-
-      Deepa was working on the stacker and I spent the whole Tuesday working on
-      it. However, I could not figure out the extension for the stacker and I
-      was having trouble with attaching it. 
-
-
-      The mechanism Deepa and Tyler is working for the robot is almost done
-      however, we were having trouble fixing minor problems. The stacking
-      mechanism Deepa has been working on was not functionable because there was
-      no grip for the cube to stay in the stacker and the stacking of cube
-      requires extra push to extend the stacker. Deepa was trying to understand
-      how that mechanism will work and spend the whole day researching. As well
-      Chalres and Tyler focused on a new idea of the chassis and made it similar
-      to that of Cherry and Blueberry.
-
-
-      Deepa tried to experiment with different mechanism for the stacker to work
-      properly. Tyler had completed the first piece of the VEX game piece and is
-      preparing for next week to print the other half. As well as fixing issues
-      with the electronics from changing the chassis of the robot.
-
-
-      ![](/img/screen-shot-2019-07-30-at-5.14.40-pm.png)
-    date: 2019-07-22T21:12:44.920Z
-    title: Week 6
-    image: /img/screen-shot-2019-07-30-at-5.14.49-pm.png
 ---
 
