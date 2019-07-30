@@ -22,6 +22,34 @@ mentors:
     name: Bruce Benjamin
 blog:
   - body: >-
+      On July 15, Tyler and Deepa was working on the extension part for the arm
+      and motors to the super structure. However, we had to reconfigure some of
+      the mechanism which took us all day to figure out. We did figure out what
+      was causing the issue, but we were not able to finish the work today. We
+      will hopefully continue working on it to finish if we do not encounter any
+      issues.
+
+
+      The motors and the gear we used for the extension arm was not
+      complimenting each other. Deepa was watching videos and researching how
+      people solved the problems. Tyler went to the Tech building and got the
+      four pieces cut needed for the arm extension. Deepa also worked on the arm
+      and completed it.
+
+
+      Deepa finished working on the cube stacked mechanism. This is a new
+      mechanism we are trying this summer, in the process of making it, we were
+      researching, watching videos to understand the mechanism and to modify it.
+      Issue came across with a test to actually lift the superstructure, looking
+      into replacing motors with stronger ones.
+
+
+      On Thursday, Tyler worked on attaching the extension arm to the robot.
+      Deepa finished working on the stacker.
+    date: 2019-07-15T21:10:08.062Z
+    title: 'Week 5 '
+    image: /img/screen-shot-2019-07-30-at-5.11.33-pm.png
+  - body: >-
       July 8, 2019
 
 
@@ -103,32 +131,37 @@ blog:
     title: Week 1
     image: /img/robotics-week-0.jpg
   - body: >-
-      On July 15, Tyler and Deepa was working on the extension part for the arm
-      and motors to the super structure. However, we had to reconfigure some of
-      the mechanism which took us all day to figure out. We did figure out what
-      was causing the issue, but we were not able to finish the work today. We
-      will hopefully continue working on it to finish if we do not encounter any
-      issues.
+      Deepa finished half of the stacker mechanism. I was trying to attach the
+      stacker mechanism to the robot and was trying to build an extension
+      mechanism to the stacker, but I was having trouble with it. Tyler worked
+      preparing the game piece to help with experimentation for the robot with
+      3D printing of the cube.
 
 
-      The motors and the gear we used for the extension arm was not
-      complimenting each other. Deepa was watching videos and researching how
-      people solved the problems. Tyler went to the Tech building and got the
-      four pieces cut needed for the arm extension. Deepa also worked on the arm
-      and completed it.
+      Deepa was working on the stacker and I spent the whole Tuesday working on
+      it. However, I could not figure out the extension for the stacker and I
+      was having trouble with attaching it. 
 
 
-      Deepa finished working on the cube stacked mechanism. This is a new
-      mechanism we are trying this summer, in the process of making it, we were
-      researching, watching videos to understand the mechanism and to modify it.
-      Issue came across with a test to actually lift the superstructure, looking
-      into replacing motors with stronger ones.
+      The mechanism Deepa and Tyler is working for the robot is almost done
+      however, we were having trouble fixing minor problems. The stacking
+      mechanism Deepa has been working on was not functionable because there was
+      no grip for the cube to stay in the stacker and the stacking of cube
+      requires extra push to extend the stacker. Deepa was trying to understand
+      how that mechanism will work and spend the whole day researching. As well
+      Chalres and Tyler focused on a new idea of the chassis and made it similar
+      to that of Cherry and Blueberry.
 
 
-      On Thursday, Tyler worked on attaching the extension arm to the robot.
-      Deepa finished working on the stacker.
-    date: 2019-07-15T21:10:08.062Z
-    title: 'Week 5 '
-    image: /img/screen-shot-2019-07-30-at-5.11.33-pm.png
+      Deepa tried to experiment with different mechanism for the stacker to work
+      properly. Tyler had completed the first piece of the VEX game piece and is
+      preparing for next week to print the other half. As well as fixing issues
+      with the electronics from changing the chassis of the robot.
+
+
+      ![](/img/screen-shot-2019-07-30-at-5.14.40-pm.png)
+    date: 2019-07-22T21:12:44.920Z
+    title: Week 6
+    image: /img/screen-shot-2019-07-30-at-5.14.49-pm.png
 ---
 
