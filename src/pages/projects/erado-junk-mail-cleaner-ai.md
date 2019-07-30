@@ -43,5 +43,26 @@ blog:
     date: 2019-05-20T04:00:00.000Z
     title: Week 1
     image: /img/bergen-stem-graphic.jpg
+  - body: >-
+      Created a prototype app which accesses Firebase and the device’s camera.
+      The app can query the database, and receive information. It should be
+      noted that the prototype was built in Android Studios which uses the Java
+      language. The next step would be to upload the code to the Github repo and
+      then port the code into the Ionic framework.  (insert video and
+      screenshots)
+
+
+      Team members have been learning how to use JavaScript, Angular, and Ionic.
+      These are the technologies required to work on the project. A “learn by
+      doing” approach is being taken as each member is creating a small app on
+      the Ionic framework. They also utilize OCR APIs and Firebase, technologies
+      which are relevant to our project.
+
+
+      A repository on Github was created for the project. This way everyone can
+      work on the same files simultaneously, and test functionality.
+    date: 2019-05-27T04:00:00.000Z
+    title: 'Week 2 '
+    image: /img/bergen-stem-graphic.jpg
 ---
 
