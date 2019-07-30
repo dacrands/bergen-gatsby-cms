@@ -5,8 +5,14 @@ image: /img/esb.jpg
 abstract: Coming soon...
 meeting: Coming soon...
 students:
-  - email: Coming soon...
-    name: Coming soon...
+  - email: mmalko@me.bergen.edu
+    name: Mykhailo Malko
+  - email: ppaszkiewicz@me.bergen.edu
+    name: Patrycja Paszkiewicz
+  - email: ebrett@me.bergen.edu
+    name: Erin Brett
+  - email: ajeong@me.bergen.edu
+    name: Ahyeong Jeong
 mentors:
   - email: mbalzarette@bergen.edu
     name: Mark Balzarette
