@@ -94,5 +94,21 @@ blog:
     date: 2019-06-10T20:29:12.416Z
     title: Week 4
     image: /img/bergen-stem-graphic.jpg
+  - body: >-
+      This week we presented our project to all of the other teams. A slide-show
+      was created to showcase the project. The link to view it is included in
+      this post. We brainstormed some features we would like to add to the app
+      in the future and included them at the end of our presentation. These
+      include bolstering our unsubscribe database, developing the app in Ionic,
+      and creating our own API.
+
+
+      **_Link to view presentation Slides:_**
+
+
+      https://docs.google.com/presentation/d/1VrKGWPugVJ_iGYAA9f9ValCkJEt7vDiNRGMbCAzRtoA/edit?usp=sharing
+    date: 2019-06-17T20:30:43.360Z
+    title: Week 5
+    image: /img/bergen-stem-graphic.jpg
 ---
 
