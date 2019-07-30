@@ -22,6 +22,35 @@ mentors:
     name: Bruce Benjamin
 blog:
   - body: >-
+      July 8, 2019
+
+
+      In summer one, we finished working on building the solid base and the
+      support for the arms. I(Deepa) spent most of the time on Monday working on
+      improving some parts of robot and started working on building mechanism
+      for picking up the cubes.
+
+
+      Work picked up and I (Tyler) started focusing on parts needed for future
+      attachment such as the lifting mechanism, cube intake method, and
+      adjustments needed for the lifting mechanism. For the rest of Tuesday I 
+      also prepared the purchase request forum for tools.
+
+
+      On Wednesday, Tyler and Deepa was working on the support for the arms of
+      the robot. During the process we encounter some of the issues with the
+      arms which was not allowing the arms to move efficiently. We researched
+      and try to apply different mechanism to solve the problem but none of the
+      method was helping. So we spent all day working on solving the problem.
+
+
+      On Thursday, Deepa was working on extending parts of an arm. As well Tyler
+      was working on the mechanism to lift both arms of the superstructure so
+      orientation of both gears go in the right direction.
+    date: 2019-07-08T21:02:55.763Z
+    title: 'Week 4 '
+    image: /img/screen-shot-2019-07-30-at-5.04.05-pm.png
+  - body: >-
       I spent all Monday researching the concept for the robot and the rules for
       the VEX competition 2019-2020 tower takeover.
     date: 2019-06-04T23:21:48.958Z
@@ -74,33 +103,32 @@ blog:
     title: Week 1
     image: /img/robotics-week-0.jpg
   - body: >-
-      July 8, 2019
+      On July 15, Tyler and Deepa was working on the extension part for the arm
+      and motors to the super structure. However, we had to reconfigure some of
+      the mechanism which took us all day to figure out. We did figure out what
+      was causing the issue, but we were not able to finish the work today. We
+      will hopefully continue working on it to finish if we do not encounter any
+      issues.
 
 
-      In summer one, we finished working on building the solid base and the
-      support for the arms. I(Deepa) spent most of the time on Monday working on
-      improving some parts of robot and started working on building mechanism
-      for picking up the cubes.
+      The motors and the gear we used for the extension arm was not
+      complimenting each other. Deepa was watching videos and researching how
+      people solved the problems. Tyler went to the Tech building and got the
+      four pieces cut needed for the arm extension. Deepa also worked on the arm
+      and completed it.
 
 
-      Work picked up and I (Tyler) started focusing on parts needed for future
-      attachment such as the lifting mechanism, cube intake method, and
-      adjustments needed for the lifting mechanism. For the rest of Tuesday I 
-      also prepared the purchase request forum for tools.
+      Deepa finished working on the cube stacked mechanism. This is a new
+      mechanism we are trying this summer, in the process of making it, we were
+      researching, watching videos to understand the mechanism and to modify it.
+      Issue came across with a test to actually lift the superstructure, looking
+      into replacing motors with stronger ones.
 
 
-      On Wednesday, Tyler and Deepa was working on the support for the arms of
-      the robot. During the process we encounter some of the issues with the
-      arms which was not allowing the arms to move efficiently. We researched
-      and try to apply different mechanism to solve the problem but none of the
-      method was helping. So we spent all day working on solving the problem.
-
-
-      On Thursday, Deepa was working on extending parts of an arm. As well Tyler
-      was working on the mechanism to lift both arms of the superstructure so
-      orientation of both gears go in the right direction.
-    date: 2019-07-08T21:02:55.763Z
-    title: 'Week 4 '
-    image: /img/screen-shot-2019-07-30-at-5.04.05-pm.png
+      On Thursday, Tyler worked on attaching the extension arm to the robot.
+      Deepa finished working on the stacker.
+    date: 2019-07-15T21:10:08.062Z
+    title: 'Week 5 '
+    image: /img/screen-shot-2019-07-30-at-5.11.33-pm.png
 ---
 
