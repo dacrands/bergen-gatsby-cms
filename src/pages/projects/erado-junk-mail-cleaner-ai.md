@@ -17,9 +17,31 @@ mentors:
   - email: evandalovsky@bergen.edu
     name: Emily Vandalovsky
 blog:
-  - body: Coming soon...
-    date: 2019-06-14T16:30:09.843Z
-    title: Blog 1
+  - body: >-
+      * Project Summary:
+
+
+      The purpose of the project is to build an application(app) which will
+      enable individuals to unsubscribe from their unwanted snail mail. U.S
+      households receive unwanted junk mail on a daily basis. The app will help
+      reduce the inflow of the snail mail, by creating an easy way to opt-out
+      from the lists. 
+
+
+      * Technical part of the project:
+
+
+      Project will use the JavaScript programming language on the Ionic
+      framework. The Ionic framework allows us to write the code for both IOS
+      and Android platforms.
+
+
+      The app will also contain a specific application programming interface
+      (API) and optical character recognition (OCR). Alongside the API and the
+      OCR algorithms, the app will have several databases for different
+      purposes.
+    date: 2019-05-20T04:00:00.000Z
+    title: Week 1
     image: /img/bergen-stem-graphic.jpg
 ---
 
