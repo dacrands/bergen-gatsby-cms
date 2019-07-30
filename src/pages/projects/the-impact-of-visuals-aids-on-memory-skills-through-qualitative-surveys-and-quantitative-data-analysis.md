@@ -22,8 +22,6 @@ students:
     name: Tae Kyung Kim (Tim)
   - email: aturku@me.bergen.edu
     name: Adelajda Turku
-  - email: rchaudhary@me.bergen.edu
-    name: Riya Chaudhary
   - email: emarshyti11868@me.bergen.edu
     name: Erika Marshyti
   - email: tkim117607@me.bergen.edu
