@@ -83,9 +83,6 @@ blog:
     title: 'Week 5 '
     image: /img/screen-shot-2019-07-30-at-5.11.33-pm.png
   - body: >-
-      July 8, 2019
-
-
       In summer one, we finished working on building the solid base and the
       support for the arms. I(Deepa) spent most of the time on Monday working on
       improving some parts of robot and started working on building mechanism
