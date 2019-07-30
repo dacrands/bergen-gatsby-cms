@@ -103,10 +103,10 @@ blog:
       and creating our own API.
 
 
-      **_Link to view presentation Slides:_**
+      _**Link to view presentation Slides:**_
 
 
-      https://docs.google.com/presentation/d/1VrKGWPugVJ_iGYAA9f9ValCkJEt7vDiNRGMbCAzRtoA/edit?usp=sharing
+      _https://docs.google.com/presentation/d/1VrKGWPugVJ_iGYAA9f9ValCkJEt7vDiNRGMbCAzRtoA/edit?usp=sharing_
     date: 2019-06-17T20:30:43.360Z
     title: Week 5
     image: /img/bergen-stem-graphic.jpg
