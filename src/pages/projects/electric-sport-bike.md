@@ -2,8 +2,16 @@
 templateKey: projectTemplate
 title: Electric Sport Bike
 image: /img/esb.jpg
-abstract: Coming soon...
-meeting: Coming soon...
+abstract: >-
+  The overall objective of the project is to design and construct a Brushless DC
+  motor, with provisions made for regenerative braking, such that it can be used
+  to drive an electric motorcycle.This consists of conducting research to
+  understand the inner workings of an electric motor and the mechanics of a
+  typical motorcycle. A solid understanding of the factors that contribute to
+  the torque produced by the motor is essential in attempting to enhance the
+  efficiency of this vehicle. The goal would be to achieve a speed of 80 miles
+  per hour while conserving the charge of the batteries for as long as possible.
+meeting: 'Monday, Wednesday, Thursday 9 to 3PM '
 students:
   - email: mmalko@me.bergen.edu
     name: Mykhailo Malko
