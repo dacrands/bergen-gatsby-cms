@@ -5,7 +5,7 @@ image: /img/esb.jpg
 abstract: >-
   The overall objective of the project is to design and construct a Brushless DC
   motor, with provisions made for regenerative braking, such that it can be used
-  to drive an electric motorcycle.This consists of conducting research to
+  to drive an electric motorcycle. ​This consists of conducting research to
   understand the inner workings of an electric motor and the mechanics of a
   typical motorcycle. A solid understanding of the factors that contribute to
   the torque produced by the motor is essential in attempting to enhance the
