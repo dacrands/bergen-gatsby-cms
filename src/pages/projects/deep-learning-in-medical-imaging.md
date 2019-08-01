@@ -9,6 +9,8 @@ students:
     name: David Gordeladze
   - email: philosophos@ieee.org
     name: Ramya El-Saleh
+  - email: tkim117607@me.bergen.edu
+    name: Tae Kim
 mentors:
   - email: mkousoulis@bergen.edu
     name: Minas Kousoulis
