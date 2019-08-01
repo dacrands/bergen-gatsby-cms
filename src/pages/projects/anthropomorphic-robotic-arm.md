@@ -22,6 +22,8 @@ students:
     name: Mina Echreshzadeh
   - email: jsouza108272@me.bergen.edu
     name: Marcos Souza
+  - email: fchekeche@me.bergen.edu
+    name: Farai Chekeche
 mentors:
   - email: bbenjamin@bergen.edu
     name: Dr. Benjamin
