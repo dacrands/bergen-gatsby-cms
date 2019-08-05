@@ -73,5 +73,41 @@ blog:
     date: 2019-05-20T19:19:03.271Z
     title: 'Week 1 '
     image: /img/bergen-stem-graphic.jpg
+  - body: >-
+      **What can it do so far?**
+
+
+      Stylise images and videos using a Command Line Interface (command prompt
+      with python)
+
+
+      Stylise images using a Graphical User Interface (GUI python)
+
+
+      Train standard (not optimised) models in Python
+
+
+      **To do:**
+
+
+      1. Compress and distil models in python
+
+      2. Convert Tensorflow python code to Tensorflow.js code
+
+      3. Make a javascript implementation of Koby_WCT-TF and make it run
+      locally. (on your PC)
+
+      4. Add that to wordpress via wp-code. (see plugins wp-code)
+
+      5. Make it pretty
+
+      6. Make it mobile via web
+
+      7. Make it a native App for android
+
+      8. Make it a native App for iOS
+    date: 2019-05-30T19:21:12.722Z
+    title: 'Week 2 '
+    image: /img/bergen-stem-graphic.jpg
 ---
 
