@@ -28,5 +28,50 @@ students:
 mentors:
   - email: evandalovsky@bergen.edu
     name: Emily Vandolvsky
+blog:
+  - body: >-
+      **What can it do so far?**
+
+
+      Stylise images and videos using a Command Line Interface (command prompt
+      with python)
+
+
+      Stylise images using a Graphical User Interface (GUI python)
+
+
+      Train standard (not optimised) models in Python
+
+
+      **What Happened This week?**
+
+
+      Retrained models in python unsuccessfully. Try it again later.
+
+
+      **To do:**
+
+
+      1. Retrain models in python
+
+      2. Compress and distil models in python
+
+      3. Convert Tensorflow python code to Tensorflow.js code
+
+      4. Make a javascript implementation of Koby_WCT-TF and make it run
+      locally. (on your PC)
+
+      5. Add that to wordpress via wp-code. (see plugins wp-code)
+
+      6. Make it pretty
+
+      7. Make it mobile via web
+
+      8. Make it a native App for android
+
+      9. Make it a native App for iOS
+    date: 2019-05-20T19:19:03.271Z
+    title: 'Week 1 '
+    image: /img/bergen-stem-graphic.jpg
 ---
 
