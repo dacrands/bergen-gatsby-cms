@@ -1,6 +1,6 @@
 ---
 templateKey: projectTemplate
-title: The Impact of Visuals Aids on Memory Skills
+title: Impact of Mindful Meditation of Critical Thinking Skills (EEKG)
 image: /img/eeg-main.jpg
 abstract: >-
   Biofeedback instruments help understand the physiological responses to stimuli
