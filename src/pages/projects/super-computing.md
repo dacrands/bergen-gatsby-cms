@@ -1,7 +1,7 @@
 ---
 templateKey: projectTemplate
 title: 'Super Computing '
-image: /img/bergen-stem-graphic.jpg
+image: /img/mag-lev.jpg
 abstract: 'Coming soon '
 meeting: Coming soon
 students:
