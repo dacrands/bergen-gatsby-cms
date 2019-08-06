@@ -1,6 +1,6 @@
 ---
 templateKey: projectTemplate
-title: 'WCT-TF:W/M'
+title: Whiten Color Transfer in Tensorflow
 image: /img/screen-shot-2019-08-05-at-3.14.25-pm.png
 abstract: >
   This is an implementation of Whiten Colour Transfer in Tensorflow. A computer
