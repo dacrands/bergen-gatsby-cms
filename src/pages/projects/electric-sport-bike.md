@@ -21,6 +21,12 @@ students:
     name: Erin Brett
   - email: ajeong@me.bergen.edu
     name: Ahyeong Jeong
+  - email: uelqaisi@me.bergen.edu
+    name: Uslan Elqaisi
+  - email: aortega@me.bergen.edu
+    name: Adrian Ortega
+  - email: jsrejic@me.bergen.edu
+    name: Jemil Srejic
 mentors:
   - email: mbalzarette@bergen.edu
     name: Mark Balzarette
