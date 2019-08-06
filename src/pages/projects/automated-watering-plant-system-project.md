@@ -1,6 +1,6 @@
 ---
 templateKey: projectTemplate
-title: Automated Watering Plant System Project
+title: 'Agricultural Irrigation '
 image: /img/automated-water.jpg
 abstract: >-
   The AWPS project is being implemented in order to water plants automatically
