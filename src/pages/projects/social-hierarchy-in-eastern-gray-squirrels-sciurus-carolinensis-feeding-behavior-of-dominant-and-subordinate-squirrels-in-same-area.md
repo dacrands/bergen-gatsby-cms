@@ -1,6 +1,6 @@
 ---
 templateKey: projectTemplate
-title: Social Hierarchy in Eastern Gray Squirrels
+title: Social Hierarchy in Eastern Grey Squirrels (Sciurus Carolinensis)
 image: /img/carolinensis.jpg
 abstract: >-
   To further examine the social dominance in eastern gray squirrels in regard to
