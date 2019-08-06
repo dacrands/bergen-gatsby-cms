@@ -160,5 +160,25 @@ blog:
     date: 2019-05-20T22:22:36.695Z
     title: Week 1
     image: /img/robotics-week-0.jpg
+  - body: >-
+      Deepa looked into the lifting mechanism and had made possible ideas to use
+      a 3d printed parts that will hold the cube in. This will be in combination
+      with an older design used by our group to hold it in place. As well Tyler
+      had got the second piece of the cube began printing today and should
+      finish tomorrow seeing as it will take 19 hours to finish.
+
+
+      Tyler focused on setting up the intake mechanism movement function that we
+      had initially intended to give an extra distance from the main chassis.
+      This is added to avoid any collisions between the block and the interior
+      electronics. 
+
+
+      The intake mechanism had to be reinforced in order to make sure the
+      opening would remain a square. As well the metal on it had to be switched
+      out due to height issues.
+    date: 2019-07-29T14:55:25.705Z
+    title: 'Week 7 '
+    image: /img/screen-shot-2019-08-06-at-10.56.49-am.png
 ---
 
