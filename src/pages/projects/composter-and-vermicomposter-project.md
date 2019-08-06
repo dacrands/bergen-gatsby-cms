@@ -1,6 +1,6 @@
 ---
 templateKey: projectTemplate
-title: Composter and VermiComposter Project
+title: 'Composting Rocket: Turning Food Waste to Healthy Soil'
 image: /img/bergen-stem-graphic.jpg
 abstract: 'Coming soon '
 meeting: Coming soon
