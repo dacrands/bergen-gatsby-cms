@@ -1,6 +1,6 @@
 ---
 templateKey: projectTemplate
-title: Detecting Effects of Sound Therapy on Stress and Anxiety
+title: Impact of Mindful Meditation of Critical Thinking Skills (EEKG)
 image: /img/eeg.jpg
 abstract: Coming soon...
 meeting: Coming soon...
