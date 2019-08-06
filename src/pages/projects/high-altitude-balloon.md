@@ -1,6 +1,6 @@
 ---
 templateKey: projectTemplate
-title: 'High Altitude Balloon '
+title: Atmospheric Particle Sampling With a High Altitude Balloon
 image: /img/hab.png
 abstract: >-
   An extension of lessons learned from Bergen Community College’s ongoing High
