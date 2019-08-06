@@ -7,7 +7,7 @@ meeting: 'coming soon '
 students:
   - email: mschuler@me.bergen.edu
     name: 'Malcom Schuler '
-  - email: lreynose@me.bergen.edu
+  - email: leykireynoso@gmail.com
     name: Leyki Reynoso
 ---
 
