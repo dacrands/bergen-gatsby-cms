@@ -17,6 +17,14 @@ mentors:
   - email: bmadden.bergen.edu
     name: Bill Madden
 blog:
+  - body: "●Try to make The python code to work on Window but haven’t had any good results. Try to use Anaconda, Minianaconda for python and download from console and from interface yet the code outputs That some parameters need to be filled yet it dose;t let us input while in mac it is allowed.\r\n\n●Work with the raspberry pi and the breadboard to make sure that the circuits work properly by doing a little led light experiment and it works perfectly."
+    date: 2019-08-05T20:20:24.247Z
+    title: 'Week 6 '
+    image: /img/bergen-stem-graphic.jpg
+  - body: "●Try more samples on the Facial recognition system to see if we can increase the accuracy by increasing the sample to 50 and there were no improvements.\n\n●After some research we found out about the method we were using called Hog which works with a small data set, is faster but less accurate.\r\n\n●Found out about CNN which is more accurate, yet it is way slower and in order to work need a huge dataset. Now we have to find better ways of implementing it taking into consideration the limited processing power we have."
+    date: 2019-07-29T20:18:41.612Z
+    title: 'Week 5 '
+    image: /img/bergen-stem-graphic.jpg
   - body: "●\tDo to the fact that we haven’t been able to connect properly to azure and the fact that every transaction was charging us money, we are now We decided to use OpenCV but trying to decide  which programming language we should use for it, C++ or python.\n\n○\tC++ Advantages: Both of us Have more experience with it and it is easier to work with in Visual basics, but it is harder not adaptable.\n\n○\tPython Advantages: the code can be used in Apple and Windows devices without a lot of changes and, because the two members have a different operating systems, this will simplify the testing between both computers.\n\n![](/img/weee4444.png)\n\n●\tSuccessfully downloaded the libraries on python and used a sample code to make facial recognition work using this source code, Trained it with samples of 3 different people putting 21 pictures each, it works, and is detecting pictures now.\n\n●Also successfully made live video detection but is detecting an unknown person as someone it knows which shouldn’t happen.\r\n\n●Another issue is that the code is not working on windows, just on mac."
     date: 2019-08-07T20:16:44.780Z
     title: Week 4
@@ -33,9 +41,5 @@ blog:
     date: 2019-07-01T20:10:20.182Z
     title: Week 1
     image: /img/dgd.png
-  - body: "●Try more samples on the Facial recognition system to see if we can increase the accuracy by increasing the sample to 50 and there were no improvements.\n\n●After some research we found out about the method we were using called Hog which works with a small data set, is faster but less accurate.\r\n\n●Found out about CNN which is more accurate, yet it is way slower and in order to work need a huge dataset. Now we have to find better ways of implementing it taking into consideration the limited processing power we have."
-    date: 2019-07-29T20:18:41.612Z
-    title: 'Week 5 '
-    image: /img/bergen-stem-graphic.jpg
 ---
 
