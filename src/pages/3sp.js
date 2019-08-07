@@ -47,7 +47,7 @@ const CONTENT = [
         isList: true,
         h3: "Ongoing Requirements to remain in good standing",
         para: [
-          "Maintaining minimum 3.750 Cumulative GPA",
+          "Maintaining minimum 3.75 Cumulative GPA",
           "Contributing member of the STEM Student Union club",
           "Punctual and responsive to official 3SP communications",
           "Working to complete 3SP Academic, Research and Service Requirements",
@@ -68,7 +68,6 @@ export default () => (
       {CONTENT.map(section => (
         <section className="section">
           <h2>{section.h2}</h2>
-          <hr />
           <div style={{ paddingBottom: "30px" }} className="grid-two">
             {section.items.map(item => {
               if (!item.isList) {
