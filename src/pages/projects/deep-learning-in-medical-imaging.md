@@ -1,6 +1,6 @@
 ---
 templateKey: projectTemplate
-title: Deep Learning in Medical Imaging
+title: Deep Learning in Accelerating Breakthroughs in Medical Imaging
 image: /img/machine-learning.jpg
 abstract: Coming soon...
 meeting: Coming soon...
