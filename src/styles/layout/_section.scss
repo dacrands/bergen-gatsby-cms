@@ -1,8 +1,19 @@
 .section {
   // outline: 1px solid red;    
+  .btn {
+    margin-top: 0.75rem;
+  }
 }
 
 .section__content {  
+  color: $primary;
+  h2 {
+    font-size: 18px;
+    line-height: 28px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: .19em;
+  }
   p {
     @extend %typography;
     margin: 0 auto;    
@@ -34,7 +45,9 @@
 }
 
 .section--dark {
-  color: white;
+  h2 {
+    color: white;
+  }
   p {
     color: $font-light;
   }
