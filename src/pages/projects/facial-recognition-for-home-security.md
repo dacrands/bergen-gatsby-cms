@@ -9,5 +9,8 @@ students:
     name: 'Malcom Schuler '
   - email: leykireynoso@gmail.com
     name: Leyki Reynoso
+mentors:
+  - email: tbd
+    name: tbd
 ---
 
