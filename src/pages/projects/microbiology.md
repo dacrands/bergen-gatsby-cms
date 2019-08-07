@@ -9,5 +9,8 @@ students:
     name: Adeljada Turku
   - email: mnha.echreshzadeh@gmail.com
     name: Mina Echreshzaya
+mentors:
+  - email: tbd
+    name: tbd
 ---
 
