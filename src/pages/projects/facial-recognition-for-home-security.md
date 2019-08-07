@@ -25,5 +25,9 @@ blog:
     date: 2019-07-01T20:10:20.182Z
     title: Week 1
     image: /img/dgd.png
+  - body: "●\tAzure API Still not working properly, The key that we receive to have access to the cloud is not being valid, and the use of OpenCV to do the FAcial recognition offline, even though cheap, may bring performance issues when used in the raspberry pi, our goal for this summer has changed to being able to detect faces in live video. Even though we are still aimg to open the door we figure out that we can do more than that so we are aiming to just be able to detect faces and after that expand on as many applications as we can."
+    date: 2019-07-15T20:16:01.557Z
+    title: 'Week 3 '
+    image: /img/bergen-stem-graphic.jpg
 ---
 
