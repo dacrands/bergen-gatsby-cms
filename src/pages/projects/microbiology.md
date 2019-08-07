@@ -1,6 +1,8 @@
 ---
 templateKey: projectTemplate
-title: 'Microbiology '
+title: >-
+  Frequency of Antibiotic Resistance and Sensitivity to Antibiotics and Natural
+  Oils in Bacteria Isolated from Human and Environmental Samples
 image: /img/bergen-stem-graphic.jpg
 abstract: 'Coming soon '
 meeting: 'Coming soon '
