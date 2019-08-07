@@ -7,5 +7,8 @@ meeting: coming soon
 students:
   - email: Coming soon
     name: Coming soon
+mentors:
+  - email: tbd
+    name: tbd
 ---
 
