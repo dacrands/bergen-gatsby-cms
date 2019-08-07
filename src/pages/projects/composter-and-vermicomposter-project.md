@@ -7,5 +7,8 @@ meeting: Coming soon
 students:
   - email: jchoi120483@me.bergen.edu
     name: Jiyoung Choi
+mentors:
+  - email: tbd
+    name: tbd
 ---
 
