@@ -1,6 +1,6 @@
 ---
 templateKey: projectTemplate
-title: Robotics
+title: S.T.E.M. Student Union Robotics Team
 image: /img/robotics.jpg
 abstract: |
   In this project we build robot for the VEX competition which happens 
