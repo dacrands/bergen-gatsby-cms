@@ -1,6 +1,6 @@
 ---
 templateKey: projectTemplate
-title: Computational Materials
+title: Dirac Electron in IrGa and Magnetism in FeGa
 image: /img/comp-mats.jpg
 abstract: >-
   The electronic behavior of novel binary systems is studied computationally
