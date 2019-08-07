@@ -1,7 +1,7 @@
 ---
 templateKey: projectTemplate
 title: Mainframe Medical Database
-image: /img/mainframemedicaldatabasecover.jpg
+image: /img/mdb-week-0.jpg
 abstract: >-
   The purpose of this project is to create a medical database within a mainframe
   environment. In order to accomplish this task, we will be gathering readily
