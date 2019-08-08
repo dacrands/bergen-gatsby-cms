@@ -16,6 +16,8 @@ meeting: 'Monday - Thursday, 10 AM-12 PM & 1 PM-3 PM)'
 students:
   - email: jy75862@gmail.com
     name: Jung Yoon
+  - email: cennis@me.bergen.edu
+    name: Chloe Raven Ennis
 mentors:
   - email: csontag@bergen.edu
     name: Charles Sontag
