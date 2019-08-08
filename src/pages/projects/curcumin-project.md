@@ -7,8 +7,6 @@ meeting: Coming soon...
 students:
   - email: agriffith999@gmail.com
     name: Alexandra Griffith
-  - email: alczecho@gmail.com
-    name: Alexander Czechowicz
 mentors:
   - email: akahyaoglu@bergen.edu
     name: Ara Kahyaoglu
