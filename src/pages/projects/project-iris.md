@@ -10,6 +10,8 @@ students:
 mentors:
   - email: 'ldeabreu@bergen.edu '
     name: Luis DeAbreu
+  - email: pjricatto@me.bergen.edu
+    name: PJ Ricatto
 blog:
   - body: Coming soon
     date: 2019-08-06T18:29:38.477Z
