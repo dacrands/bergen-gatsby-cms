@@ -5,10 +5,10 @@ image: /img/bergen-stem-graphic.jpg
 abstract: 'Coming soon '
 meeting: 'Coming soon '
 students:
-  - email: jgrebler@me.bergen.edu
-    name: 'Joshua Grebler '
+  - email: tbd
+    name: David Gordon
 mentors:
   - email: tbd
-    name: tbd
+    name: Estelle Epstein
 ---
 
