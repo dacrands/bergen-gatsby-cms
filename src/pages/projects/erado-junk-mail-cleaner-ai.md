@@ -13,10 +13,6 @@ students:
     name: Javier Marte
   - email: donaldobiba@gmail.com
     name: Donaldo Biba
-  - email: murphy107550@me.bergen.edu
-    name: Heather Murphy
-  - email: hpatel108582@me.bergen.edu
-    name: Harsh Patel
 mentors:
   - email: evandalovsky@bergen.edu
     name: Emily Vandalovsky
