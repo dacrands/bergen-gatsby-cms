@@ -10,6 +10,12 @@ meeting: >-
 students:
   - email: mllopez862@gmail.com
     name: Micheal Lopez
+  - email: ajeong@me.bergen.edu
+    name: 'Ahyeong Jeong '
+  - email: tdb
+    name: Jan Mark Talingdan
+  - email: 'tdb '
+    name: 'Armando Pepen Rosa '
 mentors:
   - email: ron.grosinger@gmail.com
     name: Ronald Grosinger
