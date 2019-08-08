@@ -5,8 +5,10 @@ image: /img/bergen-stem-graphic.jpg
 abstract: Coming soon
 meeting: coming soon
 students:
-  - email: Coming soon
-    name: Coming soon
+  - email: 'tbd '
+    name: 'Nicole Derosa '
+  - email: tbd
+    name: 'Hyemee Campollo '
 mentors:
   - email: tbd
     name: tbd
