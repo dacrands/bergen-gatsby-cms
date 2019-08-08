@@ -27,6 +27,8 @@ students:
     name: Adrian Ortega
   - email: jsrejic@me.bergen.edu
     name: Jemil Srejic
+  - email: ehernandez12@me.bergen.edu
+    name: 'Edgar Hernandez '
 mentors:
   - email: mbalzarette@bergen.edu
     name: Mark Balzarette
