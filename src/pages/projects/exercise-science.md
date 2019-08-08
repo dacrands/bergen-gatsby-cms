@@ -5,10 +5,12 @@ image: /img/bergen-stem-graphic.jpg
 abstract: Coming soon
 meeting: Coming soon
 students:
-  - email: tbd
-    name: tbd
+  - email: tcruciata@me.bergen.edu
+    name: Theresa Cruciata
+  - email: nadine.e.mcmanus@gmail.com
+    name: 'Nadine McManus '
 mentors:
-  - email: tbd
-    name: tbd
+  - email: jsedal@bergen.edu
+    name: Julie Seda
 ---
 
