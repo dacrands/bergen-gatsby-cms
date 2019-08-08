@@ -57,11 +57,20 @@
     padding: 0;
   }
 
+  .landing__title {
+    h1 {
+      font-size: calc((36px + 2vh) + 3.5vw);
+    }
+  }
+
   
 }
 
 @media(max-width: 498px) {
   .landing__title {
+    h1 {
+      font-size: calc((12px + 2vh) + 3.5vw);
+    }
     p {
       font-size: 18px;
     }
