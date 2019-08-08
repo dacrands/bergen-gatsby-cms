@@ -8,7 +8,7 @@ students:
   - email: tcruciata@me.bergen.edu
     name: Theresa Cruciata
   - email: jacquigon10@gmail.com
-    name: Jaqui Gonzalez
+    name: Jacqueline Gonzalez
 mentors:
   - email: mkenyon@bergen.edu
     name: Michele Kenyon
