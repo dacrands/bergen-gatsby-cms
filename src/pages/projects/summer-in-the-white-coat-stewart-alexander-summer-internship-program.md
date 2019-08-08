@@ -8,7 +8,7 @@ students:
   - email: adelajda.turku@hotmail.com
     name: Adeljada Turku
 mentors:
-  - email: 'Coming soon '
-    name: 'coming soon '
+  - email: 'tbd '
+    name: 'Jessica Hill '
 ---
 
