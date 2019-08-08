@@ -7,11 +7,13 @@ meeting: 'Coming soon '
 students:
   - email: ebrett@me.bergen.edu
     name: Erin Brett
-  - email: p@me.bergen.edu
-    name: Patryjca
+  - email: ppaszkiewicz@me.bergen.edu
+    name: Patrycja Paszkiewicz
 mentors:
-  - email: Coming soon
-    name: Coming soon
+  - email: akahyaoglu@bergen.edu
+    name: Ara Kahyaoglu
+  - email: ldeabreu@bergen.edu
+    name: Luis De Abreu
 blog:
   - body: Coming soon...
     date: 2019-08-06T18:30:24.406Z
