@@ -22,7 +22,7 @@ const CONTENT = [
 
 export default () => (
   <Layout>
-    <main className="container">
+    <div className="container">
       <header className="header">
         <h1>STEM at BCC</h1>
         <p />
@@ -37,6 +37,6 @@ export default () => (
           ))}
         </div>
       </section>
-    </main>
+    </div>
   </Layout>
 )
