@@ -16,6 +16,7 @@ collections:
       - { name: image, label: Image, widget: image }
       - { name: abstract, label: Abstract, widget: text}   
       - { name: meeting, label: Meeting, widget: string }
+      - { name: video, label: Video, widget: string, required: false, hint: "This should be a youtube embed code"}
       - name: students
         label: Students
         widget: list
