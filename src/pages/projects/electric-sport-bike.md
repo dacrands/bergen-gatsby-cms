@@ -12,6 +12,7 @@ abstract: >-
   efficiency of this vehicle. The goal would be to achieve a speed of 80 miles
   per hour while conserving the charge of the batteries for as long as possible.
 meeting: 'Monday, Wednesday, Thursday 9 to 3PM '
+video: NxyUh9qUyFI
 students:
   - email: mmalko@me.bergen.edu
     name: Mykhailo Malko
