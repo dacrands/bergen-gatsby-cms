@@ -44,7 +44,7 @@ export default function ProjectTemplate({ data }) {
                 frontmatter.students.map(student => (
                   <li key={student.name}>                    
                     {student.name} &mdash; {` `}                
-                  <a href={`mailto:${student.email}`}>{student.email}</a>
+                  <a href={`mailto:${student.email}`}>{student.email.replace("@", " (at) ")}</a>
                   </li>
                 ))
               }
@@ -57,7 +57,7 @@ export default function ProjectTemplate({ data }) {
                 frontmatter.mentors.map(mentor => (
                   <li key={mentor.name}>                    
                   {mentor.name} &mdash; {` `}                                
-                  <a href={`mailto:${mentor.email}`}>{mentor.email}</a>
+                  <a href={`mailto:${mentor.email}`}>{mentor.email.replace("@", " (at) ")}</a>
                   </li>
                 ))
               }
