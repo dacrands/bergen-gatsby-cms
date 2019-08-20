@@ -3,8 +3,10 @@ import showdown from 'showdown'
 import { graphql } from "gatsby"
 import Img from "gatsby-image"
 
+
 import "../styles/main.scss"
-import ProjectLayout from "../components/ProjectLayout";
+import ProjectLayout from "../components/ProjectLayout"
+import Video from "../components/Video"
 
 const converter = new showdown.Converter()
 
@@ -23,6 +25,10 @@ export default function ProjectTemplate({ data }) {
           <header className="header">
             <h1>{frontmatter.title}</h1>
           </header>
+          {
+            frontmatter.video ? <Video embed={frontmatter.video}/>: null
+          }
+          
           <div>
             <h3>Objective</h3>
             <p>{frontmatter.abstract}</p>
@@ -100,6 +106,7 @@ export const query = graphql`
           date
           abstract
           meeting
+          video
           mentors {
             email
             name
