@@ -7,6 +7,7 @@ meeting: >-
   Monday 1:00 PM-3:00 PM 4:00 PM-6:00 PM  Tuesday 10:00 AM-12:00 PM 1:00 PM-3:00
   PM  Wednesday 1:00 PM-3:00 PM 4:00 PM-6:00 PM  Thursday 10:00 AM-12:00 PM 1:00
   PM-3:00 PM 4:00 PM-6:00 PM 
+video: NxyUh9qUyFI
 students:
   - email: mllopez862@gmail.com
     name: Micheal Lopez
