@@ -35,6 +35,13 @@ mentors:
     name: Mark Balzarette
 blog:
   - body: >-
+      Manufactured brackets for the charger hold/ made 19/64 in holes for m6
+      screws to hold the charger in place on the frame. The remanding debris and
+      rust left on the motorcycle was cleaned off.
+    date: 2019-07-22T19:38:30.636Z
+    title: Week 10
+    image: /img/screen-shot-2019-08-21-at-3.39.45-pm.png
+  - body: >-
       Last week we finished plasma cutting the triangular brackets and drilling
       the holes to screw the aluminum bars together. We then attached brackets
       onto the bars and put the battery mount together. Additional brackets
@@ -136,5 +143,13 @@ blog:
     date: 2019-05-20T22:06:44.880Z
     title: Week 1
     image: /img/esb.jpg
+  - body: >-
+      This week we determined the correct positioning of the screws for the
+      battery mount and BMS mount. We also designed a mount plate for the BMS to
+      ensure it stays in place and is less likely to move or get damaged while
+      the motorcycle is in use.
+    date: 2019-07-29T19:40:59.259Z
+    title: Week 11
+    image: /img/screen-shot-2019-08-21-at-3.41.15-pm.png
 ---
 
