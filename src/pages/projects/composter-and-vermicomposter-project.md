@@ -52,7 +52,57 @@ blog:
 
       ![](/img/screen-shot-2019-08-21-at-2.44.50-pm.png)
     date: 2019-07-08T18:38:53.988Z
-    title: 'Week 1 '
+    title: Week 2
     image: /img/screen-shot-2019-08-21-at-2.39.27-pm.png
+  - body: >-
+      **Building the Vermicomposter**
+
+
+      We have been attempting to figure out how to build the Vermicomposter
+      since last Wednesday (July 3rd.)  As of today, it is still incomplete, but
+      is far more along than it has ever been in the years since it's been
+      ordered.  Unfortunately, the directions that came along with the composter
+      were extremely unclear and did not specify how and where things were put
+      together, leaving us to deduce the construction of the machine ourselves. 
+      We hope to get it done by this time next week, but Murphy's Law was not
+      kind to us so far.  Hope for the best and prepare for the worst!  The
+      following will be pictures of our progress so far.
+    date: 2019-07-01T18:45:35.821Z
+    title: Week 1
+    image: /img/bergen-stem-graphic.jpg
+  - body: >-
+      We started to measure the pH. The pH is one of the important factors like
+      temperature. Especially, it is important to maintain proper pH because the
+      product will be eaten by earthworms. Wood chips, food waste in the
+      machine, and soil were measured on 15th. All are within the appropriate
+      level.
+
+
+      ![](/img/screen-shot-2019-08-21-at-2.48.41-pm.png)
+
+
+      The soil is still arid. The cause are probably the amount of food to be
+      fed to the machine, and the amount of water. The fact that the hose was
+      just ready is also affected. Until now, if the ratio was about total mass
+      for food waste and wood chips to water is 2: 1, 1: 1 will be added to the
+      total amount of feed soon.
+
+
+      ![](/img/screen-shot-2019-08-21-at-2.50.19-pm.png)
+
+
+      On July 6, when I got temperature after putting water into machine, the
+      temperature was lowered by 11.6 degrees. I had been worried that this will
+      affect maintaining the proper temperature inside the machine. However,
+      since the supply of food is much larger these days, the temperature does
+      not change much even after watering. This will have a good effect on
+      microorganisms.
+
+
+      ![](/img/screen-shot-2019-08-21-at-2.51.06-pm.png "Temperature of machine
+      after watering : 56.8 °C ")
+    date: 2019-08-21T18:48:12.192Z
+    title: 'Week 3 '
+    image: /img/screen-shot-2019-08-21-at-2.48.35-pm.png
 ---
 
