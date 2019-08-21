@@ -22,6 +22,31 @@ mentors:
     name: Dr. Pascal Ricatto
 blog:
   - body: >-
+      The machine is more active than ever before, but the amount of food waste
+      is still lacking. I expect that in the new semester it will bring a better
+      performance by having more food waste.
+
+       The pH of most objects are fine. But, we have found that the product is somewhat little bit basic. The pH of product is 8.85. Although it is not to a serious degree, the red wiggler earthworms prefer pH levels from 5.5 to 8. We expect coffee will serve as a buffer by suppling plenty of acidic coffee.
+
+      There have also been many improvements in the product condition. It looks
+      more moist. But, I see a piece of less disintegrated wood. We discussed it
+      would be better to use wood chips that was more shattered.
+
+
+      ![](/img/screen-shot-2019-08-21-at-2.54.10-pm.png)
+
+
+      The first channel of temperature is similar to the second channel. It is a
+      good signal. On the afternoon of the 23rd, the second channel finally
+      passed the temperature of the first channel. The first channel is 61, the
+      second channel is 63.
+
+
+      ![](/img/screen-shot-2019-08-21-at-2.54.56-pm.png)
+    date: 2019-08-21T18:52:38.881Z
+    title: 'Week 4 '
+    image: /img/bergen-stem-graphic.jpg
+  - body: >-
       We started to measure the pH. The pH is one of the important factors like
       temperature. Especially, it is important to maintain proper pH because the
       product will be eaten by earthworms. Wood chips, food waste in the
@@ -111,29 +136,49 @@ blog:
   - body: >-
 
 
-      The machine is more active than ever before, but the amount of food waste
-      is still lacking. I expect that in the new semester it will bring a better
-      performance by having more food waste.
-
-       The pH of most objects are fine. But, we have found that the product is somewhat little bit basic. The pH of product is 8.85. Although it is not to a serious degree, the red wiggler earthworms prefer pH levels from 5.5 to 8. We expect coffee will serve as a buffer by suppling plenty of acidic coffee.
-
-      There have also been many improvements in the product condition. It looks
-      more moist. But, I see a piece of less disintegrated wood. We discussed it
-      would be better to use wood chips that was more shattered.
+      Finally, we got some good results. The color is dark black and it is
+      moist. It has little chunk of wood chips which will be break down by worms
+      but still look nice.
 
 
-      ![](/img/screen-shot-2019-08-21-at-2.54.10-pm.png)
+      On July 22, the temperature of the second channel rose to 67°C degrees.
+      Although this week's weather were hotter than the day(32°C), the second
+      channel has not increased to 67°C. Thus, the interior of the machine can
+      affected not only the temperature of the weather but also the humidity.
 
 
-      The first channel of temperature is similar to the second channel. It is a
-      good signal. On the afternoon of the 23rd, the second channel finally
-      passed the temperature of the first channel. The first channel is 61, the
-      second channel is 63.
+      This week's temperature changes are interesting. According to the
+      instructions, the second machine would be 60-70°C degrees, the third
+      channel 60-30°C, and the fourth 30°C or less. On Monday, it was again
+      unstable due to a monotonous down hill trend, but after that, it turned
+      out to be a mountain shape that changed on the second channel. In
+      addition, the difference between the first channel and the second channel
+      is more stable than the former (1°C degree difference) approximately an
+      average of 6°C degrees. On the other hand, the temperature of the fourth
+      channel(50°C) should cool down a lot to be less that 30°C. 
+
+       I'm worried that the pH of product is little bit alkaline. Earthworms prefer pH of 5.5-8. But now pH of product is 8.5, generally a little out of range at pH of 8.5. The reason has yet to be revealed.
+
+      Compared to last week, humidity was much improved. Now the fog has
+      developed enough to cause the field of view to become cloudy.
 
 
-      ![](/img/screen-shot-2019-08-21-at-2.54.56-pm.png)
-    date: 2019-08-21T18:52:38.881Z
-    title: 'Week 4 '
-    image: /img/bergen-stem-graphic.jpg
+      ![](/img/screen-shot-2019-08-21-at-2.58.01-pm.png)
+
+
+      We set up a voltage with mentor to see if the machine works well. We
+      switched the voltage number to temperature using types n and k, but it
+      does not match current temperature. It is difficult to see that there is a
+      problem with the machine because the machine produces satisfactory
+      results. At first, We decided to stop measuring the voltage.
+
+
+      I can turn the machine's internal propeller by pressing the manual button.
+      We figured out that it takes 46 seconds per one round. Furthermore, we
+      need to check that it is actually take about two weeks for the soil to
+      come out as written in the manual.
+    date: 2019-07-29T18:56:01.013Z
+    title: Week 5
+    image: /img/screen-shot-2019-08-21-at-2.56.56-pm.png
 ---
 
