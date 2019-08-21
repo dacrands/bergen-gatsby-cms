@@ -43,6 +43,14 @@ blog:
       Cleaning ")
 
        We cleaned the machine. Cleaning the machine was well done, but one piece of drain is lost and we are going to separate the pipe in the drain for a second. It is not expected to have a significant impact on the machine, personally.
+
+      One of the problems in last year was the drain. But, more precisely, there
+      was a problem with the fan in the drain hole, and the water was not
+      discharged properly, which is different from the present case. I hope
+      there is no big problem because the drainage is smooth now.
+
+
+      ![](/img/screen-shot-2019-08-21-at-2.44.50-pm.png)
     date: 2019-07-08T18:38:53.988Z
     title: 'Week 1 '
     image: /img/screen-shot-2019-08-21-at-2.39.27-pm.png
