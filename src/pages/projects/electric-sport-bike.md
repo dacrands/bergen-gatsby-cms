@@ -84,7 +84,7 @@ blog:
 
 
       ![](/img/screen-shot-2019-08-21-at-3.34.38-pm.png)
-    date: 2019-08-21T19:33:24.978Z
+    date: 2019-07-08T19:33:24.978Z
     title: 'Week 8 '
     image: /img/screen-shot-2019-08-21-at-3.33.55-pm.png
   - body: >-
