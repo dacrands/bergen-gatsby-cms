@@ -180,5 +180,67 @@ blog:
     date: 2019-07-01T18:45:35.821Z
     title: Week 1
     image: /img/bergen-stem-graphic.jpg
+  - body: >-
+
+
+      We faced some problems, but we have overcome them together.
+
+
+      The product on Monday(6th) was ok. But the composting in the machine was
+      moldy. It looks like just decayed soil, which is good sign according to
+      our mentor. That means more micro organisms.
+
+
+      I was hoping we would end this internship with such a great result, but we
+      had a small challenge. Our product on 7th is too much moisture. It also
+      began to smell. Odor means that there is not enough air in the rocket.
+
+
+      ![](/img/screen-shot-2019-08-21-at-3.01.50-pm.png)
+
+
+      Until last week it showed good moisture and color. It smelled just like
+      the earthy smell. The temperature in the rocket has decreased from last
+      Thursday. Usually it was around  70°C for second channel. Now that channel
+      is around 60°C. It has not yet returned.
+
+
+      We haven't figured out exactly why, but we decided to reduce the amount of
+      water first. And no water for few days.
+
+
+      If you add a lot of water to the machine, the water comes out through the
+      outlet. We used to put the water back in the machine. In some cases, the
+      amount was two buckets (about 10 gallons) per day. So We have been having
+      this rule for about 3 weeks. At first glance, you might think that this is
+      the cause of the result. But, actually, the water is what we have left
+      after we replenish it. In other words, because the amount of water
+      initially put in was excessive, the machine drained it out. Well, at that
+      time, we put the water back in the machine according to the instruction of
+      the rocket. It was assumed that this was to supply microorganisms in the
+      water to the machine.
+
+
+      The strange thing is that by Monday, the result was stable.  Well, I felt
+      on Monday that the rocket doesn't turn as usual by seeing that all
+      material we put on last Thursday are stuck in the first channel. I didn't
+      work on Tuesday, so I don't know what happened, but it doesn't seem
+      particularly problematic. Various bacteria are currently breeding in the
+      machine. Many bacteria and microorganisms may caused the water. 
+
+
+      ![](/img/screen-shot-2019-08-21-at-3.03.25-pm.png "Bacteria on entrance ")
+
+
+      The pH level of wet result is shocking. pH 1.79 This is a stronger acid
+      than a lemon. However, this is also an advantage. This change in pH with
+      the amount of water means that pH 7 can be easily maintained with good
+      water control. The former result was slightly alkaline.
+
+
+      ![](/img/screen-shot-2019-08-21-at-3.04.26-pm.png)
+    date: 2019-08-07T19:00:42.369Z
+    title: 'Week 6 '
+    image: /img/screen-shot-2019-08-21-at-3.00.57-pm.png
 ---
 
