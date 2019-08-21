@@ -2,8 +2,11 @@
 templateKey: projectTemplate
 title: Deep Learning in Accelerating Breakthroughs in Medical Imaging
 image: /img/machine-learning.jpg
-abstract: Coming soon...
-meeting: Coming soon...
+abstract: >
+  Research focused on a high-level overview of the role of deep learning in
+  radiology, particularly the challenges of diagnosing, and monitoring MS; why
+  and how can deep learning be of aid.
+meeting: 'Monday 10-2pm '
 students:
   - email: philosophos@ieee.org
     name: Ramya El-Saleh
