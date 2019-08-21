@@ -22,6 +22,44 @@ mentors:
     name: Dr. Pascal Ricatto
 blog:
   - body: >-
+      We started to measure the pH. The pH is one of the important factors like
+      temperature. Especially, it is important to maintain proper pH because the
+      product will be eaten by earthworms. Wood chips, food waste in the
+      machine, and soil were measured on 15th. All are within the appropriate
+      level.
+
+
+      ![](/img/screen-shot-2019-08-21-at-2.48.41-pm.png)
+
+
+      The soil is still arid. The cause are probably the amount of food to be
+      fed to the machine, and the amount of water. The fact that the hose was
+      just ready is also affected. Until now, if the ratio was about total mass
+      for food waste and wood chips to water is 2: 1, 1: 1 will be added to the
+      total amount of feed soon.
+
+
+      ![](/img/screen-shot-2019-08-21-at-2.50.19-pm.png)
+
+
+      On July 6, when I got temperature after putting water into machine, the
+      temperature was lowered by 11.6 degrees. I had been worried that this will
+      affect maintaining the proper temperature inside the machine. However,
+      since the supply of food is much larger these days, the temperature does
+      not change much even after watering. This will have a good effect on
+      microorganisms.
+
+
+      ![](/img/screen-shot-2019-08-21-at-2.51.06-pm.png "Temperature of machine
+      after watering : 56.8 °C ")
+
+
+      On the 16th day, the hose was broken. All hoses should be carefully
+      wrapped so that they are not cut by the mower.
+    date: 2019-08-21T18:48:12.192Z
+    title: 'Week 3 '
+    image: /img/screen-shot-2019-08-21-at-2.48.35-pm.png
+  - body: >-
       Almost all models are built. One problem, however, is that the warehouse
       for the vermi-composting model is slightly smaller than the model. It is
       difficult to place an engine that can move the heavy contents back and
@@ -71,38 +109,31 @@ blog:
     title: Week 1
     image: /img/bergen-stem-graphic.jpg
   - body: >-
-      We started to measure the pH. The pH is one of the important factors like
-      temperature. Especially, it is important to maintain proper pH because the
-      product will be eaten by earthworms. Wood chips, food waste in the
-      machine, and soil were measured on 15th. All are within the appropriate
-      level.
 
 
-      ![](/img/screen-shot-2019-08-21-at-2.48.41-pm.png)
+      The machine is more active than ever before, but the amount of food waste
+      is still lacking. I expect that in the new semester it will bring a better
+      performance by having more food waste.
+
+       The pH of most objects are fine. But, we have found that the product is somewhat little bit basic. The pH of product is 8.85. Although it is not to a serious degree, the red wiggler earthworms prefer pH levels from 5.5 to 8. We expect coffee will serve as a buffer by suppling plenty of acidic coffee.
+
+      There have also been many improvements in the product condition. It looks
+      more moist. But, I see a piece of less disintegrated wood. We discussed it
+      would be better to use wood chips that was more shattered.
 
 
-      The soil is still arid. The cause are probably the amount of food to be
-      fed to the machine, and the amount of water. The fact that the hose was
-      just ready is also affected. Until now, if the ratio was about total mass
-      for food waste and wood chips to water is 2: 1, 1: 1 will be added to the
-      total amount of feed soon.
+      ![](/img/screen-shot-2019-08-21-at-2.54.10-pm.png)
 
 
-      ![](/img/screen-shot-2019-08-21-at-2.50.19-pm.png)
+      The first channel of temperature is similar to the second channel. It is a
+      good signal. On the afternoon of the 23rd, the second channel finally
+      passed the temperature of the first channel. The first channel is 61, the
+      second channel is 63.
 
 
-      On July 6, when I got temperature after putting water into machine, the
-      temperature was lowered by 11.6 degrees. I had been worried that this will
-      affect maintaining the proper temperature inside the machine. However,
-      since the supply of food is much larger these days, the temperature does
-      not change much even after watering. This will have a good effect on
-      microorganisms.
-
-
-      ![](/img/screen-shot-2019-08-21-at-2.51.06-pm.png "Temperature of machine
-      after watering : 56.8 °C ")
-    date: 2019-08-21T18:48:12.192Z
-    title: 'Week 3 '
-    image: /img/screen-shot-2019-08-21-at-2.48.35-pm.png
+      ![](/img/screen-shot-2019-08-21-at-2.54.56-pm.png)
+    date: 2019-08-21T18:52:38.881Z
+    title: 'Week 4 '
+    image: /img/bergen-stem-graphic.jpg
 ---
 
