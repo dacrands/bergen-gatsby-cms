@@ -35,6 +35,19 @@ mentors:
     name: Mark Balzarette
 blog:
   - body: >-
+      The wire terminal positioning was adjusted.
+
+
+      We are currently in the process of making holes for wires on the top of
+      the battery frame cover. Also cutting out the plate and tap holes with the
+      BMS screw sized threads and threaded the holes.
+
+
+      ![](/img/screen-shot-2019-08-21-at-3.44.42-pm.png)
+    date: 2019-08-05T19:42:06.061Z
+    title: 'Week 12 '
+    image: /img/screen-shot-2019-08-21-at-3.42.36-pm.png
+  - body: >-
       This week we determined the correct positioning of the screws for the
       battery mount and BMS mount. We also designed a mount plate for the BMS to
       ensure it stays in place and is less likely to move or get damaged while
@@ -151,9 +164,5 @@ blog:
     date: 2019-05-20T22:06:44.880Z
     title: Week 1
     image: /img/esb.jpg
-  - body: "The wire terminal positioning was adjusted.\r\n\nWe are currently in the process of making holes for wires on the top of the battery frame cover. Also cutting out the plate and tap holes with the BMS screw sized threads and threaded the holes.\r\n\n![](/img/screen-shot-2019-08-21-at-3.44.42-pm.png)"
-    date: 2019-08-05T19:42:06.061Z
-    title: 'Week 12 '
-    image: /img/screen-shot-2019-08-21-at-3.42.36-pm.png
 ---
 
