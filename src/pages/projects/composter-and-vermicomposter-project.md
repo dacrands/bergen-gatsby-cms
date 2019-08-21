@@ -9,7 +9,7 @@ abstract: >-
   in the Composing Rocket Project among many activities that we can choose. Our
   project sees food waste, which was considered waste, as a renewable resource.
   When we get nutrient soil, we’ll get healthy food using the nutrient soil.
-meeting: Coming soon..
+meeting: Monday 10-3pm
 students:
   - email: jchoi120483@me.bergen.edu
     name: Jiyoung Choi
