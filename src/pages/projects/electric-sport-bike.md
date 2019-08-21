@@ -35,6 +35,14 @@ mentors:
     name: Mark Balzarette
 blog:
   - body: >-
+      This week we determined the correct positioning of the screws for the
+      battery mount and BMS mount. We also designed a mount plate for the BMS to
+      ensure it stays in place and is less likely to move or get damaged while
+      the motorcycle is in use.
+    date: 2019-07-29T19:40:59.259Z
+    title: Week 11
+    image: /img/screen-shot-2019-08-21-at-3.41.15-pm.png
+  - body: >-
       Manufactured brackets for the charger hold/ made 19/64 in holes for m6
       screws to hold the charger in place on the frame. The remanding debris and
       rust left on the motorcycle was cleaned off.
@@ -143,13 +151,9 @@ blog:
     date: 2019-05-20T22:06:44.880Z
     title: Week 1
     image: /img/esb.jpg
-  - body: >-
-      This week we determined the correct positioning of the screws for the
-      battery mount and BMS mount. We also designed a mount plate for the BMS to
-      ensure it stays in place and is less likely to move or get damaged while
-      the motorcycle is in use.
-    date: 2019-07-29T19:40:59.259Z
-    title: Week 11
-    image: /img/screen-shot-2019-08-21-at-3.41.15-pm.png
+  - body: "The wire terminal positioning was adjusted.\r\n\nWe are currently in the process of making holes for wires on the top of the battery frame cover. Also cutting out the plate and tap holes with the BMS screw sized threads and threaded the holes.\r\n\n![](/img/screen-shot-2019-08-21-at-3.44.42-pm.png)"
+    date: 2019-08-05T19:42:06.061Z
+    title: 'Week 12 '
+    image: /img/screen-shot-2019-08-21-at-3.42.36-pm.png
 ---
 
