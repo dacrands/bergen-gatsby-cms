@@ -117,5 +117,9 @@ blog:
     date: 2019-05-31T00:53:30.967Z
     title: 'Week 1 '
     image: /img/screen-shot-2019-08-22-at-3.20.41-pm.png
+  - body: "**Discoveries** \n\n* Female parent osprey will give warning calls when she feels there is a threat nearby\r\n* Some nests seem more habituated to humans; for instance, the ospreys in nests closer to the main road of sandy hook were less likely to give warning calls as I approached their territory, compared to the nests that were further from human activity\r\n* These ospreys could be older, more experienced pairs, or\r\n* This is possibly due to the fact that Sandy Hook now offers rentals of some of the buildings that either have, or are next to, the osprey nests, giving these ospreys more exposure and therefore  leaving them more habituated\r\n* More data would be needed to prove this difference in behavior between pairs\r\n\n**In addition**\r\n\n* Typically only hunt in the morning not at night\r\n* Birds observed building nest and returning with twigs and other materials for the rest of the day\r\n\n**Shortfalls**\r\n\n* One osprey was observed returning with a large item to the nest, but it is unclear if item was a fish or a piece of seaweed\r\n\n**Errors**\r\n\n* \rBatteries were not fully pushed in\r\n\n**Corrections**\r\n\n* Reach out to more park rangers on obtaining osprey population data\r\n* Set up cameras earlier in the day, being mindful of angles and direction of the sun"
+    date: 2019-06-20T19:38:17.364Z
+    title: Week 4
+    image: /img/screen-shot-2019-08-22-at-3.38.44-pm.png
 ---
 
