@@ -33,6 +33,194 @@ mentors:
     name: Dr. DiLauro
 blog:
   - body: >-
+      We will be working on our presentation for Thursday.
+
+
+      We set up the equipment again. The equipment couldn’t be used, but we saw
+      how the EEG, ECG, EDA, pulse, and respiratory were set up all together. At
+      the same time, pictures were taken of us setting up the equipment to use
+      it in our presentation. We plan to finish the presentation by tomorrow, so
+      we can practice on Wednesday and present on Thursday.
+
+
+      Keep in mind presentation should only be 5 minutes long.
+
+
+      Presentation is about 60% done. We need to figure out the order of the
+      presentation with what each person will be speaking about. We got a few
+      good photos, let us figure out if we need anymore by tomorrow. 
+
+
+      Tim Kim and Sara will be doing a video presentation. (film on wednesday
+      and add onto the presentation)
+
+
+      **Today we worked on the powerpoint for Thursday’s presentation.**
+
+
+      1. The order of presenting
+
+      2. Finding out how to put a video in the slides
+
+      3. The information in each slide
+
+      4. What each individual is in charge of during the presentation
+
+      5. Since there are five members presenting, each of us will present for 1
+      minute. 
+
+
+      We also cleaned up our journal by editing out a few things that we did not
+      need and also by adding a few photos we had stored in our folders. We
+      still need to add a few more photos still in our members’ phones. 
+
+
+      The beginning part of the literature review was written. A rough rough
+      draft.
+
+
+      **Today, we polished our presentation for Thursday.**
+
+
+      Everyone has a clear role for the presentation now and a better idea of
+      how the presentation will go. We practiced our presentation a few times
+      during the day and timed ourselves as well. We have one video down and
+      just need one more for the slides to be done. 
+
+
+      We also bounced some ideas about the poster with each other. 
+
+
+      We’re practicing for the presentation at 1:30 pm. Sarah will record
+      herself explaining the brain waves because she won’t be here later. 
+
+
+      The literature review is being formatted and written. It is looking good.
+
+
+      ![](/img/screen-shot-2019-08-22-at-2.52.25-pm.png)
+
+       It is still in the rough rough draft phase: a lot of grammar needs fixing, our methods are not definite, we have no data yet.
+    date: 2019-06-17T18:49:38.953Z
+    title: 'Week 5 '
+    image: /img/bergen-stem-graphic.jpg
+  - body: >-
+      **IRB update: Attachment 3, 4 and 5 revised and updated.** 
+
+
+      1. We need to ask the professor about the Raspberry Pi and the purchase
+      order for biopac. 
+
+      2. We also need the professor to look over the IRB to check what else we
+      need to fix. 
+
+
+      **How emotions can affect memory.**
+
+
+      Still waiting on the supplies to come.
+
+
+      **Development of emotion recognition interface using complex EEG/ECG
+      bio-signal for interactive contents**
+
+
+      1. Subject of the article
+
+      2. Accuracy;
+
+      3. Electroencephalography;
+
+      4. Emotions;
+
+      5. Recognition;
+
+      6. Interactive systems
+
+
+      _**https://search-proquest-com.ezproxy.bergen.edu/docview/1899614234/1AF3757220F44079PQ/7?accountid=8580**_
+
+
+      1. This article uses videos as well to induce certain emotions such as
+      fear, sadness, disgust, joy, and anger.
+
+      2. Their experiment consisted of 30 seconds of rest followed by 90 seconds
+      of emotion induced videos. 
+
+      3. They used a dark room where the participants were isolated and so they
+      were able to completely focus on the videos being played, with videos
+      playing and stopping every 90 seconds. 
+
+      4. They also shuffled around the videos so all the participants were not
+      watching the same videos.
+
+      5. How did they get accuracy percentages? (Weka) (It was found that the
+      EEG signal alone had an accuracy of up to 69.78% and a mean accuracy of
+      62.28%. However, when adding the complex bio-signal from the autonomic
+      nervous system, the accuracy reached 99.32%, with a mean accuracy of
+      98.56%.)  We can add that using both the brainmaster and biopac can make
+      our findings even more accurate. (reason of why we should use both
+      brainmaster and biopac)
+
+
+      **A preliminary investigation into the neural basis of the production
+      effect**
+
+
+      *
+      https://search-proquest-com.ezproxy.bergen.edu/docview/1792775466/F51D86DAE25E46E8PQ/10?accountid=8580
+
+
+      1. We finished updating the entire IRB. 
+
+      2. How visual aides that induce certain emotions could help us remember
+      certain ads. 
+
+      3. IRB was reviewed by our mentor.
+
+      4. We finished getting all IRB documents signed in one day.
+
+      5. We spent the afternoon meeting the dean, vice president, and the
+      president of the grants department of BCC.
+
+
+      **Our focus is now on writing the introduction of the research paper.** 
+
+
+      We got in contact with Brainmaster by phone, unfortunately the purchase
+      order we requested did not go through due to some issues from Brainmaster.
+      They are now aware of our situation and are currently working towards
+      giving us access to the program. 
+
+
+      No update on our purchase order forms.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      ****
+
+
+      ****
+
+
+      ****
+    date: 2019-06-10T18:39:25.116Z
+    title: 'Week 4 '
+    image: /img/bergen-stem-graphic.jpg
+  - body: >-
 
 
       This week we are going to finish choosing our videos. 
@@ -381,122 +569,6 @@ blog:
       the next stage of our project.
     date: 2019-05-22T01:18:54.126Z
     title: Week 1
-    image: /img/bergen-stem-graphic.jpg
-  - body: >-
-      **IRB update: Attachment 3, 4 and 5 revised and updated.** 
-
-
-      1. We need to ask the professor about the Raspberry Pi and the purchase
-      order for biopac. 
-
-      2. We also need the professor to look over the IRB to check what else we
-      need to fix. 
-
-
-      **How emotions can affect memory.**
-
-
-      Still waiting on the supplies to come.
-
-
-      **Development of emotion recognition interface using complex EEG/ECG
-      bio-signal for interactive contents**
-
-
-      1. Subject of the article
-
-      2. Accuracy;
-
-      3. Electroencephalography;
-
-      4. Emotions;
-
-      5. Recognition;
-
-      6. Interactive systems
-
-
-      _**https://search-proquest-com.ezproxy.bergen.edu/docview/1899614234/1AF3757220F44079PQ/7?accountid=8580**_
-
-
-      1. This article uses videos as well to induce certain emotions such as
-      fear, sadness, disgust, joy, and anger.
-
-      2. Their experiment consisted of 30 seconds of rest followed by 90 seconds
-      of emotion induced videos. 
-
-      3. They used a dark room where the participants were isolated and so they
-      were able to completely focus on the videos being played, with videos
-      playing and stopping every 90 seconds. 
-
-      4. They also shuffled around the videos so all the participants were not
-      watching the same videos.
-
-      5. How did they get accuracy percentages? (Weka) (It was found that the
-      EEG signal alone had an accuracy of up to 69.78% and a mean accuracy of
-      62.28%. However, when adding the complex bio-signal from the autonomic
-      nervous system, the accuracy reached 99.32%, with a mean accuracy of
-      98.56%.)  We can add that using both the brainmaster and biopac can make
-      our findings even more accurate. (reason of why we should use both
-      brainmaster and biopac)
-
-
-      **A preliminary investigation into the neural basis of the production
-      effect**
-
-
-      *
-      https://search-proquest-com.ezproxy.bergen.edu/docview/1792775466/F51D86DAE25E46E8PQ/10?accountid=8580
-
-
-      1. We finished updating the entire IRB. 
-
-      2. How visual aides that induce certain emotions could help us remember
-      certain ads. 
-
-      3. IRB was reviewed by our mentor.
-
-      4. We finished getting all IRB documents signed in one day.
-
-      5. We spent the afternoon meeting the dean, vice president, and the
-      president of the grants department of BCC.
-
-
-      **Our focus is now on writing the introduction of the research paper.** 
-
-
-      We got in contact with Brainmaster by phone, unfortunately the purchase
-      order we requested did not go through due to some issues from Brainmaster.
-      They are now aware of our situation and are currently working towards
-      giving us access to the program. 
-
-
-      No update on our purchase order forms.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-      ****
-
-
-      ****
-
-
-      ****
-    date: 2019-06-10T18:39:25.116Z
-    title: 'Week 4 '
     image: /img/bergen-stem-graphic.jpg
 ---
 
