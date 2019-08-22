@@ -17,6 +17,10 @@ mentors:
   - email: pollywogteacher@verizon.net
     name: Charles Sontag
 blog:
+  - body: "**Discoveries** \r\n\nThis week was used solely to gather information, review all data and footage and prepare to present all my findings\r\n\n**Shortfalls**\r\n\n* One camera was left on site for two weeks, with over a thousand videos collected. Unfortunately, the night it was placed on a tree, what appears to be an opossum displaced the camera, causing the osprey nest to be out of view for the remainder of the videos\r\n\n**Errors**\r\n\n* One camera was removed from where it was posted by the NJ Sea Grant Consortium \r\n* Fortunately after contacting the NJ Sea Grant Consortium, the trap cam has been located and will be mailed back to me shortly.\r\n\n**Corrections**\r\n\n* Finding more suitable locations for setting up trap cams\r\n* Checking usability of videos and data recorded more frequently to avoid wasting time looking through hours of unusable footage\r\n* Re-evaluating all footage to try to find any new information that can be used towards publication"
+    date: 2019-07-11T19:49:18.901Z
+    title: 'Week 7 '
+    image: /img/bergen-stem-graphic.jpg
   - body: "**Discoveries** \n\n* After putting more research into the ‘scouting’ behavior I observed, I learned that there is already a more general term for when birds do this; it is called “sentinel behavior” \r\n* Although previously not known for this, new research is proposing that Ospreys can act as sentinel birds\r\n* In fact, according to the Journal of Toxicology and Environmental Health, “OSPREY: WORLDWIDE SENTINEL SPECIES FOR ASSESSING AND MONITORING ENVIRONMENTAL CONTAMINATION IN RIVERS, LAKES, RESERVOIRS, AND ESTUARIES”\r\n* Not only are ospreys sentinels for the environment, but they act as sentinels for their families and possibly for neighboring osprey families as well\r\n* More data would be needed to prove this sentinel behavior\r\n\n**Corrections**\r\n\n* Leaving cameras up until next week, rather than taking them down to look at footage, hoping this will allow me to catch more usable footage"
     date: 2019-07-04T19:46:11.895Z
     title: 'Week 6 '
@@ -183,9 +187,5 @@ blog:
     date: 2019-05-31T00:53:30.967Z
     title: 'Week 1 '
     image: /img/screen-shot-2019-08-22-at-3.20.41-pm.png
-  - body: "**Discoveries** \r\n\nThis week was used solely to gather information, review all data and footage and prepare to present all my findings\r\n\n**Shortfalls**\r\n\n* One camera was left on site for two weeks, with over a thousand videos collected. Unfortunately, the night it was placed on a tree, what appears to be an opossum displaced the camera, causing the osprey nest to be out of view for the remainder of the videos\r\n\n**Errors**\r\n\n* One camera was removed from where it was posted by the NJ Sea Grant Consortium \r\n* Fortunately after contacting the NJ Sea Grant Consortium, the trap cam has been located and will be mailed back to me shortly.\r\n\n**Corrections**\r\n\n* Finding more suitable locations for setting up trap cams\r\n* Checking usability of videos and data recorded more frequently to avoid wasting time looking through hours of unusable footage\r\n* Re-evaluating all footage to try to find any new information that can be used towards publication"
-    date: 2019-07-11T19:49:18.901Z
-    title: 'Week 7 '
-    image: /img/bergen-stem-graphic.jpg
 ---
 
