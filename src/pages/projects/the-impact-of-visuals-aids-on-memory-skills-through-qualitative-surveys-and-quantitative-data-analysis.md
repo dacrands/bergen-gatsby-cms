@@ -570,5 +570,30 @@ blog:
     date: 2019-05-22T01:18:54.126Z
     title: Week 1
     image: /img/bergen-stem-graphic.jpg
+  - body: >-
+      Peer reviews were given for the research paper. The research is being
+      edited and revised. 
+
+
+      Worked on the introduction. Used the different research papers as
+      reference and added more background information on brain waves. ECG and
+      the heart pulse will be worked on for tomorrow in the introduction. 
+
+
+      Check on status for brain masters, purchase order.
+
+
+      The poster asking for volunteer is being worked on. We are looking for
+      more studies to cite in the introduction of the research paper. 
+
+
+      ![](/img/screen-shot-2019-08-22-at-2.57.47-pm.png)
+
+
+      We’re waiting on the electrodes order so we can test out some experiments
+      and improve our research question.
+    date: 2019-06-24T18:55:34.985Z
+    title: Week 6
+    image: /img/screen-shot-2019-08-22-at-2.58.42-pm.png
 ---
 
