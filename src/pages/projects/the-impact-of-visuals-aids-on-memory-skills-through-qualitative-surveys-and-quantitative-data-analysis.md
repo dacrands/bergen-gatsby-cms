@@ -33,7 +33,7 @@ mentors:
     name: Dr. DiLauro
 blog:
   - body: "Today we started the purchase order request form. Also, we started looking into why the brain reacts with fear while something scares us. (<https://www.businessinsider.com/what-happen s-when-you-are-scared-2015-10>). The link explains clearly what part of the brain are affected, and how that helped the human population years ago, and how that effect has evolved. \n\n_Ideas:_ \r\n\n* Social media, videos (horror, comedy, sad) How watching different genres of videos could affect the mood of a person. \r\n* How emotions triggered by different genres of movies affect our internal body (brain waves, heartbeat, perspiration) \r\n\n_For BioPac:_ \r\n\n* Lesson 7 (testing) and 9 (table)\r\n\n_Possible Videos:_\r\n\n* Comedy - \r\n* Horror - \r\n* Sad - <https://www.youtube.com/watch?v=F2bk_9T482g>"
-    date: 2019-07-14T01:20:22.301Z
+    date: 2019-05-29T01:20:22.301Z
     title: Week 2
     image: /img/bergen-stem-graphic.jpg
   - body: >-
@@ -157,6 +157,20 @@ blog:
 
 
       _https://www.psychologistworld.com/emotion/emotion-memory-psychology_
+
+
+      ![](/img/screen-shot-2019-08-22-at-1.45.15-pm.png)
+
+
+      **\[Experimental Design]** The project in separated into four parts as
+      shown above. (Left to right) First box is the consent form and the number
+      that has to be assigned to the participants. Second box is the pre-survey:
+      the questions we’re going to ask before the experiment in conducted (in
+      this step we will eliminate important obstacles in our study). The third
+      box is the main experiment; the ideas and models are written on the
+      board/journals. The fourth box is the post-survey: the questions after the
+      experiment. We will need to test the equipment before we can move on to
+      the next stage of our project.
     date: 2019-05-22T01:18:54.126Z
     title: Week 1
     image: /img/bergen-stem-graphic.jpg
