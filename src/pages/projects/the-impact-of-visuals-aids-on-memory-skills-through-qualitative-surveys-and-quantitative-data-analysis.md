@@ -174,5 +174,213 @@ blog:
     date: 2019-05-22T01:18:54.126Z
     title: Week 1
     image: /img/bergen-stem-graphic.jpg
+  - body: >-
+
+
+      This week we are going to finish choosing our videos. 
+
+
+      **Human Subject Protection: A Comprehensive Introduction (No Contact
+      Hours):**
+
+
+      *
+      _https://www.avectraacrp.com/eweb/DynamicPage.aspx?Action=Add&ObjectKeyFROM=1A83491A-9853-4C87-86A4-F7D95601C2E2&WebCode=ProdDetailAdd&DoNotSave=yes&ParentObject=CentralizedOrderEntry&ParentDataObject=Invoice%20Detail&ivd_formkey=69202792-63d7-4ba2-bf4e-a0da41270555&ivd_cst_key=00000000-0000-0000-0000-000000000000&ivd_cst_ship_key=00000000-0000-0000-0000-000000000000&ivd_prc_prd_key=A61A4636-365B-4935-ABBC-A1FFCE1794C7_
+
+
+      We were able to find a free Human subject research course on the ACRP
+      website. You have to create an account and purchase the course using the
+      link above. If the certificate costs money, then you are looking at the
+      wrong one. It should say \[non-member] or \[no contact hours] to be free.
+
+
+      **Guide to get the certificate:**
+
+
+      1. Create an account on the main ACRP website.
+
+      2. After you have an account, click on the link above.
+
+      3. Scroll down and click \[Add to Cart]
+
+      4. Then click \[Check-out] on the right or bottom right (Doesn’t matter).
+
+      5. Next to Billing contact, choose your name. Make sure your information
+      is accurate.
+
+      6. Scroll down and on the bottom click the Terms of Service, then
+      continue.
+
+      7. Click \[Submit Order] and you now purchased the course.
+
+      8. Don’t close your tab.
+
+
+      **Guide to access the course:**
+
+
+      1. After you “purchased” your course. Click \[My Account] next to the
+      website logo.
+
+      2. On the right, under \[My Account Links] click \[My courses].
+
+      3. You should see two options, click the left one. 
+
+      4. On the left, click on \[eLearning].
+
+      5. You should see your course: Human Subject Protection: A Comprehensive
+      Introduction (No Contact Hours) In-complete.
+
+      6. If you don’t see your course (which may happen) log-off and log back
+      in.
+
+      7. If you still don’t see it repeat #6 and wait a few minutes.
+
+      8. Click \[View Course] and complete the course.
+
+
+
+
+      3.
+
+
+      ![](/img/screen-shot-2019-08-22-at-2.26.27-pm.png)
+
+
+      5.
+
+
+      ![](/img/screen-shot-2019-08-22-at-2.28.31-pm.png)
+
+
+      8.
+
+
+      ![](/img/screen-shot-2019-08-22-at-2.29.55-pm.png)
+
+
+      Hopefully, we finish choosing our videos today. We discussed the methods
+      again because we STILL do not have the materials we need to test the
+      instruments. So far, we choose:
+
+
+      * **Comedy**
+
+
+      https://www.youtube.com/watch?v=Un6KQLk64Oo (Japanese game show)
+
+
+      * **Horror**
+
+
+      https://www.youtube.com/watch?v=RDn0og5Vldg (lights out) 
+
+
+      * _Still no update on our purchase order._ 
+
+      * _Still no update on brainmaster renewal._ 
+
+
+      We will be working on our post-questionnaire. There will be two separate
+      questionnaires for comedy and horror. 
+
+
+      We need to organize our literature review, so we made a Lit Review
+      Spreadsheet. We separated the EEG and ECG sources because so far we have
+      not found any journals that use both instruments. 
+
+
+      Post questionnaires for both videos are complete. We just need to
+      proofread both sets of questions and see which ones would work.
+
+
+      ![](/img/screen-shot-2019-08-22-at-2.32.48-pm.png)
+
+
+      * **Crash course on Memory**
+
+
+      https://www.youtube.com/watch?time_continue=547&v=bSycdIx-C48 
+
+
+      **Most important information:**
+
+
+      * **Making memory Process:**
+
+
+      ![](/img/screen-shot-2019-08-22-at-2.34.51-pm.png)
+
+
+      * **Recall memory:** 
+
+
+      **\_\_\_\__** is the capital city of Greece
+
+
+      * **Recognition memory:**
+
+
+      What is the capital city of Greece?
+
+
+      a) Athens
+
+
+      b) Rome
+
+
+      * **Relearning**
+
+
+      Example, reviewing materials studied during the year for the final exam.
+
+
+      **A study studying brain behavior from EEG scans in Learning and Memory
+      Recall**
+
+
+      https://link.springer.com/chapter/10.1007/978-3-319-02913-9_174 
+
+
+      The study provides brain mapping of the regions and the brain waves
+      involved in the process of learning.
+
+
+      Also, it provides additional info on successful memory recall!
+
+
+      * The process of Memory Formation: Theory of 2 sociologists (R. Atkinson
+      and R. Shiffrin)
+
+
+      ![](/img/screen-shot-2019-08-22-at-2.37.32-pm.png)
+
+
+      We are working on the IRB document. We are still proofreading the
+      questionnaires. We can watch the videos and test the questions ourselves.
+
+
+      We need to figure out what the raspberry pi is/how it works. (For holding
+      our data/security)
+
+
+      Most of the IRB is complete for 2019-2020, we need to finish the
+      Application and Attachment 1 (request for purchase order?).
+
+
+      We still have no update on our personal purchase order.
+
+
+
+
+
+
+
+
+      ****
+    date: 2019-07-02T18:24:28.929Z
+    title: 'Week 3 '
+    image: /img/bergen-stem-graphic.jpg
 ---
 
