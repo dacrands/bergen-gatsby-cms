@@ -33,6 +33,27 @@ mentors:
     name: Dr. DiLauro
 blog:
   - body: >-
+      The experimental phase can be started during the fall semester. The design
+      is almost finalized and how the equipment is going to be set up is ready.
+      Emails will be sent to BCC students. There will be a volunteer bias, but
+      that is the limit of this project. There will be two groups: the control
+      group and the treatment group. The participants will be randomly assigned
+      to a group to avoid bias through a coin flip. By leaving it to chance, the
+      variables will be equalized. The control group will solve 10 multiple
+      choice critical thinking problems. The treatment group will go through a 3
+      minute guided meditation before solving the same 10 questions. The
+      participants will have the electrodes on the whole time. 
+
+
+      The only thing that needs to be worked on is the statistics part of the
+      experiment. Rather than not giving the control group anything, it may be
+      better to give them a placebo stimulus, such as talking. If nothing is
+      given and only the treatment group is given a meditation, then they may
+      think that meditation will have more of an effect than it does.
+    date: 2019-08-05T19:05:47.888Z
+    title: 'Week 9 '
+    image: /img/bergen-stem-graphic.jpg
+  - body: >-
       Equipment for EKG was received & tested it out for the first time. 
 
 
@@ -660,27 +681,6 @@ blog:
       the next stage of our project.
     date: 2019-05-22T01:18:54.126Z
     title: Week 1
-    image: /img/bergen-stem-graphic.jpg
-  - body: >-
-      The experimental phase can be started during the fall semester. The design
-      is almost finalized and how the equipment is going to be set up is ready.
-      Emails will be sent to BCC students. There will be a volunteer bias, but
-      that is the limit of this project. There will be two groups: the control
-      group and the treatment group. The participants will be randomly assigned
-      to a group to avoid bias through a coin flip. By leaving it to chance, the
-      variables will be equalized. The control group will solve 10 multiple
-      choice critical thinking problems. The treatment group will go through a 3
-      minute guided meditation before solving the same 10 questions. The
-      participants will have the electrodes on the whole time. 
-
-
-      The only thing that needs to be worked on is the statistics part of the
-      experiment. Rather than not giving the control group anything, it may be
-      better to give them a placebo stimulus, such as talking. If nothing is
-      given and only the treatment group is given a meditation, then they may
-      think that meditation will have more of an effect than it does.
-    date: 2019-08-05T19:05:47.888Z
-    title: 'Week 9 '
     image: /img/bergen-stem-graphic.jpg
 ---
 
