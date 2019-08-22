@@ -188,7 +188,7 @@ blog:
 
       On the 16th day, the hose was broken. All hoses should be carefully
       wrapped so that they are not cut by the mower.
-    date: 2019-08-21T18:48:12.192Z
+    date: 2019-07-15T18:48:12.192Z
     title: 'Week 3 '
     image: /img/screen-shot-2019-08-21-at-2.48.35-pm.png
   - body: >-
