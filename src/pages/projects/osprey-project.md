@@ -17,6 +17,10 @@ mentors:
   - email: pollywogteacher@verizon.net
     name: Charles Sontag
 blog:
+  - body: "**Discoveries** \n\n* New behavior observed\r\n* Parent osprey, assumed to be male parent osprey due to size, will leave the nest to fly to a nearby highpoint\r\n* The parent osprey then proceeds to scan and scout out the area for any potential threats, occasionally relaying messages back to the parent osprey still in the nest\r\n* Coined the term Scouting behavior to describe this phenomena\r\n* Appears to be used only by the male parent Osprey\r\n\n**Corrections**\r\n\n* Hoping to be able to wrap up this project by week one of the Summer II session"
+    date: 2019-06-27T19:42:00.124Z
+    title: 'Week 5 '
+    image: /img/screen-shot-2019-08-22-at-3.42.44-pm.png
   - body: >-
       **Discoveries** 
 
@@ -175,9 +179,9 @@ blog:
     date: 2019-05-31T00:53:30.967Z
     title: 'Week 1 '
     image: /img/screen-shot-2019-08-22-at-3.20.41-pm.png
-  - body: "**Discoveries** \n\n* New behavior observed\r\n* Parent osprey, assumed to be male parent osprey due to size, will leave the nest to fly to a nearby highpoint\r\n* The parent osprey then proceeds to scan and scout out the area for any potential threats, occasionally relaying messages back to the parent osprey still in the nest\r\n* Coined the term Scouting behavior to describe this phenomena\r\n* Appears to be used only by the male parent Osprey\r\n\n**Corrections**\r\n\n* Hoping to be able to wrap up this project by week one of the Summer II session"
-    date: 2019-06-27T19:42:00.124Z
-    title: 'Week 5 '
-    image: /img/screen-shot-2019-08-22-at-3.42.44-pm.png
+  - body: "**Discoveries** \n\n* After putting more research into the ‘scouting’ behavior I observed, I learned that there is already a more general term for when birds do this; it is called “sentinel behavior” \r\n* Although previously not known for this, new research is proposing that Ospreys can act as sentinel birds\r\n* In fact, according to the Journal of Toxicology and Environmental Health, “OSPREY: WORLDWIDE SENTINEL SPECIES FOR ASSESSING AND MONITORING ENVIRONMENTAL CONTAMINATION IN RIVERS, LAKES, RESERVOIRS, AND ESTUARIES”\r\n* Not only are ospreys sentinels for the environment, but they act as sentinels for their families and possibly for neighboring osprey families as well\r\n* More data would be needed to prove this sentinel behavior\r\n\n**Corrections**\r\n\n* Leaving cameras up until next week, rather than taking them down to look at footage, hoping this will allow me to catch more usable footage"
+    date: 2019-07-04T19:46:11.895Z
+    title: 'Week 6 '
+    image: /img/screen-shot-2019-08-22-at-3.46.52-pm.png
 ---
 
