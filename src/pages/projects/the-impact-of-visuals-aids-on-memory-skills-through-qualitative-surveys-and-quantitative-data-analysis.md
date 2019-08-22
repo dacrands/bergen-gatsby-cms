@@ -33,6 +33,79 @@ mentors:
     name: Dr. DiLauro
 blog:
   - body: >-
+      **This is one of the great articles to see how Abstract can be created.**
+
+
+      *
+      _https://search-proquest-com.ezproxy.bergen.edu/docview/1629407870/AEF0DEBD9B6D416DPQ/6?accountid=8580_
+
+
+      The update on the biopac was received, but there are no materials yet. The
+      literature review was worked on and more citations were added on the
+      needed parts of the research. 
+
+
+
+
+      __
+    date: 2019-07-01T19:02:09.512Z
+    title: 'Week 7 '
+    image: /img/bergen-stem-graphic.jpg
+  - body: >-
+      Peer reviews were given for the research paper. The research is being
+      edited and revised. 
+
+
+      Worked on the introduction. Used the different research papers as
+      reference and added more background information on brain waves. ECG and
+      the heart pulse will be worked on for tomorrow in the introduction. 
+
+
+      Check on status for brain masters, purchase order.
+
+
+      The poster asking for volunteer is being worked on. We are looking for
+      more studies to cite in the introduction of the research paper. 
+
+
+      ![](/img/screen-shot-2019-08-22-at-2.57.47-pm.png)
+
+
+      We’re waiting on the electrodes order so we can test out some experiments
+      and improve our research question. 
+
+
+      * **Gamma waves:**
+
+
+      https://www.binauralbeatsfreak.com/brainwave-entrainment/gamma-waves-benefits
+
+
+      Today we worked on finding the references and citing parts of the research
+      paper. We need a lot more citations for certain information. The reference
+      section is in work. So far, we have seven citations, but there will be
+      additional five citations. However, we will add more citations once more
+      information added. 
+
+
+      We’re making some progress. For tomorrow, we will try to finish the
+      references and introduction.
+
+
+      * **Citations**
+
+
+      https://search-proquest-com.ezproxy.bergen.edu/docview/1503778889/FE62F12938F04349PQ/10?accountid=8580
+
+
+      We are continuing on bettering the introduction and adding more citations
+      while we cite all the new info used in our research paper. Our goal for
+      next week is to finish up with the introduction, as we also want to add
+      the GSR into our study.
+    date: 2019-06-24T18:55:34.985Z
+    title: Week 6
+    image: /img/screen-shot-2019-08-22-at-2.58.42-pm.png
+  - body: >-
       We will be working on our presentation for Thursday.
 
 
@@ -570,59 +643,5 @@ blog:
     date: 2019-05-22T01:18:54.126Z
     title: Week 1
     image: /img/bergen-stem-graphic.jpg
-  - body: >-
-      Peer reviews were given for the research paper. The research is being
-      edited and revised. 
-
-
-      Worked on the introduction. Used the different research papers as
-      reference and added more background information on brain waves. ECG and
-      the heart pulse will be worked on for tomorrow in the introduction. 
-
-
-      Check on status for brain masters, purchase order.
-
-
-      The poster asking for volunteer is being worked on. We are looking for
-      more studies to cite in the introduction of the research paper. 
-
-
-      ![](/img/screen-shot-2019-08-22-at-2.57.47-pm.png)
-
-
-      We’re waiting on the electrodes order so we can test out some experiments
-      and improve our research question. 
-
-
-      * **Gamma waves:**
-
-
-      https://www.binauralbeatsfreak.com/brainwave-entrainment/gamma-waves-benefits
-
-
-      Today we worked on finding the references and citing parts of the research
-      paper. We need a lot more citations for certain information. The reference
-      section is in work. So far, we have seven citations, but there will be
-      additional five citations. However, we will add more citations once more
-      information added. 
-
-
-      We’re making some progress. For tomorrow, we will try to finish the
-      references and introduction.
-
-
-      * **Citations**
-
-
-      https://search-proquest-com.ezproxy.bergen.edu/docview/1503778889/FE62F12938F04349PQ/10?accountid=8580
-
-
-      We are continuing on bettering the introduction and adding more citations
-      while we cite all the new info used in our research paper. Our goal for
-      next week is to finish up with the introduction, as we also want to add
-      the GSR into our study.
-    date: 2019-06-24T18:55:34.985Z
-    title: Week 6
-    image: /img/screen-shot-2019-08-22-at-2.58.42-pm.png
 ---
 
