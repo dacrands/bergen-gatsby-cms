@@ -79,9 +79,13 @@ export default function ProjectTemplate({ data }) {
                         <p><em>{post.date}</em></p>
                         <hr/>
                       </div>
-                      <div className="card__img">
-                        <Img fixed={post.image.childImageSharp.fixed} />
-                      </div>
+                        {
+                          post.image 
+                          ? <div className="card__img">
+                             <Img fixed={post.image.childImageSharp.fixed} />
+                            </div>
+                          : null
+                        }                        
                       <div className="card__content">
                         <div dangerouslySetInnerHTML={{ __html: converter.makeHtml(post.body)}} />
                       </div>

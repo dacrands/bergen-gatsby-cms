@@ -34,6 +34,6 @@ collections:
         widget: list
         fields:
           - { name: title, label: Title }
-          - { name: image, label: Image, widget: image }
+          - { name: image, label: Image, widget: image, required: false }
           - { name: date, label: Date, widget: date }
           - { name: body, label: Body, widget: markdown } 
