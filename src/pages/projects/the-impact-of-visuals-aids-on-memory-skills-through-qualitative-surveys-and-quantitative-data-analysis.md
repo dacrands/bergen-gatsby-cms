@@ -591,7 +591,36 @@ blog:
 
 
       We’re waiting on the electrodes order so we can test out some experiments
-      and improve our research question.
+      and improve our research question. 
+
+
+      * **Gamma waves:**
+
+
+      https://www.binauralbeatsfreak.com/brainwave-entrainment/gamma-waves-benefits
+
+
+      Today we worked on finding the references and citing parts of the research
+      paper. We need a lot more citations for certain information. The reference
+      section is in work. So far, we have seven citations, but there will be
+      additional five citations. However, we will add more citations once more
+      information added. 
+
+
+      We’re making some progress. For tomorrow, we will try to finish the
+      references and introduction.
+
+
+      * **Citations**
+
+
+      https://search-proquest-com.ezproxy.bergen.edu/docview/1503778889/FE62F12938F04349PQ/10?accountid=8580
+
+
+      We are continuing on bettering the introduction and adding more citations
+      while we cite all the new info used in our research paper. Our goal for
+      next week is to finish up with the introduction, as we also want to add
+      the GSR into our study.
     date: 2019-06-24T18:55:34.985Z
     title: Week 6
     image: /img/screen-shot-2019-08-22-at-2.58.42-pm.png
