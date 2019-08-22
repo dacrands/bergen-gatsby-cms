@@ -17,6 +17,64 @@ mentors:
   - email: pollywogteacher@verizon.net
     name: Charles Sontag
 blog:
+  - body: >-
+      **Discoveries** 
+
+
+      * Female parent osprey will give warning calls when she feels there is a
+      threat nearby
+
+      * Some nests seem more habituated to humans; for instance, the ospreys in
+      nests closer to the main road of sandy hook were less likely to give
+      warning calls as I approached their territory, compared to the nests that
+      were further from human activity
+
+      * These ospreys could be older, more experienced pairs, or
+
+      * This is possibly due to the fact that Sandy Hook now offers rentals of
+      some of the buildings that either have, or are next to, the osprey nests,
+      giving these ospreys more exposure and therefore  leaving them more
+      habituated
+
+      * More data would be needed to prove this difference in behavior between
+      pairs
+
+
+      **In addition**
+
+
+      * Typically only hunt in the morning not at night
+
+      * Birds observed building nest and returning with twigs and other
+      materials for the rest of the day
+
+
+      **Shortfalls**
+
+
+      * One osprey was observed returning with a large item to the nest, but it
+      is unclear if item was a fish or a piece of seaweed
+
+
+      **Errors**
+
+
+      * 
+
+
+      Batteries were not fully pushed in
+
+
+      **Corrections**
+
+
+      * Reach out to more park rangers on obtaining osprey population data
+
+      * Set up cameras earlier in the day, being mindful of angles and direction
+      of the sun
+    date: 2019-06-20T19:38:17.364Z
+    title: Week 4
+    image: /img/screen-shot-2019-08-22-at-3.38.44-pm.png
   - body: "**Discoveries** \n\n* No visible activity at night\r\n* Comfortable with the presence of other smaller birds\r\n* New possible theory: ospreys prefer chimneys due to stability and less accessibility to nocturnal scavengers, due to the difficulty of climbing bricks (would need data from previous years to confirm this)\r\n\n**In addition**\r\n\n* Data is available on Osprey populations from previous years, but access is not available to the public\r\n* According to the National Park Services, “Habitat: Fresh and saltwater, shallow water estuaries, lakes, and rivers.\r\n*  Nest on platforms, buoys, chimneys, and dead trees.” However current observational data show Ospreys nesting almost exclusively in chimneys, with the exception of one manmade pole\r\n* More observational data would be needed to prove Osprey’s preference for chimneys and avoidance of artificial manmade platforms\r\n\n**Shortfalls**\r\n\n* Due to the unavailability of visible activity of scavenging behavior, as well as abundance of fish in this area, my hypothesis that Ospreys scavenge no longer has any viable potential to be proven.\r\n* When trap cam is pointed directly at the Sun, the glare ends up distracting from most of the footage \r\n* Not enough high points to get a better view of nestlings\r\n* Not enough usable footage, trap cam settings must be further adjusted\r\n\n**Errors**\r\n\n* Camera 2’s SD card was out of place and therefore no footage was taken.\r\n* Camera 3 along with its SD card was stolen\r\n\n**Corrections**\r\n\n* Double check that all cameras have SD cards pushed in\r\n* Can disprove information on Osprey nesting choices by capturing enough images/footage of chimney nests\r\n\n**Still need**\r\n\n* Osprey population data\r\n* Better vantage points\r\n\n****"
     date: 2019-06-13T19:32:38.917Z
     title: Week 3
@@ -117,9 +175,9 @@ blog:
     date: 2019-05-31T00:53:30.967Z
     title: 'Week 1 '
     image: /img/screen-shot-2019-08-22-at-3.20.41-pm.png
-  - body: "**Discoveries** \n\n* Female parent osprey will give warning calls when she feels there is a threat nearby\r\n* Some nests seem more habituated to humans; for instance, the ospreys in nests closer to the main road of sandy hook were less likely to give warning calls as I approached their territory, compared to the nests that were further from human activity\r\n* These ospreys could be older, more experienced pairs, or\r\n* This is possibly due to the fact that Sandy Hook now offers rentals of some of the buildings that either have, or are next to, the osprey nests, giving these ospreys more exposure and therefore  leaving them more habituated\r\n* More data would be needed to prove this difference in behavior between pairs\r\n\n**In addition**\r\n\n* Typically only hunt in the morning not at night\r\n* Birds observed building nest and returning with twigs and other materials for the rest of the day\r\n\n**Shortfalls**\r\n\n* One osprey was observed returning with a large item to the nest, but it is unclear if item was a fish or a piece of seaweed\r\n\n**Errors**\r\n\n* \rBatteries were not fully pushed in\r\n\n**Corrections**\r\n\n* Reach out to more park rangers on obtaining osprey population data\r\n* Set up cameras earlier in the day, being mindful of angles and direction of the sun"
-    date: 2019-06-20T19:38:17.364Z
-    title: Week 4
-    image: /img/screen-shot-2019-08-22-at-3.38.44-pm.png
+  - body: "**Discoveries** \n\n* New behavior observed\r\n* Parent osprey, assumed to be male parent osprey due to size, will leave the nest to fly to a nearby highpoint\r\n* The parent osprey then proceeds to scan and scout out the area for any potential threats, occasionally relaying messages back to the parent osprey still in the nest\r\n* Coined the term Scouting behavior to describe this phenomena\r\n* Appears to be used only by the male parent Osprey\r\n\n**Corrections**\r\n\n* Hoping to be able to wrap up this project by week one of the Summer II session"
+    date: 2019-06-27T19:42:00.124Z
+    title: 'Week 5 '
+    image: /img/screen-shot-2019-08-22-at-3.42.44-pm.png
 ---
 
