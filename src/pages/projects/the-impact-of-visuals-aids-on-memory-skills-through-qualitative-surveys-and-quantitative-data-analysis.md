@@ -643,5 +643,23 @@ blog:
     date: 2019-05-22T01:18:54.126Z
     title: Week 1
     image: /img/bergen-stem-graphic.jpg
+  - body: >-
+      Equipment for EKG was received & tested it out for the first time. 
+
+
+      Electrodes were used on Sarah, measuring using the ECG and EDA. EEG could
+      not be used yet because the brainmaster program was not ready.
+
+
+      This whole week, the new equipments were being used and a new idea was
+      created: “The Impact of Mindfulness Meditation on Problem Solving Skills
+      Through Quantitative Data Analysis (EEG, EKG, EDA, Respiratory
+      Transducer)”. The project decided to be changed, so all of the new
+      information gathered from our gained experience could correctly be used
+      into new findings and ideas. The materials continue to be new for the
+      team, so we continue practicing and trying to improve ourselves.
+    date: 2019-07-22T19:04:20.464Z
+    title: Week 8
+    image: /img/bergen-stem-graphic.jpg
 ---
 
