@@ -16,9 +16,9 @@ export default ({ data }) => {
             Science, Technology, Engineering, Mathematics at Bergen Community
             College
           </p>
-          <Link to="#contact" className="btn landing__link">
+          <a href="#contact" className="btn landing__link">
             Join STEM
-          </Link>
+          </a>
           <Link to="/about" className="btn btn--dark landing__link">
             Learn More
           </Link>
