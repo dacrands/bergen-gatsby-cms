@@ -28,7 +28,7 @@ export default ({ data }) => {
       <section className="section section--border section--big bg-light">
           <div className="row container center">
             <div className="col section__media">
-              <Img fluid={data.image1.childImageSharp.fluid} />
+              <Img fluid={data.image1.childImageSharp.fluid} alt="Scientific beakers filled with algae fluid" />
             </div>
             <div className="col section__content">
               <h2>Research</h2>
@@ -62,7 +62,7 @@ export default ({ data }) => {
               </Link>
             </div>
             <div className="col section__media">
-              <Img fluid={data.image2.childImageSharp.fluid} />
+              <Img fluid={data.image2.childImageSharp.fluid} alt="Aeriel drone" />
             </div>
           </div>        
       </section>
@@ -70,7 +70,7 @@ export default ({ data }) => {
       <section className="section section--border section--big bg-light">        
           <div className="row container center">
             <div className="col section__media">
-              <Img fluid={data.image3.childImageSharp.fluid}/>
+              <Img fluid={data.image3.childImageSharp.fluid} alt="Student and professor working on solar energy project"/>
             </div>
             <div className="col section__content">
               <h2>Running Start Program</h2>
