@@ -17,10 +17,6 @@ students:
 mentors:
   - email: bbenjamin@bergen.edu
     name: 'Dr. Benjamin '
-blog:
-  - body: Coming soon...
-    date: 2019-06-14T16:23:03.750Z
-    title: Blog 1
-    image: ''
+blog: []
 ---
 
