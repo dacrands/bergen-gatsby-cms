@@ -180,5 +180,36 @@ blog:
     date: 2019-05-20T22:22:36.695Z
     title: Week 1
     image: /img/robotics-week-0.jpg
+  - body: >-
+      The mechanism for the robot was almost finished.  On Monday, Tyler and
+      Deepa are hoping to finish attaching stacking and extender mechanism.
+      However,  we were encountering the problems which was not allowing the
+      extender mechanism for the movement.
+
+
+      Tyler was trying to provide more space for the extender to function
+      properly. Deepa was working on researching about the problems we
+      encounter. 
+
+
+      ![](/img/screen-shot-2019-08-22-at-8.40.37-pm.png)
+
+
+      The superstructure for the robot is now complete and the attachment went
+      on smoothly. There are some issues with weight, but we believe we resolved
+      it by removing extra metal that was not necessary for the superstructure
+      to function.
+
+
+      ![](/img/screen-shot-2019-08-22-at-8.40.30-pm.png)
+
+
+      The superstructure of the robot was finished and Tyler and Deepa was
+      trying to figure out the programming for the robot. We were having trouble
+      with wiring and the coding so we were researching and trying to figure out
+      the way to make it work.
+    date: 2019-08-06T00:39:01.462Z
+    title: 'Week 8 '
+    image: /img/screen-shot-2019-08-22-at-8.39.41-pm.png
 ---
 
