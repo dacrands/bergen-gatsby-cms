@@ -22,6 +22,37 @@ mentors:
     name: Bruce Benjamin
 blog:
   - body: >-
+      The mechanism for the robot was almost finished.  On Monday, Tyler and
+      Deepa are hoping to finish attaching stacking and extender mechanism.
+      However,  we were encountering the problems which was not allowing the
+      extender mechanism for the movement.
+
+
+      Tyler was trying to provide more space for the extender to function
+      properly. Deepa was working on researching about the problems we
+      encounter. 
+
+
+      ![](/img/screen-shot-2019-08-22-at-8.40.37-pm.png)
+
+
+      The superstructure for the robot is now complete and the attachment went
+      on smoothly. There are some issues with weight, but we believe we resolved
+      it by removing extra metal that was not necessary for the superstructure
+      to function.
+
+
+      ![](/img/screen-shot-2019-08-22-at-8.40.30-pm.png)
+
+
+      The superstructure of the robot was finished and Tyler and Deepa was
+      trying to figure out the programming for the robot. We were having trouble
+      with wiring and the coding so we were researching and trying to figure out
+      the way to make it work.
+    date: 2019-08-06T00:39:01.462Z
+    title: 'Week 8 '
+    image: /img/screen-shot-2019-08-22-at-8.39.41-pm.png
+  - body: >-
       Deepa looked into the lifting mechanism and had made possible ideas to use
       a 3d printed parts that will hold the cube in. This will be in combination
       with an older design used by our group to hold it in place. As well Tyler
@@ -38,7 +69,7 @@ blog:
       The intake mechanism had to be reinforced in order to make sure the
       opening would remain a square. As well the metal on it had to be switched
       out due to height issues.
-    date: 2019-07-29T14:55:25.705Z
+    date: 2019-07-01T14:55:25.705Z
     title: 'Week 7 '
     image: /img/screen-shot-2019-08-06-at-10.56.49-am.png
   - body: >-
@@ -71,7 +102,7 @@ blog:
 
 
       ![](/img/screen-shot-2019-07-30-at-5.14.40-pm.png)
-    date: 2019-07-22T21:12:44.920Z
+    date: 2019-06-24T21:12:44.920Z
     title: Week 6
     image: /img/screen-shot-2019-07-30-at-5.14.49-pm.png
   - body: >-
@@ -99,7 +130,7 @@ blog:
 
       On Thursday, Tyler worked on attaching the extension arm to the robot.
       Deepa finished working on the stacker.
-    date: 2019-07-15T21:10:08.062Z
+    date: 2019-06-17T21:10:08.062Z
     title: 'Week 5 '
     image: /img/screen-shot-2019-07-30-at-5.11.33-pm.png
   - body: >-
@@ -125,12 +156,28 @@ blog:
       On Thursday, Deepa was working on extending parts of an arm. As well Tyler
       was working on the mechanism to lift both arms of the superstructure so
       orientation of both gears go in the right direction.
-    date: 2019-07-08T21:02:55.763Z
+    date: 2019-06-10T21:02:55.763Z
     title: 'Week 4 '
     image: /img/screen-shot-2019-07-30-at-5.04.05-pm.png
   - body: >-
       I spent all Monday researching the concept for the robot and the rules for
       the VEX competition 2019-2020 tower takeover.
+
+
+      The video I was watching for the ideas and the concept for the robot, it
+      has a great feature for the robot. Implementing this concept on our robot
+      we can collect more cubes and stack more cubes on the tower.
+
+
+      <https://youtu.be/FJ7n5vcpsTw>
+
+
+      I was experimenting the concept from the videos all Wednesday. Before
+      attaching it to the robot I wanted to make sure I know the capabilities of
+      the mechanism use for the stacking of cubes.
+
+
+      ![](/img/screen-shot-2019-08-22-at-8.54.46-pm.png)
     date: 2019-06-04T23:21:48.958Z
     title: Week 3
     image: /img/robotics-week-2.jpg
@@ -180,36 +227,5 @@ blog:
     date: 2019-05-20T22:22:36.695Z
     title: Week 1
     image: /img/robotics-week-0.jpg
-  - body: >-
-      The mechanism for the robot was almost finished.  On Monday, Tyler and
-      Deepa are hoping to finish attaching stacking and extender mechanism.
-      However,  we were encountering the problems which was not allowing the
-      extender mechanism for the movement.
-
-
-      Tyler was trying to provide more space for the extender to function
-      properly. Deepa was working on researching about the problems we
-      encounter. 
-
-
-      ![](/img/screen-shot-2019-08-22-at-8.40.37-pm.png)
-
-
-      The superstructure for the robot is now complete and the attachment went
-      on smoothly. There are some issues with weight, but we believe we resolved
-      it by removing extra metal that was not necessary for the superstructure
-      to function.
-
-
-      ![](/img/screen-shot-2019-08-22-at-8.40.30-pm.png)
-
-
-      The superstructure of the robot was finished and Tyler and Deepa was
-      trying to figure out the programming for the robot. We were having trouble
-      with wiring and the coding so we were researching and trying to figure out
-      the way to make it work.
-    date: 2019-08-06T00:39:01.462Z
-    title: 'Week 8 '
-    image: /img/screen-shot-2019-08-22-at-8.39.41-pm.png
 ---
 
