@@ -7,7 +7,6 @@ import Video from "../components/Video"
 import Form from "../components/Form"
 
 export default ({ data }) => {
-  const edges = data.allFile.edges
   return (
     <Layout>
       <header className="landing">
@@ -29,7 +28,7 @@ export default ({ data }) => {
       <section className="section section--border section--big bg-light">
           <div className="row container center">
             <div className="col section__media">
-              <Img fluid={edges[3].node.childImageSharp.fluid} />
+              <Img fluid={data.image1.childImageSharp.fluid} />
             </div>
             <div className="col section__content">
               <h2>Research</h2>
@@ -63,7 +62,7 @@ export default ({ data }) => {
               </Link>
             </div>
             <div className="col section__media">
-              <Img fluid={edges[0].node.childImageSharp.fluid} />
+              <Img fluid={data.image2.childImageSharp.fluid} />
             </div>
           </div>        
       </section>
@@ -71,7 +70,7 @@ export default ({ data }) => {
       <section className="section section--border section--big bg-light">        
           <div className="row container center">
             <div className="col section__media">
-              <Img fluid={edges[2].node.childImageSharp.fluid} />
+              <Img fluid={data.image3.childImageSharp.fluid}/>
             </div>
             <div className="col section__content">
               <h2>Running Start Program</h2>
@@ -124,19 +123,33 @@ export default ({ data }) => {
 }
 
 export const query = graphql`
-  {
-    allFile(filter: { relativePath: { regex: "/landing/" } }) {
-      edges {
-        node {
-          id
-          childImageSharp {
-            id
-            fluid {
-              ...GatsbyImageSharpFluid
-            }
-          }
-        }
+query {
+  image1: file(relativePath: { regex: "/landing-1/" }) {
+    id
+    childImageSharp {
+      id
+      fluid {
+        ...GatsbyImageSharpFluid
+      } 
+    }
+  }
+  image2: file(relativePath: { regex: "/landing-2/" }) {
+    id
+    childImageSharp {
+      id
+      fluid {
+        ...GatsbyImageSharpFluid
       }
     }
   }
+  image3: file(relativePath: { regex: "/solar/" }) {
+    id
+    childImageSharp {
+      id
+      fluid {
+        ...GatsbyImageSharpFluid
+      }
+    }
+  }
+}
 `
