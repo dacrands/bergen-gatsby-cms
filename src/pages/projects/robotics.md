@@ -134,28 +134,34 @@ blog:
     title: 'Week 5 '
     image: /img/screen-shot-2019-07-30-at-5.11.33-pm.png
   - body: >-
-      In summer one, we finished working on building the solid base and the
-      support for the arms. I(Deepa) spent most of the time on Monday working on
-      improving some parts of robot and started working on building mechanism
-      for picking up the cubes.
+      I was working on the arm part of the robot due to the instability of the
+      robot I was struggling to make it stable. Due to the weight of an arm the
+      base part of the robot was not stable as well. I spent most of the day
+      trying to fix the problem, but I could not figure out the solutions.   
 
 
-      Work picked up and I (Tyler) started focusing on parts needed for future
-      attachment such as the lifting mechanism, cube intake method, and
-      adjustments needed for the lifting mechanism. For the rest of Tuesday I 
-      also prepared the purchase request forum for tools.
+      I was trying to figure out the solution. During the process of assembling
+      pieces and the adjustment seems a little bit less stable. I was
+      encountering the same problem I got before. I tried to move the axel
+      placement, metal supporter but it was not helping.  
 
 
-      On Wednesday, Tyler and Deepa was working on the support for the arms of
-      the robot. During the process we encounter some of the issues with the
-      arms which was not allowing the arms to move efficiently. We researched
-      and try to apply different mechanism to solve the problem but none of the
-      method was helping. So we spent all day working on solving the problem.
+      I was researching about the problem I was encountering and tried to find
+      out what other people have done. At first almost all the people were
+      having the same issue with the stability of the robot. In the animated
+      video of the robot, the center of mass was not considered proper. However,
+      that did not actually work on our robot. I was constantly researching and
+      adjusting the placement of the metal piece in the robot hoping to solve
+      the obstacle. 
 
 
-      On Thursday, Deepa was working on extending parts of an arm. As well Tyler
-      was working on the mechanism to lift both arms of the superstructure so
-      orientation of both gears go in the right direction.
+      On Thursday, Tyler was working on the old robot to check whether it was
+      working or not. Javier fixed the programming for that robot. We prepared
+      for the presentation and worked on the old robot to showcase it in the
+      presentation.
+
+
+      ![](/img/screen-shot-2019-08-22-at-8.59.12-pm.png)
     date: 2019-06-10T21:02:55.763Z
     title: 'Week 4 '
     image: /img/screen-shot-2019-07-30-at-5.04.05-pm.png
