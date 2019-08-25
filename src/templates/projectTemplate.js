@@ -18,7 +18,7 @@ export default function ProjectTemplate({ data }) {
       <div className="post">
         <div className="bg-dark">
           <div className="container container--small post__hero">
-            <Img fluid={frontmatter.image.childImageSharp.fluid} />
+            <Img fluid={frontmatter.image.childImageSharp.fluid} loading="eager" />
           </div>
         </div>
         <div className="container container--small">
