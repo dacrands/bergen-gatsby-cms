@@ -27,6 +27,135 @@ mentors:
     name: Dr. Benjamin
 blog:
   - body: >-
+      We redid last week’s joule heating experiment making some adjustments to
+      it. Initially, we setup our experiment by a design which was suggested to
+      us by Professor Sivo, however, we struggled to get simultaneous readings
+      for the voltage and amperage with the 2 multimeters we were using. So we
+      altered our design to measure each electrical quantity separately and
+      noticed that our readings for current and voltage were the same as the
+      values shown for each on the Programmable DC Power Supply. We then
+      reverted back to our original experimental design using the metal
+      alligator clip stand, only this time we insulated the clips by wrapping
+      them with black electrical tape and we placed the additional alligator
+      clips in between the clips of the metal stand. This time we were able to
+      record increases in temperature when we supplied more voltage to the
+      circuit. It's fair to note that the sharper temperature increases may have
+      been aided by us moving the thermocouple across the Nichrome wire which
+      consequently induced friction.
+    date: 2019-07-22T17:47:16.674Z
+    title: 'Week 10 '
+  - body: >-
+      We realized that using the variability of the resistance of the nichrome
+      there may be a way to use the wire itself as a means to measure
+      temperature. We began to run a joule heating experiment for the Nichrome
+      wire to measure its current and voltage and calculate its resistance as a
+      function of temperature. We encountered some difficulties in recording the
+      temperature of the wire and observed 2 main factors which affected our
+      results. First, the metal alligator clip stand which we used to hold the
+      wire in place conducts electricity as well as heat, thus shorting the
+      circuit. Second, our experiment setup was in an uninsulated environment,
+      making the wire susceptible to greater heat loss.
+
+
+      ![](/img/screen-shot-2019-08-26-at-1.46.18-pm.png)
+    date: 2019-07-15T17:45:43.455Z
+    title: 'Week 9 '
+    image: /img/screen-shot-2019-08-26-at-1.46.49-pm.png
+  - body: >-
+      We found a method to calculate the thermal conductivity. The method is
+      called transient hot wire.
+
+
+      ![](/img/screen-shot-2019-08-26-at-1.43.48-pm.png)
+
+
+      We also wrote an arduino program that, using a thermistor, was able to
+      measure temperature over time. Unfortunately, the thermistor was somewhat
+      slow to adjust temperatures as it was polymer coated so it was interfering
+      with our measurements. We then tried to find a way to use a thermocouple
+      we had with arduino, but were missing some components. So, we decided to
+      use a phone camera and our multimeter to record measurements of
+      temperature over time by taking a video of the multimeter during the
+      experiments.
+
+
+      After consulting with Professor Haldo, we began to employ the equation
+
+
+      ![](/img/screen-shot-2019-08-26-at-1.44.59-pm.png)
+
+
+      With this we hoped to determine the temperature coefficient of resistance
+      for Nichrome based on the diameter and length of the wire we have. Through
+      research from a multitude of sources we found the general acceptable value
+      of α is approximately 4.0 x 10-4. Our independent calculations, however,
+      yielded negative values.
+    date: 2019-07-08T17:43:23.847Z
+    title: 'Week 8 '
+  - body: >-
+      The group debated about the cooling liquid which will be used inside of
+      the veins. After some discussion, we decided to use water. We realized
+      that the blood replacement fluid did not have to be dielectric, as having
+      veins that are was enough to ensure no shortages in our circuitry. 
+
+
+      We began revising our equations which we were using to calculate the
+      heating of the Nichrome wire and its heat lost in air. We realized that
+      the equations we made were largely over simplified. Seeing how the figures
+      we obtained were calculated with no experimental analysis, we realized the
+      margin of error was far too high making them unacceptable for our highly
+      stringent application. 
+
+
+      We tried to source the materials to test the thermal conductivity of the
+      eco flex silicone rubber. Unfortunately, due to a limited budget, we could
+      not get some of the devices we needed. So, we began trying to create them
+      ourselves from materials we need. We also began looking at other means of
+      testing thermal conductivity in hopes of finding one that works for our
+      budget. We even stumbled on an article detailing how some researchers were
+      able to use the eco flex silicone rubber to make more thermally conductive
+      elastomers by using a gallium-indium alloy infusion. We, however, still
+      need to confirm the thermal conductivity of our material to insure
+      accuracy in our final product.
+
+
+      Lastly, we were able to resolve the communication issue between our
+      arduino program and a computer. Now, our GUI controls the intensity of the
+      LED light built into our arduino.
+
+
+      ![](/img/screen-shot-2019-08-26-at-1.42.29-pm.png)
+    date: 2019-07-01T17:41:16.866Z
+    title: 'Week 7 '
+  - body: >-
+      We started researching filler materials. We, with the help of Dr. Sivo,
+      designed an experiment to test the thermal conductivity of a form of
+      silicone rubber we have and would like to use.
+
+
+      We also started trying to interface our GUI with an arduino in order to
+      test our control mechanism. We are creating an Arduino program that would
+      receive an integer over the serial port and a Java method that would send
+      a numerical representation of the GUI set angle over the serial port. We
+      have the basic design done, but we are trying to troubleshoot some
+      communications issue between the two programs.
+    date: 2019-06-24T17:40:41.041Z
+    title: 'Week 6 '
+  - body: >-
+      After much deliberation, and we decided to use water as our blood. We
+      wanted something that would be dielectric so that it wouldn't interfere
+      with our electrical systems, but unfortunately, we couldn't identify a
+      dielectric coolant that had nearly the cooling properties of water. So, we
+      intend to place even higher requirements on the tubing, making sure that
+      it does not conduct electricity.
+
+
+      We also decided to include a filler material around our fibers to transfer
+      the heat quicker than air. We will begin researching possible materials
+      next week, but we already have a material that we hope may work.
+    date: 2019-06-17T17:39:38.643Z
+    title: 'Week 5 '
+  - body: >-
 
 
       The team finished the Filastruder assembly by 3D printing and installing
@@ -71,8 +200,6 @@ blog:
     title: Week 4
     image: ''
   - body: >-
-
-
       At the beginning of the week, the team researched alternative materials
       for use in the heating element coating. First, the team took a second look
       at the conductive silver paint used by other researchers such as from MIT.
@@ -150,8 +277,6 @@ blog:
     title: Week 3
     image: ''
   - body: >-
-
-
       We finished writing the GUI. We uploaded the main branch to GitHub using
       the account patrick1964 so that any modifications may be version
       controlled. We also continued trying to source some LLDPE and PET by
@@ -272,5 +397,44 @@ blog:
     date: 2019-05-20T19:11:16.038Z
     title: 'Week 1 '
     image: ''
+  - body: >-
+      Last week  Anthropomorphic robotics team receive their supplies sample of
+      tubing (Figure 11)and the Polyethylene Linear Low Density (Figure
+      12).            
+
+
+      ![](/img/screen-shot-2019-08-26-at-1.48.56-pm.png)
+
+
+      After getting the hot plate we conducted some tests to measure the thermal
+      conductivity of some of the more flexible tubing samples that we have. We
+      had issues with the shape as most of the tests require either a solid
+      block of material or a film of it, so we had to split the tubes and try to
+      straighten them into a rectangular block. We also had to devise a means of
+      insulating them and then applying sufficient pressure to ensure they
+      remain straight. We did this by cutting a piece of styrofoam for
+      insulation and building a stand with a tightenable screw that would hold
+      the sample down.
+
+
+      We also attempted to make use of the hot plate in our heating experiment
+      of the Nichrome wire. We did this by using the electrical tape on the
+      Nichrome wire we adhered it onto the hot plate and were thus able to
+      insulate it. We taped the thermocouple in with the Nichrome wire on the
+      plate as well to enable it to read the wire’s temperature as we heated it.
+      As we performed our experiment, we noticed a disparity between the
+      temperature we set on the hot plate and the temperature recorded by the
+      thermocouple. While the wire’s recorded resistance was steadily increasing
+      with temperature, the disparity between the hot plate’s set temperature
+      and the temperature recorded on the thermocouple grew larger. We were very
+      perplexed as to what the error could possibly be; either, the hot plate
+      was inaccurate, the thermocouple we used was inaccurate or both equipment
+      were inaccurate. This hindered us from using the results we obtained to
+      correctly determine the value α of the wire. 
+
+
+      ![](/img/screen-shot-2019-08-26-at-1.49.53-pm.png)
+    date: 2019-07-29T17:47:55.475Z
+    title: 'Week 11 '
 ---
 
