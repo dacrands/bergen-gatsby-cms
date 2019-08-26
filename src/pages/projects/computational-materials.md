@@ -25,6 +25,38 @@ mentors:
     name: Dr. Neel Haldolaraachchige
 blog:
   - body: >-
+      Today I realized there was a substantially more efficient method to
+      calculating the band gaps. Since MS paint shows exactly how many pixels a
+      certain distance is, if I start on one of the bars and draw a line to the
+      gap, then I have a value for pixels which I can divide by the number of
+      pixels in the whole bar (222) to obtain a percentage value. 
+
+
+      For example, if the orange band in the previous picture is 74 pixels from
+      the top bar, then we just take 74/222 = 1/3, so we know that it is 1/3 of
+      the way across the gap. Since each gap is 0.025 eV, the orange bar ends up
+      as 0.025/3 from the top bar, and the total gap ends up being 0.025 -
+      0.025/3, or 0.025*(2/3). Following are the results from the computational
+      stress test.
+
+
+      ![](/img/screen-shot-2019-08-26-at-3.29.24-pm.png)
+
+
+      We now have one more piece of data which experimentalists who read are
+      paper will be interested in! However, there is still more to do. It would
+      be ideal to plot the gap as a function of pressure rather than just
+      volume. Unfortunately, the simple pressure-volume relationship of
+      P-1V1=P2V2 does not hold in atomic structures. It is necessary to refer to
+      papers which have addressed this issue in the past. One of such papers
+      from 1944 has experimental data along with a derivation that stems from a
+      modified version of Hooke’s law
+      **(https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1078704/?page=3).** We
+      will attempt to use this information to calculate how much pressure is
+      needed to compress sour structure a specific volume.
+    date: 2019-06-17T19:28:40.325Z
+    title: 'Week 3 '
+  - body: >-
       This day was spent learning about eigenvectors and eigenvalues as well as
       spin pauli matricies. This is necessary in order to prove our Dirac point
       through math. Those unfamiliar with linear algebra may want to skip to the
