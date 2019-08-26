@@ -50,7 +50,7 @@ blog:
       with wiring and the coding so we were researching and trying to figure out
       the way to make it work.
     date: 2019-08-06T00:39:01.462Z
-    title: 'Week 8 '
+    title: Week 12
     image: /img/screen-shot-2019-08-22-at-8.39.41-pm.png
   - body: >-
       Deepa looked into the lifting mechanism and had made possible ideas to use
@@ -69,9 +69,30 @@ blog:
       The intake mechanism had to be reinforced in order to make sure the
       opening would remain a square. As well the metal on it had to be switched
       out due to height issues.
-    date: 2019-07-01T14:55:25.705Z
-    title: 'Week 7 '
+    date: 2019-07-29T14:55:25.705Z
+    title: Week 11
     image: /img/screen-shot-2019-08-06-at-10.56.49-am.png
+  - body: >-
+      In summer one, we finished working on building the solid base and the
+      support for the arms. I(Deepa) spent most of the time on Monday working on
+      improving some parts of robot and started working on building mechanism
+      for picking up the cubes.
+
+
+      Work picked up and I (Tyler) started focusing on parts needed for future
+      attachment such as the lifting mechanism, cube intake method, and
+      adjustments needed for the lifting mechanism. For the rest of Tuesday I 
+      also prepared the purchase request forum for tools.
+
+
+      Tyler and Deepa was working on the support for the arms of the robot.
+      During the process we encountered some of the issues with the arms which
+      was not allowing the arms to move efficiently. We researched and try to
+      apply different mechanism to solve the problem but none of the method was
+      helping. So we spent all day working on solving the problem.
+    date: 2019-07-08T18:20:36.354Z
+    title: 'Week 8 '
+    image: /img/screen-shot-2019-08-26-at-2.21.50-pm.png
   - body: >-
       Deepa finished half of the stacker mechanism. I was trying to attach the
       stacker mechanism to the robot and was trying to build an extension
@@ -105,7 +126,34 @@ blog:
     date: 2019-06-24T21:12:44.920Z
     title: Week 6
     image: /img/screen-shot-2019-07-30-at-5.14.49-pm.png
-  - body: "\n\nThe metal I used to protect the wheel was not supporting the arm of the robot. It was weakening the stability of the base. Therefore, I dismantle the base to try something different.\n\n![](/img/screen-shot-2019-08-26-at-2.11.43-pm.png)\n\nI use the C- channel this time and Tyler helped me to finish the base and it seems stable and strong. We are going to continue with the base and work on the arm and the body part of the robot.\n\n![](/img/screen-shot-2019-08-26-at-2.13.28-pm.png)\n\nThe C- Channel I used to protect the wheels is making the side of the base more rigid then before and the angle at the middle is also giving support to maintain the rigidity equally throughout the base.\n\nOn Thursday, I continue working on the body part of the robot. I build the support for the lifting and the sliding mechanism. This is a new mechanism I am trying this summer. \r\n\n![](/img/screen-shot-2019-08-26-at-2.14.31-pm.png)"
+  - body: >-
+      The metal I used to protect the wheel was not supporting the arm of the
+      robot. It was weakening the stability of the base. Therefore, I dismantle
+      the base to try something different.
+
+
+      ![](/img/screen-shot-2019-08-26-at-2.11.43-pm.png)
+
+
+      I use the C- channel this time and Tyler helped me to finish the base and
+      it seems stable and strong. We are going to continue with the base and
+      work on the arm and the body part of the robot.
+
+
+      ![](/img/screen-shot-2019-08-26-at-2.13.28-pm.png)
+
+
+      The C- Channel I used to protect the wheels is making the side of the base
+      more rigid then before and the angle at the middle is also giving support
+      to maintain the rigidity equally throughout the base.
+
+
+      On Thursday, I continue working on the body part of the robot. I build the
+      support for the lifting and the sliding mechanism. This is a new mechanism
+      I am trying this summer. 
+
+
+      ![](/img/screen-shot-2019-08-26-at-2.14.31-pm.png)
     date: 2019-06-17T21:10:08.062Z
     title: 'Week 5 '
     image: /img/screen-shot-2019-08-26-at-2.12.58-pm.png
