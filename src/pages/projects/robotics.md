@@ -49,9 +49,32 @@ blog:
       trying to figure out the programming for the robot. We were having trouble
       with wiring and the coding so we were researching and trying to figure out
       the way to make it work.
+
+
+      ![](/img/screen-shot-2019-08-26-at-2.28.17-pm.png)
     date: 2019-08-06T00:39:01.462Z
     title: Week 12
     image: /img/screen-shot-2019-08-22-at-8.39.41-pm.png
+  - body: >-
+      Deepa looked into the lifting mechanism and had made possible ideas to use
+      a 3d printed parts that will hold the cube in. This will be in combination
+      with an older design used by our group to hold it in place. As well Tyler
+      had got the second piece of the cube began printing today and should
+      finish tomorrow seeing as it will take 19 hours to finish.
+
+
+      Tyler focused on setting up the intake mechanism movement function that we
+      had initially intended to give an extra distance from the main chassis.
+      This is added to avoid any collisions between the block and the interior
+      electronics. 
+
+
+      The intake mechanism had to be reinforced in order to make sure the
+      opening would remain a square. As well the metal on it had to be switched
+      out due to height issues.
+    date: 2019-07-29T14:55:25.705Z
+    title: Week 11
+    image: /img/screen-shot-2019-08-06-at-10.56.49-am.png
   - body: >-
       Deepa finished half of the stacker mechanism. I was trying to attach the
       stacker mechanism to the robot and was trying to build an extension
@@ -85,26 +108,6 @@ blog:
     date: 2019-07-22T18:25:15.555Z
     title: 'Week 10 '
     image: /img/screen-shot-2019-08-26-at-2.26.39-pm.png
-  - body: >-
-      Deepa looked into the lifting mechanism and had made possible ideas to use
-      a 3d printed parts that will hold the cube in. This will be in combination
-      with an older design used by our group to hold it in place. As well Tyler
-      had got the second piece of the cube began printing today and should
-      finish tomorrow seeing as it will take 19 hours to finish.
-
-
-      Tyler focused on setting up the intake mechanism movement function that we
-      had initially intended to give an extra distance from the main chassis.
-      This is added to avoid any collisions between the block and the interior
-      electronics. 
-
-
-      The intake mechanism had to be reinforced in order to make sure the
-      opening would remain a square. As well the metal on it had to be switched
-      out due to height issues.
-    date: 2019-07-29T14:55:25.705Z
-    title: Week 11
-    image: /img/screen-shot-2019-08-06-at-10.56.49-am.png
   - body: >2-
        Tyler and Deepa was working on the extension part for the arm and motors to the super structure. However, we had to reconfigure some of the mechanism which took us all day to figure out. We did figure out what was causing the issue, but we were not able to finish the work today. We will hopefully continue working on it to finish if we do not encounter any issues.
 
