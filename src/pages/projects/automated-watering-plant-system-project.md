@@ -19,6 +19,16 @@ mentors:
     name: 'Dr. Benjamin '
 blog:
   - body: >-
+      The first phase of the project was almost finished. We were now capable of
+      watering the plant through voice commands and touch screen inputs. We
+      created a mobile app that could control the system and everything was
+      being monitored by the Raspberry pi. We spray painted the plant system
+      cover, and got a cabinet (which we made custom changes to) to make it
+      displayable. I created a speech for the week and showed everyone our work!
+    date: 2019-06-24T18:01:34.065Z
+    title: 'Week 6 '
+    image: /img/screen-shot-2019-08-26-at-2.02.16-pm.png
+  - body: >-
       We started to completely sync all of the apps together to make it smooth
       and seamless. We tried to predict the issues we might have with the
       school’s network and iron out those issues. We installed an indicator
