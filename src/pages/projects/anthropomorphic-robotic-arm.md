@@ -30,10 +30,85 @@ blog:
     date: 2018-06-15T00:29:29.040Z
     title: Week 4
     image: /img/anthro-week-4.jpg
-  - body: "As stated last week, work on GUI has started. The process of placing and labeling the joints for the expected movement of the bones at joints was fairly complicated at first. Once a joint is a placed, the bones will be allowed to move in all three axes: x, y, and z. Now, the team had to figure out how to put limitations on the degrees of rotation or movement for each bone in the design. While placing the joints, the team learned that they must be placed inside one of the bones at the joints, for the bones to not overlap each other during the motion.\r\n\n\r\n\nAlongside, more research on Linear Low-Density Polyethylene (LLDPE), the substance to be used in making the artificial muscle has been done over the week. This polymer has high elasticity and low water absorption. This substance can be easily stressed and will not break when heated as important for our project. To contract the artificial muscle fibers, required heat must be supplied. Through our research, we learned that LLDPE generates strain as high as 23% at 90° C.\r\n\n\r\n\nMeanwhile, research on the heat source has just begun. Updates on the research will be provided in the next blog."
-    date: 2019-05-27T00:24:12.993Z
+  - body: >-
+
+
+      At the beginning of the week, the team researched alternative materials
+      for use in the heating element coating. First, the team took a second look
+      at the conductive silver paint used by other researchers such as from MIT.
+      The paint they used was a combination of silver pigment in a polyvinyl
+      resin. Therefore, our first look into alternative materials were more
+      capable polyvinyl resins (other than Elmer's glue). While the team did
+      find other polyvinyl resins, the material has a lower than required
+      working temperature. Therefore, using it as a heating element to actuate
+      nylon may have adverse effects and lead to accelerated degradation of the
+      coating. 
+
+
+      The team then looked into solvents and materials closely related to the
+      TCP material. Meaning, the team looked at a solvent for nylon and a
+      solvent for LLDPE (the intended actuator used for the actual arm). First,
+      the team looked into the chemical resistance of nylon and LLDPE and looked
+      for an adequate solvent —one that is relatively less caustic to use and
+      also readily available. However, this proved to be a challenge finding a
+      suitable solvent for nylon since many forms of nylon are chemically
+      resistant to common solvents such as acetone. However, what was found was
+      that a certain subtype of nylon 6 called Elvamide can be dissolved in
+      ethanol and methanol. Future testing of this material along with an
+      ethanol solvent will hopefully be done later this summer. 
+
+
+      As for a suitable LLDPE solvent, literature shows that acetone can
+      dissolve polyethylene at increased temperatures. Preliminary testing of
+      acetone and polyethylene at room temperature was conducted by the team but
+      showed no signs of dissolving. Further testing at increased temperatures
+      should be tested. It is also noted that the acetone used was from nail
+      polish remover, thus the concentration of acetone was not pure. An
+      alternative to acetone found is Xylene, which is a cheap, commonly used
+      paint stripper and can be bought at home improvement stores. Further
+      testing is required to determine whether it is suitable for our usage. 
+
+
+      Once the team has a suitable plastic w/ solvent mixture, testing with
+      various graphite concentrations within the mixture can resume. 
+
+
+      The team also put together the Filastruder needed to create our own LLDPE
+      filament as well as recycle print waste from all projects that use the 3D
+      printer. 
+
+
+      * Figure 5. Filastruder assembled
+
+
+      ![](/img/screen-shot-2019-08-26-at-1.32.22-pm.png)
+
+
+      We also continued to try to source materials and attempted to test what
+      systems we do have. We, however, found that some complications have arisen
+      due to the recent move to the new STEM center, leading to tools and
+      equipment being misplaced. So, we began to work to locate said tools and
+      equipment.
+
+
+      In addition, We spent some time preparing for the presentation we had on
+      Thursday. We reiterated the main aspects of the work thus far to the new
+      members. We also practiced our presentations and gave each other feedback
+      to improve individual presentation skills.
+
+
+      We contacted suppliers to find the coolants. We collected data of coolants
+      (physical and chemical properties) that we found and put it in the data
+      table (Figure06). One issue is some suppliers and manufacturers don’t
+      provide all information that we need to know about the oil. As a Result,
+      parts of the data table are without some information (Figure 07). They
+      still an option because of the boiling point, and viscosity. 
+
+
+      ![](/img/screen-shot-2019-08-26-at-1.33.50-pm.png)
+    date: 2019-06-04T00:24:12.993Z
     title: Week 3
-    image: /img/bergen-stem-graphic.jpg
+    image: ''
   - body: >-
 
 
