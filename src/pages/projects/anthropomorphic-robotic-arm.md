@@ -34,10 +34,67 @@ blog:
     date: 2019-05-27T00:24:12.993Z
     title: Week 3
     image: /img/bergen-stem-graphic.jpg
-  - body: "Previously work uncovered the possibility of utilizing nylon as a synthetic muscle. However, the articles found suggested that the nylon may require temperatures exceeding 170 degrees Celsius to match the biological function that it would mimic. Thus, farther research was deemed necessary. This week, more in-depth research into polymer usage as artificial muscles was conducted. Polyethylene was the material of focus. An analysis suggests that Linear Low-Density Polyethylene, or LLDPE, may be a more efficient alternative to the nylon. It would require temperatures at a maximum of one hundred degrees Celsius to achieve results matching the biological functions. This difference is desirable because it will lead to lower energy requirements, and cause fewer issues for any complimentary material. Many other polyethylene compounds also require a lower temperature for similar performance than the nylon compounds. Thus, alongside the nylon, polyethylene will be tested.\r\n\n\r\n\nAlong with the research, work on the graphical user interface, or GUI (also used for general user interface), has started. The GUI was envisioned to be an anatomically accurate human arm that could be manipulated to manipulate the robotic arm. The first obstacle to overcome was finding a development software. It is unfortunate that no one on the team is proficient in any 3D modeling and animation software. Thus, research into possible software was required. After assessing numerous programs including unity, SolidWorks, and AutoDesk's fusion, AutoDesk's Maya was ultimately selected. Then, the process of learning the software and using it started. Fortunately, a usable skeleton model was found to provide a starting point for the GUI. The following image is the current state of the GUI.\n\n\n\nTo read more regarding the nylon and polyethylene synthetic muscles, view these links:\n\n<https://www.polymersolutions.com/blog/artificial-muscles-from-cheap-polymer-fibers/>\n\n<https://www.nature.com/articles/srep36358>"
-    date: 2018-06-05T00:19:12.542Z
-    title: Furthering the research and starting to interface
-    image: /img/anthro-week-2.jpg
+  - body: >-
+
+
+      We finished writing the GUI. We uploaded the main branch to GitHub using
+      the account patrick1964 so that any modifications may be version
+      controlled. We also continued trying to source some LLDPE and PET by
+      contacting some suppliers. The issue we are running into is that, while
+      the material is very common, most suppliers of the raw material sell using
+      units of metric tons. So, we contacted them to ask if they would be
+      willing to supply such small quantities. 
+
+
+      The team also continued working on developing a conductive coating. The
+      next mixture tested was Bombay Black ink with graphite powder mixed in
+      solution. The graphite was mixed with the same percentages used with the
+      Elmers glue and graphite mixtures. A surprising result was that the
+      control sample of just the Bombay Black ink proved to be conductive but
+      with very high resistance —along the lines of 1.5 to 3 K ohms. The first
+      mixture tested was 1 ml Ink to 0.04g graphite powder; this solution proved
+      to be the least resistant out of all ink/graphite mixtures tested with a
+      resistance approximately 0.7 M ohms. What was also a surprise is that the
+      next large percentage tested, 0.08g graphite to 1ml ink, had resistance
+      values around 30 to 120 K ohm. Then as the amount of graphite in solution
+      is increased per sample, the resistance lowered down to around 5K Ohms. 
+
+
+      * Figure 3 and 4. Bombay Black Ink with graphite mixture
+
+
+      ![](/img/screen-shot-2019-08-26-at-1.25.55-pm.png)
+
+
+      ![](/img/screen-shot-2019-08-26-at-1.25.49-pm.png)
+
+
+      All samples tested proved to have a consistent and thin layer. More
+      importantly, all samples had excellent adhesion to the plastic tape
+      backing. Abrasion resistance should be tested more thoroughly, however,
+      the team noted that the higher concentration of graphite samples had
+      visible residue when abraded onto another piece of paper to test for
+      abrasion resistance. 
+
+
+      * Figure 5. Completed simple GUI
+
+
+      ![](/img/screen-shot-2019-08-26-at-1.27.41-pm.png)
+
+
+      We did more research about different coolant that we can use for cooling.
+      we created a data table (Figure 6 ) that we intend to populate with data
+      relevant for the coolant. The data table has information about the
+      physical and chemical properties of the coolant. We need to know this
+      information before deciding if it is a good coolant for cooling our
+      system. 
+
+
+      ![](/img/screen-shot-2019-08-26-at-1.29.55-pm.png)
+    date: 2019-05-28T00:19:12.542Z
+    title: 'Week 2 '
+    image: ''
   - body: >-
       We started looking into different languages and IDEs to create a simple
       GUI to test single muscle fibers or muscle groups. Eventually, we settled
@@ -97,8 +154,8 @@ blog:
 
 
       ![](/img/screen-shot-2019-08-26-at-1.20.55-pm.png)
-    date: 2018-05-20T19:11:16.038Z
-    title: Research stage
-    image: /img/bergen-stem-graphic.jpg
+    date: 2019-05-20T19:11:16.038Z
+    title: 'Week 1 '
+    image: ''
 ---
 
