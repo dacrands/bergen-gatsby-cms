@@ -39,33 +39,65 @@ blog:
     title: Furthering the research and starting to interface
     image: /img/anthro-week-2.jpg
   - body: >-
-      Since the aim of the project is to create a robotic arm with the same
-      articulation and coordination as a human arm, it is extremely crucial for
-      all of the team members to have an in-depth knowledge and understanding of
-      the anatomy of a human arm. This week the team focused on expanding their
-      knowledge of human arm structure and functions through intensive research.
-      The skeleton of the human arm will be 3D printed in the upcoming weeks
-      using PLA Filament. Simultaneously, some members looked into the subject
-      of artificial muscles. Through his rigorous research, Patrick discovered a
-      fairly new way of making artificial muscles using Nylon fibers as
-      discovered by MIT Engineers. 
+      We started looking into different languages and IDEs to create a simple
+      GUI to test single muscle fibers or muscle groups. Eventually, we settled
+      on using Java with the Eclipse IDE. Java’s AWT and swift libraries in
+      association with Eclipe’s window builder will help make the build easier.
+      We also welcomed two new members to the project and caught them up to our
+      progress. 
 
 
+      We also began research on coolant liquids for the cooling system. The
+      coolant liquid cannot conduct electricity and it needs to have a higher
+      boiling point than expected heat element temperature. we found that two
+      common dielectric coolants are silicone oil and mineral oil. They are used
+      to cool down transformers. Further research is required to determine
+      whether or not we can use them.
 
 
-      To learn more, click the link below:
+      The team also worked on developing an adequate heating element which will
+      coat the nylon (and in the future: LLDPE) actuators. Heating element
+      coating must be flexible enough to withstand constant compression and
+      movement due to actuation of the TCP. Furthermore, the coating must be
+      electrically conductive and withstand high temperatures --upwards of 200C
+      due to nylon actuates around that temperature. The team started with
+      Elmer's glue which is a polyvinyl acetate glue. The Elmers glue is mixed
+      with varying amounts of graphite powder (measured in grams from 0g to 0.7g
+      of powder in 0.1g increments). The team then conducted a smear test, as
+      seen in figure 1, with every sample by applying a small amount onto a
+      piece of paper lined in plastic tape and then, using a squeegee, smearing
+      the sample to a uniform and flat layer. All samples were tested twice with
+      a thinner layer and a thicker layer to determine whether layer thickness
+      contributes to adhesion and flexibility. The samples were dried and then
+      tested for conductivity using a multimeter. The team found that a sample
+      mixture of Elmer's glue with 2.5mL glue to 0.6g graphite powder is
+      conductive. Mixtures lower than 0.6g graphite powder were deemed
+      non-conductive and mixtures with over 0.7g graphite powder were
+      conductive. However, the mixture of Elmer’s glue and 0.6g graphite powder
+      showed the highest adhesion and flexibility among the conductive samples
+      most likely due to the lower amount of graphite mixed in. Furthermore, a
+      thinner layer of the sample proved to be much more resilient than the same
+      sample applied at a larger thickness; this property should be tested much
+      more thoroughly once an ideal material is found. 
 
 
-      <http://news.mit.edu/2016/nylon-muscle-fibers-1123>
+      Figure 1: Smear test of graphite and elmers glue mixture
 
 
-      Next week, we'll continue with the research and hopefully start testing
-      the nylon fibers. We also plan on searching about how to coil the fibers
-      to make the muscles. Meanwhile, other members will start working on the
-      Graphical User Interface (GUI). The idea is to use a 3D-modelling or
-      animating software to create a human arm with all the bones and muscles to
-      control the robotic arm.
-    date: 2018-05-29T19:11:16.038Z
+      ![](/img/screen-shot-2019-08-26-at-1.20.38-pm.png)
+
+
+      Figure 2. Graphite Glue mixtures
+
+
+      ![](/img/screen-shot-2019-08-26-at-1.20.45-pm.png)
+
+
+      Figure 3. Beginnings of the simple GUI
+
+
+      ![](/img/screen-shot-2019-08-26-at-1.20.55-pm.png)
+    date: 2018-05-20T19:11:16.038Z
     title: Research stage
     image: /img/bergen-stem-graphic.jpg
 ---
