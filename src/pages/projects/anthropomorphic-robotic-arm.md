@@ -27,6 +27,79 @@ mentors:
     name: Dr. Benjamin
 blog:
   - body: >-
+      We finally got a chance to use the chemistry lab and begin using testing
+      our hypothesized graphite-LLDPE in xylene solution. We began by measuring
+      and adding 1 gram of LLDPE to 14.58 grams of xylene. We waited to see if
+      xylene would dissolve the LLDPE in room temperature given time, but it
+      seemed it was not to be. So, we used a hot plate to heat the solution up.
+      We had some issues with the hot plate in that lab, as it does not have a
+      built in temperature indicator, so we had to devise our own by using our
+      multimeter and thermocouple. One issue with that setup was that, either
+      the hotplate would rapidly fluctuate in temperature or the thermocouple
+      was not measuring the temperature accurately.
+
+
+      We eventually got it to dissolve and added 0.1 grams of graphite. However,
+      when we tried to apply the solution to dry and then test it, it would cool
+      too rapidly. As it cooled, it would become a gel like substance that made
+      it difficult to apply it in thin, even layers. So, we tried to just dry
+      the sample and test if the remaining LLDPE-Graphite sediment was
+      conductive. 
+
+
+      What remained was a film of LLDPE-Graphite mixture that unfortunately was
+      not conducive. So, we tried another route of melting LLDPE and adding
+      graphite to it and then mixing them together. LLDPE unfortunately does not
+      liquify, it just glass transitions into a dough like consistency thus
+      making an even mixture somewhat difficult. We, however, still added 0.1
+      grams of graphite and mixed it into the LLDPE. What resulted was a mass of
+      LLDPE-graphite mixture where most of the graphite remained on the outer
+      coating of a LLDPE core. We cooled the mixture down then rinsed it to
+      remove any graphite residue that was not mixed in and measured its
+      conductivity. It was conductive. We now intend to use graphite applied on
+      the LLDPE fibers as they are heated as our conductive outer layer.
+    date: 2019-08-05T17:50:30.663Z
+    title: 'Week 12 '
+  - body: >-
+      Last week  Anthropomorphic robotics team receive their supplies sample of
+      tubing (Figure 11)and the Polyethylene Linear Low Density (Figure
+      12).            
+
+
+      ![](/img/screen-shot-2019-08-26-at-1.48.56-pm.png)
+
+
+      After getting the hot plate we conducted some tests to measure the thermal
+      conductivity of some of the more flexible tubing samples that we have. We
+      had issues with the shape as most of the tests require either a solid
+      block of material or a film of it, so we had to split the tubes and try to
+      straighten them into a rectangular block. We also had to devise a means of
+      insulating them and then applying sufficient pressure to ensure they
+      remain straight. We did this by cutting a piece of styrofoam for
+      insulation and building a stand with a tightenable screw that would hold
+      the sample down.
+
+
+      We also attempted to make use of the hot plate in our heating experiment
+      of the Nichrome wire. We did this by using the electrical tape on the
+      Nichrome wire we adhered it onto the hot plate and were thus able to
+      insulate it. We taped the thermocouple in with the Nichrome wire on the
+      plate as well to enable it to read the wire’s temperature as we heated it.
+      As we performed our experiment, we noticed a disparity between the
+      temperature we set on the hot plate and the temperature recorded by the
+      thermocouple. While the wire’s recorded resistance was steadily increasing
+      with temperature, the disparity between the hot plate’s set temperature
+      and the temperature recorded on the thermocouple grew larger. We were very
+      perplexed as to what the error could possibly be; either, the hot plate
+      was inaccurate, the thermocouple we used was inaccurate or both equipment
+      were inaccurate. This hindered us from using the results we obtained to
+      correctly determine the value α of the wire. 
+
+
+      ![](/img/screen-shot-2019-08-26-at-1.49.53-pm.png)
+    date: 2019-07-29T17:47:55.475Z
+    title: 'Week 11 '
+  - body: >-
       We redid last week’s joule heating experiment making some adjustments to
       it. Initially, we setup our experiment by a design which was suggested to
       us by Professor Sivo, however, we struggled to get simultaneous readings
@@ -397,44 +470,5 @@ blog:
     date: 2019-05-20T19:11:16.038Z
     title: 'Week 1 '
     image: ''
-  - body: >-
-      Last week  Anthropomorphic robotics team receive their supplies sample of
-      tubing (Figure 11)and the Polyethylene Linear Low Density (Figure
-      12).            
-
-
-      ![](/img/screen-shot-2019-08-26-at-1.48.56-pm.png)
-
-
-      After getting the hot plate we conducted some tests to measure the thermal
-      conductivity of some of the more flexible tubing samples that we have. We
-      had issues with the shape as most of the tests require either a solid
-      block of material or a film of it, so we had to split the tubes and try to
-      straighten them into a rectangular block. We also had to devise a means of
-      insulating them and then applying sufficient pressure to ensure they
-      remain straight. We did this by cutting a piece of styrofoam for
-      insulation and building a stand with a tightenable screw that would hold
-      the sample down.
-
-
-      We also attempted to make use of the hot plate in our heating experiment
-      of the Nichrome wire. We did this by using the electrical tape on the
-      Nichrome wire we adhered it onto the hot plate and were thus able to
-      insulate it. We taped the thermocouple in with the Nichrome wire on the
-      plate as well to enable it to read the wire’s temperature as we heated it.
-      As we performed our experiment, we noticed a disparity between the
-      temperature we set on the hot plate and the temperature recorded by the
-      thermocouple. While the wire’s recorded resistance was steadily increasing
-      with temperature, the disparity between the hot plate’s set temperature
-      and the temperature recorded on the thermocouple grew larger. We were very
-      perplexed as to what the error could possibly be; either, the hot plate
-      was inaccurate, the thermocouple we used was inaccurate or both equipment
-      were inaccurate. This hindered us from using the results we obtained to
-      correctly determine the value α of the wire. 
-
-
-      ![](/img/screen-shot-2019-08-26-at-1.49.53-pm.png)
-    date: 2019-07-29T17:47:55.475Z
-    title: 'Week 11 '
 ---
 
