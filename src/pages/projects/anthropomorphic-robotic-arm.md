@@ -26,10 +26,50 @@ mentors:
   - email: bbenjamin@bergen.edu
     name: Dr. Benjamin
 blog:
-  - body: "The most manageable means of powering the actuator was deemed to be electrothermal heating. Electrothermal heating is the conversion of electric energy to thermal energy for the purpose of producing heat. This is done by running an electric current through a resistor and that leads to the resistor heating up. a common example of a resistor is a copper wire.\r\n\n\r\n\nAfter deciding on the heat source, it was time to work on fabricating the material. So, we started looking into means of applying the twist to the string. To do so, we decided to find an elevated platform on which we plan to attach an electric drill with a hook as the drill bit. Then, we would tie the ends of the fiber onto paper clips. one paper clip would be placed onto the hook, and the other would have a rotationally fixed weight placed on it.\r\n\n\r\n\nWe completed that setup and tested it by producing a sample twisted polyethylene fiber."
-    date: 2018-06-15T00:29:29.040Z
+  - body: >-
+
+
+      The team finished the Filastruder assembly by 3D printing and installing
+      the hopper. The file was given along with the assembly instructions for
+      the Filastruder. 
+
+
+      ![](/img/screen-shot-2019-08-26-at-1.35.34-pm.png)
+
+
+      The team is also designing a cover, shown below, for the stall protection
+      board since it is currently exposed. 
+
+
+      ![](/img/screen-shot-2019-08-26-at-1.36.14-pm.png)
+
+
+      The team will then 3D print the cover in the near future. 
+
+
+      On another note, the team then began creating more nylon TCP by using a
+      hand drill and coiling nylon fishing line. The team created an apparatus
+      to allow us to hold the TCP after coiling as well as double as a
+      designated storage space for the tools used in coiling. 
+
+
+      ![](/img/screen-shot-2019-08-26-at-1.37.05-pm.png)
+
+
+      We also found that issues with misplaced resources due to the move were
+      more extensive than initially predicted. So, we talked with other groups
+      and the STEM scholars’ director’s office to locate the program’s
+      materials, establish what we had, and identify what the program may
+      benefit from acquiring. We created two online documents, one is a list of
+      things that we need to locate and make commonly available, and the other
+      is a list of projects and their inventory of tools that they may be
+      willing to share.
+
+
+      We also began researching the pumping system and skin materials.
+    date: 2018-06-12T00:29:29.040Z
     title: Week 4
-    image: /img/anthro-week-4.jpg
+    image: ''
   - body: >-
 
 
