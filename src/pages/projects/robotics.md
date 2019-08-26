@@ -105,34 +105,10 @@ blog:
     date: 2019-06-24T21:12:44.920Z
     title: Week 6
     image: /img/screen-shot-2019-07-30-at-5.14.49-pm.png
-  - body: >-
-      On July 15, Tyler and Deepa was working on the extension part for the arm
-      and motors to the super structure. However, we had to reconfigure some of
-      the mechanism which took us all day to figure out. We did figure out what
-      was causing the issue, but we were not able to finish the work today. We
-      will hopefully continue working on it to finish if we do not encounter any
-      issues.
-
-
-      The motors and the gear we used for the extension arm was not
-      complimenting each other. Deepa was watching videos and researching how
-      people solved the problems. Tyler went to the Tech building and got the
-      four pieces cut needed for the arm extension. Deepa also worked on the arm
-      and completed it.
-
-
-      Deepa finished working on the cube stacked mechanism. This is a new
-      mechanism we are trying this summer, in the process of making it, we were
-      researching, watching videos to understand the mechanism and to modify it.
-      Issue came across with a test to actually lift the superstructure, looking
-      into replacing motors with stronger ones.
-
-
-      On Thursday, Tyler worked on attaching the extension arm to the robot.
-      Deepa finished working on the stacker.
+  - body: "\n\nThe metal I used to protect the wheel was not supporting the arm of the robot. It was weakening the stability of the base. Therefore, I dismantle the base to try something different.\n\n![](/img/screen-shot-2019-08-26-at-2.11.43-pm.png)\n\nI use the C- channel this time and Tyler helped me to finish the base and it seems stable and strong. We are going to continue with the base and work on the arm and the body part of the robot.\n\n![](/img/screen-shot-2019-08-26-at-2.13.28-pm.png)\n\nThe C- Channel I used to protect the wheels is making the side of the base more rigid then before and the angle at the middle is also giving support to maintain the rigidity equally throughout the base.\n\nOn Thursday, I continue working on the body part of the robot. I build the support for the lifting and the sliding mechanism. This is a new mechanism I am trying this summer. \r\n\n![](/img/screen-shot-2019-08-26-at-2.14.31-pm.png)"
     date: 2019-06-17T21:10:08.062Z
     title: 'Week 5 '
-    image: /img/screen-shot-2019-07-30-at-5.11.33-pm.png
+    image: /img/screen-shot-2019-08-26-at-2.12.58-pm.png
   - body: >-
       I was working on the arm part of the robot due to the instability of the
       robot I was struggling to make it stable. Due to the weight of an arm the
