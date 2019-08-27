@@ -3,7 +3,7 @@ templateKey: projectTemplate
 title: 'Ocean Green (Paper Straw) '
 image: /img/screen-shot-2019-08-27-at-1.29.36-pm.png
 abstract: Coming soon
-meeting: 'Coming soon '
+meeting: 'Monday and Thursday 10-1 pm '
 students:
   - email: ebrett@me.bergen.edu
     name: Erin Brett
