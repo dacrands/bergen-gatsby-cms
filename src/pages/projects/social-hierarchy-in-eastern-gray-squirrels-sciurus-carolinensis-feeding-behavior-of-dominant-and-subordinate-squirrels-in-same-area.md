@@ -23,6 +23,111 @@ mentors:
     name: Charles Sontag
 blog:
   - body: >-
+      This past week unfortunately did not yield any progress in this research.
+      Due to the heat wave and excessive rain there was little to no S.
+      Carolinensis activity in any of the locations being observed. However,
+      food was still left out to maintain the integrity of the research and keep
+      the S. Carolinensis in the area coming back to the sites of food. On days
+      after leaving food, I went back to the food sites to see that the piles of
+      peanuts were gone. This tells me that the gray squirrels (and most likely
+      other animals) in the area are still foraging for food. My prediction is
+      that they waited and went out for food in better weather conditions.
+      Either earlier in the morning/late evening when it may have been cooler in
+      temperature and when the rain wasn’t heavily falling. 
+
+
+      Unfortunately, the Bushnell Trophy Cam HD was not able to be put up this
+      week but will be mounted and set to record footage in the next week (Week
+      4). With the ability to obtain actual footage the goal is to see if there
+      are multiple squirrels grabbing food from the same pile or if there is
+      only one squirrel going back each time. This will hopefully show signs of
+      dominance in that there is only one squirrel grabbing food while others
+      wait around. If there are multiple S. Carolinensis grabbing food from the
+      same pile this will be interesting as well. More information will be
+      gathered in the coming week.
+    date: 2019-07-15T18:31:26.790Z
+    title: 'Week 7 '
+  - body: >-
+      This week I have continued to visit the locations previously mentioned for
+      observation with the goal to build the squirrels’ trust. At the Van Saun
+      park location all the piles of food left were entirely consumed other than
+      a few pumpkin seeds. I had decided to leave only peanuts from this point
+      on as this study is based on social dominance and not food preference.
+      However, the S. Carolinensis in all locations seem to be more inclined to
+      gather the peanuts. Three piles of peanuts were put out in the morning of
+      Tuesday 7/9 and two squirrels were spotted at the Van Saun location but,
+      only one captured on camera (pictures attached). I stayed nearby and
+      observed how they both watched me. One squirrel was on the ground foraging
+      for food while looking up periodically to see where I stood. The other
+      squirrel which I noticed to be a bit larger stayed on the tree with
+      his/her eyes on me the whole time. The smaller S. Carolinensis didn’t seem
+      to mind my presence so long as I didn’t make any sudden movements. I have
+      not been able to determine the sex of these S. Carolinensis just yet.  
+
+
+      On the same day at the BCC campus location I filled the bird feeder at
+      approximately 1PM and two squirrels were spotted about ten feet away
+      (picture attached). They’re behavior was similar to that of the squirrels
+      at Van Saun Park. One was on the ground looking around while the other was
+      in a nearby tree watching. I find this behavior to be quite interesting as
+      it may be a sign of dominance. I went back to this area about 2 hours
+      later to find the bird feeder empty and now five S. Carolinensis were in
+      the area. 
+
+
+      At Van Saun park the next day, I observed that all piles of food left had
+      been consumed or stored. Three more piles of food were put out and no
+      squirrels had been spotted at the time. A couple hours later I went to
+      look at the piles of food. Location 1 had less food in the pile, location
+      2 did have any peanuts left, and location 3 was untouched. Three squirrels
+      were in the vicinity. Two of them were watching from a tree, and one was
+      carrying a few peanuts. I had laid a few more peanuts down and then walked
+      away. That afternoon at the BCC campus location, I filled up the bird
+      feeder with the prediction that it would be empty later the same day.
+      Three S. Carolinensis were in the vicinity watching as I left food for
+      them. 
+
+
+      It’s to be believed that the squirrels in these areas are beginning to
+      associate my presence with receiving food. In the next coming week, a
+      Bushnell Trophy Cam HD will be put up at the BCC location to monitor how
+      fast the squirrels in the area are taking the peanuts from the bird
+      feeder. I will also be spending more time in the field observing the S.
+      Carolinensis’ with Bushnell 10x50 PowerView binoculars for an extended
+      period of time from apporximately 50-100 meters away. 
+
+
+      ![](/img/screen-shot-2019-08-27-at-2.30.25-pm.png)
+    date: 2019-07-08T18:29:47.436Z
+    title: 'Week 6 '
+    image: /img/screen-shot-2019-08-27-at-2.30.30-pm.png
+  - body: >-
+      My name is Chloe Raven Ennis. I have taken over this project with Dr.
+      Sontag from Jung Yoon. I am still monitoring the location on the Bergen
+      Community College campus. This area is located down by Ender Hall and the
+      Challenger Center. However, I will not be continuing to monitor the Leonia
+      location. The other locations I have decided to observe is outside my own
+      home in Glen Rock, NJ and an area off of parking lot 6 at Van Saun County
+      Park in Paramus, NJ. I will be feeding the squirrels that I come in
+      contact with, roasted/unsalted peanuts and roasted/salted pumpkin seeds. 
+
+       On Wednesday July 3rd, 2019 I had visited Van Saun and laid down 3 piles of food in 3 different areas of the location. Two piles of peanuts and one pile of pumpkin seeds (pictures attached). I waited around for a little while in hopes that any S. Carolinensis in the area will notice my presence and realize I am not a threat once I had left the area and left them food. The same procedure was followed outside my home in Glen Rock, NJ. One S. Carolinensis was spotted in a tree above the area I had laid out food. This gray squirrel watched me with caution but did not run away. I left after a few minutes to show the squirrel that he/she could trust me. The sex of this S. Carolinensis could not be determined at the time. 
+
+      My goals in continuing this project are to gain the trust of at least 2 or
+      more squirrels in these chosen locations. Once their trust is gained, I
+      will begin observing their eating habits as well as looking for the
+      determining factors in which squirrels are dominant and which are
+      subordinate. What I will be looking for in these determining factors is
+      the sex of the squirrels being observed and if possible, the approximate
+      age. For any questions regarding my research thus far, please contact me
+      at cennis@me.bergen.edu. Thank you. 
+
+
+      ![](/img/screen-shot-2019-08-27-at-2.28.38-pm.png)
+    date: 2019-07-01T18:27:46.492Z
+    title: 'Week 5 '
+    image: /img/screen-shot-2019-08-27-at-2.29.17-pm.png
+  - body: >-
       This week I started to start sunflower seed trust exercises in Leonia on
       Tuesday mornings and Wednesdays. On Mondays, Tuesday afternoons, and on
       Thursdays, I am on the Bergen campus feeding the squirrels at
