@@ -37,6 +37,62 @@ blog:
       * **General**
 
 
+      We discussed when we are going to launch the experiment as well as what to
+      implement from a meeting last week. We will likely launch on August 13th
+      (a Tuesday) and will use a long cord/tether between the balloon,
+      parachute, and command module as a safeguard against landing in a tree.
+
+
+      * **CAD**
+
+
+      We are printing the holder components for the circuit board and
+      cutting/drilling holes for the cameras and rods into the box we are using
+      for the launch. We also sanded the lids to add more clearance.
+
+
+      * **Circuitry**
+
+
+      We are wiring up the electronics for the final assembly.
+
+
+      * **Cameras**
+
+
+      A brief test confirmed that the Hero3+ cameras will be able to record the
+      dish assemblies operating.
+
+
+      * **General**
+
+
+      We tested assembling the command module and took inventory of our
+      supplies. We are expecting to launch the balloon next Tuesday or next
+      Thursday.
+
+
+      * **CAD**
+
+
+      After several reprints, a holder for the circuit board has been completed
+      and integrated into the design. Additionally, we prepared a mylar radar
+      reflector for air traffic safety.
+
+
+      * **Circuitry**
+
+
+      As far as we can tell, the circuit board is finished. To resolve an issue
+      in which the motors could not move the sliding doors in the dish
+      assemblies, the doors were sanded thinner and lubricated with silicone
+      grease.
+    date: 2019-08-05T19:13:40.721Z
+    title: Week 6
+  - body: >-
+      * **General**
+
+
       We proofread and revised the volunteer form for the launch.
 
 
@@ -82,7 +138,7 @@ blog:
       expecting the flight to be six hours at most and the battery is estimated
       to last a total of seven hours powering the cameras.
     date: 2019-07-29T19:11:09.178Z
-    title: 'Week 6 '
+    title: Week 5
   - body: >-
       * **General**
 
@@ -211,7 +267,7 @@ blog:
 
       *  https://cam-do.com/pages/power-consumption-by-gopro-camera-model
     date: 2019-07-22T18:59:37.382Z
-    title: 'Week 5 '
+    title: Week 4
   - body: >-
       * **General**
 
@@ -296,11 +352,11 @@ blog:
       being printed. We may reprint the lids to incorporate a layer of epoxy to
       better preserve any samples in the Petri dishes.
     date: 2019-07-15T18:55:31.861Z
-    title: 'Week 4 '
+    title: Week 3
     image: /img/screen-shot-2019-08-27-at-2.56.11-pm.png
   - body: "* **General**\n\nWe have done some research on the effects of high altitudes on lithium and lithium-ion batteries such as the ones we are using. From what we have found, low pressure has little to no effect on the performance or stability of lithium-ion batteries. However, low temperatures can compromise battery performance; but our mentor has informed us that the temperature range the experiment will be experiencing will not be low enough to cause an issue.\n\n**Sources used:**\n\n1. https://www.team-bhp.com/forum/gadgets-computers-software/129323-li-ion-batteries-high-altitudes.html\n2. https://www.researchgate.net/post/What_is_the_impact_of_low_pressure_on_LIthium_Ion_batteries_WIll_cycle_life_change_if_I_use_them_above_4000m_height_with_low_pressure\n3. https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20130000451.pdf\n4. http://blog.ravpower.com/2017/05/protections-lithium-ion-batteries/\n5. https://forum.solar-electric.com/discussion/3945/high-altitude-affects-batteries\n6. https://www.instructables.com/id/The-Ultimate-High-Altitude-Weather-Balloon-Data-Lo/\n7. https://www.instructables.com/id/Scientific-Research-High-Altitude-Balloon-for-Fun-/\n\n* **Circuitry**\n\nWe have printed the circuit board for the tone projector.\n\n* **Camera**\n\nTomorrow we are going to test the cameras’ performance under low pressure. They will be placed in the pressure chamber and the pressure will be lowered to simulate the conditions the project will experience during the flight.\n\n* **General**\n\nIf the experiment succeeds and we obtain a sample or two, we may have to use a powerful optical microscope instead of an electron microscope; the latter may melt the plastic Petri dishes.\n\n* **CAD**\n\nWe may need to further modify the dish assembly components to improve their aerodynamics.\n\n* **Circuitry**\n\nWe drilled the holes for the main circuit board. Printing of the traces and pads will commence tomorrow.\n\n![](/img/screen-shot-2019-08-27-at-2.46.25-pm.png)\n\n* **Cameras**\n\nCamera and battery test versus pressure in progress.\n\n**The No-Mentor Proving Period Things To Do**\n\n* Printing and Building the second assembly\n* Printing all 3 camera casing assemblies\n* Modifying the new bigger rods\n* Assemble as much as possible with the net in place already\n* Integrate software and hardware\n* Light Pole/High tree test instead of a full tethered launch\n* Draft out Volunteering form for the launch date\n\n**Possible dates: 8/9, 8/12, 8/13**\n\n* Freezer test for assemblies\n* Look at different possible lubricants for the sliding mechanism\n* Sivo: Silicone-based\n* Luis: Lithium\n* Check which one works better at low temperatures\n* Check for SPOT GPS \n\n**Assembly: Things to do and target dates.**\n\n* \t**Rods**\t\n\n→ Drilled properly and in the correct locations\n\n→ First hole 3 inches from the end of the rod\n\n→ Measurements need to be exact for the holes: use the fusion model to accurately locate the locations for the holes.\n\n→ To be done by 07/16/2019\n\n* \t**Assemblies**\n\n→ Printed and assembled\n\n→ Tested with the motors for optimal sliding conditions\n\n→ Reprint or Sand if needed\n\n→ Should be done by Morning Of 07/17/2019\n\n* \t**Freezer Test**\n\n→ Checking of assemblies under rougher conditions i.e. colder temperatures\n\n→ Microbiology labs might have an appropriate freezer for us to fit an assembly  in and test the effect of any possible freezing or contracting of the plastic\n\n→ Due 07/22/2019\n\n* \t**Lubrication**\n\n→ Research lubrication options for cold temperatures. Silicone- or Lithium-based\n\n→ Possibly order as soon as freezer test conveys failure at lower temperatures due to a potentially-contracting holder \n\n→ Order if needed; ASAP after Freezer test  \n\n* **GPS**\n\n→ Keep testing the APRS and keep asking for the SPOTs to be updated\n\n→ Continued\n\n* **Volunteering Forms for Launch Dates**\n\n→ Send out volunteering form to start gathering people for the launch\n\n→ Ask for availability from 8/9-8/14\n\n→ Done by 07/18/2019\n\n* **Cameras**\n\n→ Analyze Pressure Test and Discuss conclusion and options for needed \n\n* **Solutions**\n\n→ Check with Luis for the possible other batteries he had\n\n→ Due 07/10/2019\n\n* **Full Box Assembly Test**\n\n→ Once all hardware components are complete, Test complete weight by assembling rods and assemblies\n\n→ Meet with Professor Balzarette for wire cutter for appropriate holes for the rods and cameras in the payload box\n\n→ Holes for Rods:\n\n* Measure and mark where on the box they need to go \n* Done by 07/17/2019\n\n→ Holes for Cameras\n\n\t**\\*Like the rods, these holes need to be marked correctly BEFORE we ask Prof Balzarette for help**\n\nDone by 07/18/2019\n\n→ Once the box is prepared for all external components, start with the layout of the inside. Mark the inside to find a place for the GPSes, batteries, \n\ncircuit board and everything that will be inside the box\n\n* **Circuits and Software**\n\n**Integration**\n\n→ Integrating all motors and limit switches\n\n* **General**\n\nOur mentor had ordered larger carbon fiber tubes. These may provide more structural stability than the ones we originally had.\n\n* **CAD**\n\nWe are considering using one of the GoPro Sessions for the top camera. In preparation for this should we follow through with the idea, we have modified a copy of the GoPro Session casing from the 2017 project. The overall height of the model was increased to fit within the cover, space was added for the wire to connect the camera to the power source without causing any damage, and the cover was made larger to help lock the assembly in place.\n\nWe also finished printing the rim for the second assembly.\n\n* **Circuitry**\n\nWe tested the pressure sensor via the pressure chamber. The lowest the sensor was able to read was .16 bar, but the chamber was able to reach a pressure lower than that. The sensor was tweaked to read lower pressure and will be tested on Monday.\n\n* **CAD**\n\nWe have made a printable of the modified GoPro Session casing.\n\nWe started printing the rail of the second dish assembly yesterday, but the printer ran out of filament near the end of the print. We made some revisions to the Gcode of the component to reduce the amount of required plastic. The new version is being printed.\n\n* **Circuitry**\n\nThe traces and pads have been implemented.\n\n![](/img/screen-shot-2019-08-27-at-2.46.25-pm.png)\n\n* **Camera**\n\nWe repeated the experiment with the GoPro Hero3+ cameras in the pressure chamber. The results will be made available on Monday."
     date: 2019-07-08T18:45:07.936Z
-    title: 'Week 3 '
+    title: Week 2
   - body: >-
       * **General**
 
@@ -386,11 +442,7 @@ blog:
       The board worked and collected data from the pressure drop down to 210
       Torr.
     date: 2019-07-01T18:42:24.866Z
-    title: 'Week 2 '
-    image: /img/screen-shot-2019-08-27-at-2.44.26-pm.png
-  - body: "**Software/circuit:**\n\n* A quick crash course in Arduino and electronics (ALL)\r\n* Experimenting with spare Arduino (MALCOLM)\r\n* Ran through the code to understand all parts of it (ALL)\r\n* Managed to get all 3 thermistors working accurately at the same time (LANA)\r\n* Schematic was finished and now the board layout is being worked on (VITO)\r\n\n\n\n**CAD**\n\nGetting familiar with Autodesk Fusion 360 by trying to design given objects\r:\n\n* Zach - wagon\r\n* Guery - sword & car\r\n* Luis - sword\r\n\nRail support was printed but turned out too heavy out of the printer in the TECH building:\n\n* Priority 1 was to shed as much weight as possible by shrinking and cutting after marking all places that we can change to reduce weight.\r\n* As many eyes as possible are needed on this to make sure we are not missing any obvious and/or unneeded pieces (JOSH&IAN)\r\n* We will try printing on the LulzBot in the Research Center\r\n\n\n\n**Camera crew**\n\nLocated a probable cause in the crashing:\n\n* _GoPros_ will shut off at 125F, so ways to keep the temperature low while allowing clear visibility are being looked at (GREG&NAMI)"
-    date: 2019-05-21T15:56:17.023Z
     title: Week 1
-    image: /img/bergen-stem-graphic.jpg
+    image: /img/screen-shot-2019-08-27-at-2.44.26-pm.png
 ---
 
