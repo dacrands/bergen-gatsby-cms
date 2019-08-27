@@ -37,6 +37,56 @@ blog:
       * **General**
 
 
+      We proofread and revised the volunteer form for the launch.
+
+
+      * **CAD**
+
+
+      The second Hero3+ case has been printed. Work is underway to develop the
+      holder for the circuit board.
+
+
+      * **Circuitry**
+
+
+      Despite a small redesign, the circuit board as been assembled and is being
+      soldered.
+
+
+      **General**
+
+
+      We took inventory of our tools, supplies, etc., again.
+
+
+      * **CAD**
+
+
+      The box is being modified for the insertion of the carbon fiber rods. The
+      circuit board holder has been modeled and the rim pieces of the dish
+      assemblies are being sanded to resolve an issue with the sliding doors.
+
+
+      * **Circuitry**
+
+
+      The board needs to be reprinted due to layering issues.
+
+
+      * **Cameras**
+
+
+      We tested the batteries to see if they can last at least six hours. At the
+      three hours and thirty minutes mark, the battery was at half power. We are
+      expecting the flight to be six hours at most and the battery is estimated
+      to last a total of seven hours powering the cameras.
+    date: 2019-07-29T19:11:09.178Z
+    title: 'Week 6 '
+  - body: >-
+      * **General**
+
+
       Earlier into the Summer II semester, we discussed using lithium of
       silicone grease for the sliding doors if necessary. We did some research
       on which to use should the dish assemblies fail in an upcoming freezer
