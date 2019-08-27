@@ -37,6 +37,135 @@ blog:
       * **General**
 
 
+      Earlier into the Summer II semester, we discussed using lithium of
+      silicone grease for the sliding doors if necessary. We did some research
+      on which to use should the dish assemblies fail in an upcoming freezer
+      test. Silicone grease appears to be a better option given that it was
+      intended for plastic, rubber, etc. and works in cold temperatures.
+
+
+      **Sources:**
+
+
+      1. https://www.youtube.com/watch?v=JUkzNo5NG3g
+
+      2.
+      https://www.crc.co.nz/Silicone-Grease/6895-413c28ec-3760-4f84-8e19-05f717153c2a/
+
+      3. http://nerfhaven.com/forums/topic/16267-plastic-safe-lubricants/
+
+      4. https://www.naturalhandyman.com/iip/infxtra/infsil.html
+
+
+      * **CAD**
+
+
+      One of the camera casing assemblies has been printed. We are also printing
+      another copy of the new rim piece for the dish assembly.
+
+
+      ![](/img/screen-shot-2019-08-27-at-3.02.24-pm.png)
+
+
+      Furthermore, we tested attaching the dish assemblies, the carbon fiber
+      rods, and the styrofoam box. Everything fits bar one of the holes for the
+      screws, which will need to be fixed.
+
+
+      ![](/img/screen-shot-2019-08-27-at-3.06.46-pm.png)
+
+
+      * **Circuitry**
+
+
+      Originally the circuit board logged data only if the GPS was getting a
+      signal.  We edited the code to log data from the other sensors even if the
+      GPS loses its signal.
+
+
+      * **Cameras**
+
+
+      We tested two of the GoPro Sessions (labeled 2 and 3) in the pressure
+      chamber. Both cameras continued to operate throughout the changes in
+      pressure. Afterward, they were left on to test how long they could
+      function normally. One deactivated once the battery’s power dropped to
+      around 25%, followed by the other one about a minute later.
+
+
+      * **CAD**
+
+
+      A copy of our custom GoPro Session casing is being printed.
+
+
+      * **Circuitry**
+
+
+      We finished building the circuit board for the speaker.
+
+
+      ![](/img/screen-shot-2019-08-27-at-3.08.10-pm.png)
+
+
+      * **Cameras**
+
+
+      We tested the cameras’ built-in microphone by checking whether or not they
+      can record the sound from the speaker circuit. We also made and applied
+      better labels to the cameras. The Hero3+ cameras were kept labeled 1
+      through 4, but the Session cameras were relabeled from 1 through 3 to 5
+      through 7 respectively.
+
+
+      * **CAD**
+
+
+      Yesterday we rethreaded the holes for the limit switch pins and secured
+      the motors to the new rim pieces and printed the Session casing. The print
+      was warped upon completion but was unwarped into a useable state via a
+      heat gun.
+
+
+      Today, we finished marking where to cut the box and punched holes through
+      the said areas for the wire cutter. We are also printing the second Hero3+
+      casing.
+
+
+      * **Circuitry**
+
+
+      We are continuing to develop the main circuit board.
+
+
+      * **Cameras**
+
+
+      Camera battery power draw
+
+
+      GoPro 3+ Silver will draw approximately 1/10(10%) of the battery’s power (
+      10,000 MAmp) per hour.
+
+
+      These calculations proved correct for about 25% of the battery was gone an
+      hour and 10 minutes into the recording
+
+
+      GoPro Session 5 will draw approximately ⅙ (17.333%) Per hour of batteries
+      power (10,000MAmp)
+
+
+      **Cameras started at 10:55**
+
+
+      *  https://cam-do.com/pages/power-consumption-by-gopro-camera-model
+    date: 2019-07-22T18:59:37.382Z
+    title: 'Week 5 '
+  - body: >-
+      * **General**
+
+
       This photo from the 2017 launch demonstrates how large the balloon is, as
       well as how long the cord is between the balloon and the payload and where
       the parachute is positioned along the said chord.
