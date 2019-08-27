@@ -23,23 +23,38 @@ mentors:
   - email: bmadden@bergen.edu
     name: ' Professor Bill Madden'
 blog:
-  - body: "Last week we got Pelican HPC to run in all computers, and test stresses the supercomputer using the same program as last week and then compare the processing time of the supercomputer with a single computer and the results were not as expected.\r\n\n\r\n\nwe made both computers to count all the prime numbers from 1 to 1*10^6 and the difference in time processing between them was 2.38 with the supercomputer being faster. It was expected that the supercomputer was ten times as fast because it is 10 computers against one but those weren’t the results, now need to find the reason why is not working.\r\n\n\r\n\nWhile looking at the problem we try to see the communication speed between the ethernet cables and found out that the computer nodes and the front end were communicating at a 70% efficiency which will reduce the processing time but won't really affect it as much to make so similar to the single computer.\r\n\n\r\n\nWe try to replicate the process but the front end wasn’t detecting the compute nodes."
-    date: 2019-06-20T15:56:32.739Z
+  - body: "We have come to the hypothesis that the computers aren’t communicating because the program in which the test stress was done, Octave, does not support clustering, but when we used Ipython which is built in PelicanHPC and made for clustering, it kept getting the same processing time.\r\n\nTo find out what the mistake was we tried different scenarios.\r\n\nDisconnected the switch from the internet to see if it was somehow interfering with the local server, but there wasn’t any different. The front end kept detecting the nodes, but the processing time kept being the same.\r\n\nWhen disconnected one of the eth cables from the front node the connection with the compute nodes was inconsistent jumping between 0 and 2 nodes, supporting the hypothesis that the switch is not communicating properly. There is no difference in accessing from eth0 or eth1, both show the same inconsistency."
+    date: 2019-06-10T15:56:32.739Z
     title: Week 4
-    image: /img/super-pc-week-4.png.jpg
+    image: ''
   - body: >-
-      Today the Supercomputer Team decided to stress test our 10 cluster
-      supercomputer compared to a single computer. We chose the program
-      GNUOctave because it is optimized for long mathematical computation. Cesar
-      and Leyki wrote a prime number calculator to count the number of prime
-      numbers from 1 to 100000. We have also included a function to tell us the
-      processing time the cpus took to complete the task. We have done the same
-      process to the single computer. Unfortunately, the time it took to
-      complete the task on both computers were identical and only apart by 1
-      second.
-    date: 2019-06-20T15:54:19.634Z
-    title: Week 3
-    image: /img/super-pc-week-3.png
+      For the past three days, the Supercomputer Team has run diagnostics to
+      figure out how to solve the issue of the main computer not recognizing the
+      computational nodes in our cluster. We have installed two Network
+      Interface Cards (NIC) into our front end computer to allow for access to
+      the computational nodes and the internet through two ethernet cables. The
+      Supercomputer Team has disconnected the internet ethernet cable and ran
+      “pelican_setup” in the PelicanHPC terminal. This resulted in a message
+      saying the ethernet switch device is not active even though the lights on
+      the switch were definitely on. This message caused the front end to lose
+      its connection to the other computational nodes. In order to regain
+      connection, the Team proceeded to ssh into the root terminal through all
+      the computational nodes in order for the front end node to regain sight of
+      them. Then front end did not see then nodes. The Team then went into the
+      Bios of all the computers to check if any of the boot orders were changed
+      from network. All the computers were functioning as expected. We then
+      moved our attention to the code the team ran in GNUOctave and tried to
+      download a parallelism package to make sure the code would take advantage
+      of our computational nodes. In using the command “pkg install -forge
+      parallel” into the command line and an error message appeared stating it
+      could not access the url. Then Team decided to think about a solution to
+      the challenge and tackle it the following week.
+
+
+      ![](/img/screen-shot-2019-08-27-at-3.39.48-pm.png)
+    date: 2019-06-03T19:38:14.415Z
+    title: 'Week 3 '
+    image: /img/screen-shot-2019-08-27-at-3.39.18-pm.png
   - body: >-
       Today Cesar and Leyki took 10 1TB portable hard drives and used Rufus to
       flash an operating system called PelicanHPC onto them. We have chosen
@@ -68,7 +83,7 @@ blog:
       ethernet switch and the ethernet switch held the ethernet cables to
       transport data from all the other computers. The operating system detected
       all 10 nodes and took control of their CPUs for processing.
-    date: 2019-05-21T15:51:11.922Z
+    date: 2019-05-27T15:51:11.922Z
     title: Week 2
     image: /img/super-pc-week-2.png
   - body: >-
@@ -81,8 +96,6 @@ blog:
       computer to compute the same job. 
 
 
-
-
       For example: if a user wants to compute prime numbers from a range of 1 to
       100,000; a single computer would take days to weeks to complete the
       computation. A supercomputer would partition the job so, if there are 10
@@ -91,10 +104,6 @@ blog:
       achieve this concept, Leyki and I (henceforth referred to as the
       Supercomputer Team) will take 11 computers and wire them to make them
       communicate with each other.
-
-
-
-
 
 
       Today the Supercomputer Team has acquired 11 i5 HP PC computers, Ethernet
@@ -106,6 +115,9 @@ blog:
       Supercomputer Team then lined up the computers in a row and connected all
       10 computers to the Ethernet switch. Therefore, the team completed the
       hardware design of our supercomputer prototype.
+
+
+      ![](/img/screen-shot-2019-08-27-at-3.27.02-pm.png)
     date: 2019-05-20T16:19:09.039Z
     title: Week 1
     image: /img/super-pc-week-1.jpg
