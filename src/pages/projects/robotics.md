@@ -49,8 +49,11 @@ blog:
       trying to figure out the programming for the robot. We were having trouble
       with wiring and the coding so we were researching and trying to figure out
       the way to make it work.
+
+
+      ![](/img/screen-shot-2019-08-26-at-2.28.17-pm.png)
     date: 2019-08-06T00:39:01.462Z
-    title: 'Week 8 '
+    title: Week 12
     image: /img/screen-shot-2019-08-22-at-8.39.41-pm.png
   - body: >-
       Deepa looked into the lifting mechanism and had made possible ideas to use
@@ -69,9 +72,90 @@ blog:
       The intake mechanism had to be reinforced in order to make sure the
       opening would remain a square. As well the metal on it had to be switched
       out due to height issues.
-    date: 2019-07-01T14:55:25.705Z
-    title: 'Week 7 '
+    date: 2019-07-29T14:55:25.705Z
+    title: Week 11
     image: /img/screen-shot-2019-08-06-at-10.56.49-am.png
+  - body: >-
+      Deepa finished half of the stacker mechanism. I was trying to attach the
+      stacker mechanism to the robot and was trying to build an extension
+      mechanism to the stacker, but I was having trouble with it. Tyler worked
+      preparing the game piece to help with experimentation for the robot with
+      3D printing of the cube.
+
+
+      Deepa was working on the stacker and I spent the whole Tuesday working on
+      it. However, I could not figure out the extension for the stacker and I
+      was having trouble with attaching it. 
+
+
+      The mechanism Deepa and Tyler is working for the robot is almost done
+      however, we were having trouble fixing minor problems. The stacking
+      mechanism Deepa has been working on was not functionable because there was
+      no grip for the cube to stay in the stacker and the stacking of cube
+      requires extra push to extend the stacker. Deepa was trying to understand
+      how that mechanism will work and spend the whole day researching. As well
+      Chalres and Tyler focused on a new idea of the chassis and made it similar
+      to that of Cherry and Blueberry.
+
+
+      Deepa tried to experiment with different mechanism for the stacker to work
+      properly. Tyler had completed the first piece of the VEX game piece and is
+      preparing for next week to print the other half. As well as fixing issues
+      with the electronics from changing the chassis of the robot.
+
+
+      ![](/img/screen-shot-2019-08-26-at-2.26.32-pm.png)
+    date: 2019-07-22T18:25:15.555Z
+    title: 'Week 10 '
+    image: /img/screen-shot-2019-08-26-at-2.26.39-pm.png
+  - body: >2-
+       Tyler and Deepa was working on the extension part for the arm and motors to the super structure. However, we had to reconfigure some of the mechanism which took us all day to figure out. We did figure out what was causing the issue, but we were not able to finish the work today. We will hopefully continue working on it to finish if we do not encounter any issues.
+
+      The motors and the gear we used for the extension arm was not
+      complimenting each other. Deepa was watching videos and researching how
+      people solved the problems. Tyler went to the Tech building and got the
+      four pieces cut needed for the arm extension. Deepa also worked on the arm
+      and completed it.
+
+
+      Deepa finished working on the cube stacked mechanism. This is a new
+      mechanism we are trying this summer, in the process of making it, we were
+      researching, watching videos to understand the mechanism and to modify it.
+      Issue came across with a test to actually lift the superstructure, looking
+      into replacing motors with stronger ones.
+
+
+      Tyler worked on attaching the extension arm to the robot. Deepa finished
+      working on the stacker.
+    date: 2019-08-26T18:23:45.024Z
+    title: 'Week 9 '
+    image: /img/screen-shot-2019-08-26-at-2.24.48-pm.png
+  - body: >-
+      In summer one, we finished working on building the solid base and the
+      support for the arms. I(Deepa) spent most of the time on Monday working on
+      improving some parts of robot and started working on building mechanism
+      for picking up the cubes.
+
+
+      Work picked up and I (Tyler) started focusing on parts needed for future
+      attachment such as the lifting mechanism, cube intake method, and
+      adjustments needed for the lifting mechanism. For the rest of Tuesday I 
+      also prepared the purchase request forum for tools.
+
+
+      Tyler and Deepa was working on the support for the arms of the robot.
+      During the process we encountered some of the issues with the arms which
+      was not allowing the arms to move efficiently. We researched and try to
+      apply different mechanism to solve the problem but none of the method was
+      helping. So we spent all day working on solving the problem.
+
+
+      Deepa was working on extending parts of an arm. As well Tyler was working
+      on the mechanism to lift both arms of the superstructure so orientation of
+      both gears go in the right direction.
+    date: 2019-07-08T18:20:36.354Z
+    title: 'Week 8 '
+    image: /img/screen-shot-2019-08-26-at-2.21.50-pm.png
   - body: >-
       Deepa finished half of the stacker mechanism. I was trying to attach the
       stacker mechanism to the robot and was trying to build an extension
@@ -106,56 +190,65 @@ blog:
     title: Week 6
     image: /img/screen-shot-2019-07-30-at-5.14.49-pm.png
   - body: >-
-      On July 15, Tyler and Deepa was working on the extension part for the arm
-      and motors to the super structure. However, we had to reconfigure some of
-      the mechanism which took us all day to figure out. We did figure out what
-      was causing the issue, but we were not able to finish the work today. We
-      will hopefully continue working on it to finish if we do not encounter any
-      issues.
+      The metal I used to protect the wheel was not supporting the arm of the
+      robot. It was weakening the stability of the base. Therefore, I dismantle
+      the base to try something different.
 
 
-      The motors and the gear we used for the extension arm was not
-      complimenting each other. Deepa was watching videos and researching how
-      people solved the problems. Tyler went to the Tech building and got the
-      four pieces cut needed for the arm extension. Deepa also worked on the arm
-      and completed it.
+      ![](/img/screen-shot-2019-08-26-at-2.11.43-pm.png)
 
 
-      Deepa finished working on the cube stacked mechanism. This is a new
-      mechanism we are trying this summer, in the process of making it, we were
-      researching, watching videos to understand the mechanism and to modify it.
-      Issue came across with a test to actually lift the superstructure, looking
-      into replacing motors with stronger ones.
+      I use the C- channel this time and Tyler helped me to finish the base and
+      it seems stable and strong. We are going to continue with the base and
+      work on the arm and the body part of the robot.
 
 
-      On Thursday, Tyler worked on attaching the extension arm to the robot.
-      Deepa finished working on the stacker.
+      ![](/img/screen-shot-2019-08-26-at-2.13.28-pm.png)
+
+
+      The C- Channel I used to protect the wheels is making the side of the base
+      more rigid then before and the angle at the middle is also giving support
+      to maintain the rigidity equally throughout the base.
+
+
+      On Thursday, I continue working on the body part of the robot. I build the
+      support for the lifting and the sliding mechanism. This is a new mechanism
+      I am trying this summer. 
+
+
+      ![](/img/screen-shot-2019-08-26-at-2.14.31-pm.png)
     date: 2019-06-17T21:10:08.062Z
     title: 'Week 5 '
-    image: /img/screen-shot-2019-07-30-at-5.11.33-pm.png
+    image: /img/screen-shot-2019-08-26-at-2.12.58-pm.png
   - body: >-
-      In summer one, we finished working on building the solid base and the
-      support for the arms. I(Deepa) spent most of the time on Monday working on
-      improving some parts of robot and started working on building mechanism
-      for picking up the cubes.
+      I was working on the arm part of the robot due to the instability of the
+      robot I was struggling to make it stable. Due to the weight of an arm the
+      base part of the robot was not stable as well. I spent most of the day
+      trying to fix the problem, but I could not figure out the solutions.   
 
 
-      Work picked up and I (Tyler) started focusing on parts needed for future
-      attachment such as the lifting mechanism, cube intake method, and
-      adjustments needed for the lifting mechanism. For the rest of Tuesday I 
-      also prepared the purchase request forum for tools.
+      I was trying to figure out the solution. During the process of assembling
+      pieces and the adjustment seems a little bit less stable. I was
+      encountering the same problem I got before. I tried to move the axel
+      placement, metal supporter but it was not helping.  
 
 
-      On Wednesday, Tyler and Deepa was working on the support for the arms of
-      the robot. During the process we encounter some of the issues with the
-      arms which was not allowing the arms to move efficiently. We researched
-      and try to apply different mechanism to solve the problem but none of the
-      method was helping. So we spent all day working on solving the problem.
+      I was researching about the problem I was encountering and tried to find
+      out what other people have done. At first almost all the people were
+      having the same issue with the stability of the robot. In the animated
+      video of the robot, the center of mass was not considered proper. However,
+      that did not actually work on our robot. I was constantly researching and
+      adjusting the placement of the metal piece in the robot hoping to solve
+      the obstacle. 
 
 
-      On Thursday, Deepa was working on extending parts of an arm. As well Tyler
-      was working on the mechanism to lift both arms of the superstructure so
-      orientation of both gears go in the right direction.
+      On Thursday, Tyler was working on the old robot to check whether it was
+      working or not. Javier fixed the programming for that robot. We prepared
+      for the presentation and worked on the old robot to showcase it in the
+      presentation.
+
+
+      ![](/img/screen-shot-2019-08-22-at-8.59.12-pm.png)
     date: 2019-06-10T21:02:55.763Z
     title: 'Week 4 '
     image: /img/screen-shot-2019-07-30-at-5.04.05-pm.png
