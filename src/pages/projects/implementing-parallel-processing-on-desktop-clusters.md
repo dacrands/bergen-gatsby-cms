@@ -15,9 +15,9 @@ students:
     name: Cesar Hernandez
   - email: lreynoso111415@me.bergen.edu
     name: Leyki Reynoso Jr.
-  - email: tbd
+  - email: vbucceri@me.bergen.edu
     name: Vinny Bucceri
-  - email: tbd
+  - email: zkeitt@me.bergen.edu
     name: 'Zion Keitt '
 mentors:
   - email: bmadden@bergen.edu
