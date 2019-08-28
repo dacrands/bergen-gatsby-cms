@@ -16,19 +16,17 @@ export default function ProjectTemplate({ data }) {
   return (
     <ProjectLayout>      
       <div className="post">
-        <div className="bg-dark">
-          <div className="container container--small post__hero">
-            <Img fluid={frontmatter.image.childImageSharp.fluid} loading="eager" />
-          </div>
-        </div>
         <div className="container container--small">
           <header className="header">
-            <h1>{frontmatter.title}</h1>
-          </header>
+            <h1>{frontmatter.title}</h1>            
           {
-            frontmatter.video ? <Video embed={frontmatter.video}/>: null
-          }
-          
+            frontmatter.video 
+            ? <Video style={{ marginBottom: 0 }} embed={frontmatter.video}/>
+            :<div className="post__hero">
+              <Img fluid={frontmatter.image.childImageSharp.fluid} loading="eager" />
+            </div>            
+          }          
+          </header>
           <div>
             <h3>Objective</h3>
             <p>{frontmatter.abstract}</p>
