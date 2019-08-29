@@ -1,7 +1,7 @@
 ---
 templateKey: projectTemplate
 title: 'JRC: James Rose Center Restoration'
-image: /img/bergen-stem-graphic.jpg
+image: /img/screen-shot-2019-08-29-at-3.38.14-pm.png
 abstract: Coming soon
 meeting: coming soon
 students:
