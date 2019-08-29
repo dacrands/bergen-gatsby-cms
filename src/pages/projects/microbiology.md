@@ -3,7 +3,7 @@ templateKey: projectTemplate
 title: >-
   Frequency of Antibiotic Resistance and Sensitivity to Antibiotics and Natural
   Oils in Bacteria Isolated from Human and Environmental Samples
-image: /img/bergen-stem-graphic.jpg
+image: /img/longgggggg-.png
 abstract: 'Coming soon '
 meeting: 'Monday and Tuesday 10-2 pm '
 students:
