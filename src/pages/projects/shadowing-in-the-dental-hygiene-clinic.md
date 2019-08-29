@@ -1,7 +1,7 @@
 ---
 templateKey: projectTemplate
 title: Shadowing in the Dental Hygiene Clinic
-image: /img/bergen-stem-graphic.jpg
+image: /img/screen-shot-2019-08-29-at-1.13.16-pm.png
 abstract: >
   By shadowing in the Dental Hygiene Clinic, we hope to gain exposure and
   experience in our potential field of study. Although we are not going to
