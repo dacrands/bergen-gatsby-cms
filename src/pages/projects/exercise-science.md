@@ -1,7 +1,7 @@
 ---
 templateKey: projectTemplate
 title: 'Ex-Sups: Excercise Supplements'
-image: /img/bergen-stem-graphic.jpg
+image: /img/ex-sup.png
 abstract: >-
   The use of supplements to enhance training is redefining how individuals
   workout. Health food companies suggest that using different supplements will
