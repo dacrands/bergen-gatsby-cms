@@ -1,7 +1,7 @@
 ---
 templateKey: projectTemplate
 title: 'Facial Recognition for Home Security '
-image: /img/bergen-stem-graphic.jpg
+image: /img/facial-recognitation.png
 abstract: >
   To build a functional Face Recognition system that can open a door, that was
   for the beginning, now the new objective is to make a facial recognition
