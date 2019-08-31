@@ -2,6 +2,7 @@ import React from "react"
 import showdown from 'showdown'
 import { graphql } from "gatsby"
 import Img from "gatsby-image"
+import LazyLoad from 'react-lazyload';
 
 
 import "../styles/main.scss"
@@ -63,36 +64,38 @@ export default function ProjectTemplate({ data }) {
           </div>
         </div>        
           <section className="project-blogs">  
-            <div className="container container--small">
-              {frontmatter.blog ?  <h2>Blog</h2> : null }
-              {                
-                frontmatter.blog
-                ? frontmatter.blog.map(post => {
-                  return (
-                    <article 
-                      key={post.title}
-                      className="card">                      
-                      <div className="card__title">
-                        <h3>{post.title}</h3>
-                        <p><em>{post.date}</em></p>
-                        <hr/>
-                      </div>
-                        {
-                          post.image 
-                          ? <div className="card__img">
-                             <Img fixed={post.image.childImageSharp.fixed} />
-                            </div>
-                          : null
-                        }                        
-                      <div className="card__content">
-                        <div dangerouslySetInnerHTML={{ __html: converter.makeHtml(post.body)}} />
-                      </div>
-                    </article>
-                  )
-                  })
-                : null
-              }            
-            </div>          
+            <LazyLoad>
+              <div className="container container--small">
+                {frontmatter.blog ?  <h2>Blog</h2> : null }
+                {                
+                  frontmatter.blog
+                  ? frontmatter.blog.map(post => {
+                    return (
+                      <article 
+                        key={post.title}
+                        className="card">                      
+                        <div className="card__title">
+                          <h3>{post.title}</h3>
+                          <p><em>{post.date}</em></p>
+                          <hr/>
+                        </div>
+                          {
+                            post.image 
+                            ? <div className="card__img">
+                              <Img fixed={post.image.childImageSharp.fixed} />
+                              </div>
+                            : null
+                          }                        
+                        <div className="card__content">
+                          <div dangerouslySetInnerHTML={{ __html: converter.makeHtml(post.body)}} />
+                        </div>
+                      </article>
+                    )
+                    })
+                  : null
+                }            
+              </div> 
+            </LazyLoad>         
           </section>        
       </div>
     </ProjectLayout>
