@@ -64,13 +64,13 @@ export default function ProjectTemplate({ data }) {
           </div>
         </div>        
           <section className="project-blogs">  
-            <LazyLoad>
               <div className="container container--small">
                 {frontmatter.blog ?  <h2>Blog</h2> : null }
                 {                
                   frontmatter.blog
                   ? frontmatter.blog.map(post => {
                     return (
+                    <LazyLoad>
                       <article 
                         key={post.title}
                         className="card">                      
@@ -90,12 +90,12 @@ export default function ProjectTemplate({ data }) {
                           <div dangerouslySetInnerHTML={{ __html: converter.makeHtml(post.body)}} />
                         </div>
                       </article>
+                    </LazyLoad>         
                     )
                     })
                   : null
                 }            
               </div> 
-            </LazyLoad>         
           </section>        
       </div>
     </ProjectLayout>
