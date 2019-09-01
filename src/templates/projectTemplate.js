@@ -127,7 +127,7 @@ export const query = graphql`
           image {
             id
             childImageSharp {
-              fixed(width:400){
+              fixed(width:400, quality: 80,  traceSVG: { background: "#fff", color: "rgb(162, 153, 199)" }){
               ...GatsbyImageSharpFixed_withWebp_tracedSVG
               }
             }
@@ -135,7 +135,7 @@ export const query = graphql`
         }
         image {
           childImageSharp {
-            fluid(maxWidth: 800, quality: 100) {
+            fluid(maxWidth: 800, quality: 90,  traceSVG: { background: "#fff", color: "rgb(162, 153, 199)" }) {
               ...GatsbyImageSharpFluid_withWebp_tracedSVG              
             }
           }
