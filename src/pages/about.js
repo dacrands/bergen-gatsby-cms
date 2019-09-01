@@ -22,12 +22,12 @@ const CONTENT = [
 
 export default () => (
   <Layout>
-    <div className="container" style={{ paddingBottom: "20vh"}}>
+    <div className="container" style={{ paddingBottom: "20vh" }}>
       <header className="header">
         <h1>STEM at BCC</h1>
         <p />
       </header>
-      <section className="section" >
+      <section className="section">
         <h2>Program Information</h2>
         <div className="grid-two">
           {CONTENT.map(text => (
@@ -41,9 +41,8 @@ export default () => (
       <section className="section">
         <h2>STEM Majors</h2>
         <div className="flex--wrap">
-        <ul className="section__list flex__item--50">
-          {
-            [
+          <ul className="section__list flex__item--50">
+            {[
               "Horticulture",
               "Landscape/Design/Build",
               "Environmental Technology",
@@ -51,15 +50,12 @@ export default () => (
               "Networking Administration",
               "Office Technology",
               "Web Development & Management",
-              
             ].map(major => (
               <li>{major}</li>
-              ))
-            }
-        </ul>
-        <ul className="section__list flex__item--50">
-          {
-            [
+            ))}
+          </ul>
+          <ul className="section__list flex__item--50">
+            {[
               "Medical Informatics",
               "Game Programming",
               "Game Testing",
@@ -69,43 +65,37 @@ export default () => (
               "Technical Studies",
             ].map(major => (
               <li>{major}</li>
-              ))
-            }
-        </ul>
-          <ul className="section__list flex__item--50">
-            {
-              [                
-                "Pre-Chiropractic",
-                "Engineering Science",
-                "General Engineering",
-                "Technology",
-                "Drafiting & Design",
-                "Database Programming",
-                "Electronics Technology",
-                "General Natural Science",
-              ].map(major => (
-                <li>{major}</li>
-                ))
-              }
+            ))}
           </ul>
           <ul className="section__list flex__item--50">
-            {
-              [
-                "Aviation Administration",
-                "Biology",
-                "Biotechnology",
-                "Chemistry",
-                "Computer Science",
-                "Information Technology",
-                "Mathematics",
-                "Physics",
-              ].map(major => (
-                <li>{major}</li>
-                ))
-              }
+            {[
+              "Pre-Chiropractic",
+              "Engineering Science",
+              "General Engineering",
+              "Technology",
+              "Drafiting & Design",
+              "Database Programming",
+              "Electronics Technology",
+              "General Natural Science",
+            ].map(major => (
+              <li>{major}</li>
+            ))}
+          </ul>
+          <ul className="section__list flex__item--50">
+            {[
+              "Aviation Administration",
+              "Biology",
+              "Biotechnology",
+              "Chemistry",
+              "Computer Science",
+              "Information Technology",
+              "Mathematics",
+              "Physics",
+            ].map(major => (
+              <li>{major}</li>
+            ))}
           </ul>
         </div>
-        
       </section>
     </div>
   </Layout>

@@ -15,7 +15,7 @@ export default () => (
                 slug
               }
               frontmatter {
-                title             
+                title
               }
             }
           }
@@ -24,20 +24,20 @@ export default () => (
     `}
     render={data => {
       const edges = data.allMarkdownRemark.edges
-      
+
       return (
         <aside className="aside">
-          <nav className="aside__nav">            
-              {edges.map(edge => (                
-                  <Link
-                    key={edge.node.id}
-                    to={edge.node.fields.slug}
-                    className="aside__nav-link"
-                    activeClassName="aside__nav-link--active"
-                  >                    
-                    {edge.node.frontmatter.title}                  
-                  </Link>                
-              ))}            
+          <nav className="aside__nav">
+            {edges.map(edge => (
+              <Link
+                key={edge.node.id}
+                to={edge.node.fields.slug}
+                className="aside__nav-link"
+                activeClassName="aside__nav-link--active"
+              >
+                {edge.node.frontmatter.title}
+              </Link>
+            ))}
           </nav>
         </aside>
       )

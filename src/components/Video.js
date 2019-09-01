@@ -7,9 +7,7 @@ class Video extends Component {
   }
 
   componentDidMount() {
-    const source = `https://img.youtube.com/vi/${
-      this.state.embed
-    }/sddefault.jpg`
+    const source = `https://img.youtube.com/vi/${this.state.embed}/sddefault.jpg`
     const image = new global.Image()
     image.srcset = source
     image.alt = "Bergen STEM Youtube"
@@ -24,9 +22,7 @@ class Video extends Component {
     iframe.setAttribute("allowfullscreen", "")
     iframe.setAttribute(
       "src",
-      `https://www.youtube.com/embed/${
-        this.state.embed
-      }?rel=0&showinfo=0&autoplay=1`
+      `https://www.youtube.com/embed/${this.state.embed}?rel=0&showinfo=0&autoplay=1`
     )
     this.refs.videoWrap.innerHTML = ""
     this.refs.videoWrap.appendChild(iframe)

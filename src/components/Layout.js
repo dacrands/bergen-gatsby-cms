@@ -18,9 +18,7 @@ export default ({ children }) => (
       <title>Bergen STEM</title>
     </Helmet>
     <Navbar />
-    <main>
-      {children}
-    </main>
+    <main>{children}</main>
     <Footer />
   </>
 )
