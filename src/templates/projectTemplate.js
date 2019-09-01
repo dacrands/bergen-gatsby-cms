@@ -67,7 +67,14 @@ export default function ProjectTemplate({ data }) {
         </div>
         <section className="project-blogs">
           <div className="container container--small">
-            {frontmatter.blog ? <h2>Blog</h2> : null}
+            {/* 
+
+              Necessary to check if blog exists and if length of
+              blog arr is > 0, because even if you delete all the 
+              posts the `frontmatter.blog` arr still exists. 
+
+            */}
+            {(frontmatter.blog && (frontmatter.blog.length > 0)) ? <h2>Blog</h2> : null}
             {frontmatter.blog
               ? frontmatter.blog.map(post => {
                   return (
