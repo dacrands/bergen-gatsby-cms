@@ -156,7 +156,7 @@ export const query = graphql`
         image {
           childImageSharp {
             fluid(
-              maxWidth: 800
+              maxWidth: 650
               quality: 90
               traceSVG: { background: "#fff", color: "rgb(162, 153, 199)" }
             ) {
