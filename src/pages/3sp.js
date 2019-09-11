@@ -68,7 +68,7 @@ export default () => (
       {CONTENT.map(section => (
         <section className="section">
           <h2>{section.h2}</h2>
-          <div style={{ paddingBottom: "30px" }} className="grid-two">
+          <div className="grid-two">
             {section.items.map(item => {
               if (!item.isList) {
                 return (
