@@ -4,12 +4,12 @@ import Layout from "../components/Layout"
 
 const CONTENT = [
   {
-    h3: "Hands-on Faculty",
+    h3: "Real World Research Experience",
     p:
-      "Thanks to the STEMatics grant, Bergen Community College is equipped with top of the line research equipment and facilities. This enables students to build skills in current technologies being used in modern industry.",
+    "Thanks to the STEMatics grant, Bergen Community College is equipped with top of the line research equipment and facilities. This enables students to build skills in current technologies being used in modern industry.",
   },
   {
-    h3: "Real World Research Experience",
+    h3: "Hands-on Faculty",
     p:
       "At Bergen Community College, our STEM faculty understand the value of proper research experience in a student's academic career. Our program provides students the guidance and support they need to ask the scientific questions that interest them most.",
   },
