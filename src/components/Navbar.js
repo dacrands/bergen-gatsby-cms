@@ -29,7 +29,7 @@ export default props => (
     <div className="container">
       <ul className="navbar__list">
         {LINKS.map(link => (
-          <li>
+          <li key={link.slug}>
             <Link
               activeClassName={"navbar__list-link--active"}
               className="navbar__list-link"
