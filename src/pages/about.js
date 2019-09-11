@@ -22,11 +22,13 @@ const CONTENT = [
 
 export default () => (
   <Layout>
-    <div className="container" style={{ paddingBottom: "20vh" }}>
+    <div className="container" style={{ paddingBottom: "10vh" }}>
+
       <header className="header">
         <h1>STEM at BCC</h1>
         <p />
       </header>
+
       <section className="section">
         <h2>Program Information</h2>
         <div className="grid-two">
@@ -38,6 +40,7 @@ export default () => (
           ))}
         </div>
       </section>
+
       <section className="section">
         <h2>STEM Majors</h2>
         <div className="flex--wrap">
@@ -97,6 +100,7 @@ export default () => (
           </ul>
         </div>
       </section>
+
     </div>
   </Layout>
 )
