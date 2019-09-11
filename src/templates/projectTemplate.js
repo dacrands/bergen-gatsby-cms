@@ -78,7 +78,7 @@ export default function ProjectTemplate({ data }) {
             {frontmatter.blog
               ? frontmatter.blog.map(post => {
                   return (
-                    <LazyLoad>
+                    <LazyLoad key={post.title.replace(/\s/g,'')}>
                       <article key={post.title} className="card">
                         <div className="card__title">
                           <h3>{post.title}</h3>
@@ -120,6 +120,7 @@ export default function ProjectTemplate({ data }) {
 export const query = graphql`
   query($slug: String!) {
     markdownRemark(fields: { slug: { eq: $slug } }) {
+      id
       frontmatter {
         title
         templateKey
