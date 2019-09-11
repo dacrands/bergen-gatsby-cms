@@ -1,5 +1,5 @@
 .section {
-  // outline: 1px solid red;   
+  padding-bottom: 30px;
   h2 {
     color: $primary;
     font-size: 18px;
@@ -19,8 +19,7 @@
   margin-right: 0.25rem;
 }
 
-.section__content {  
- 
+.section__content {    
   p {
     @extend %typography;
     margin: 0 auto;    
@@ -28,10 +27,18 @@
   }
   ul {
     @extend %typography;
+    margin-bottom: 1rem;
     p {
       margin-bottom: 1rem;
     } 
-    margin-bottom: 1rem;
+  }
+}
+
+.section__media {  
+  .gatsby-image-wrapper {
+    box-shadow: 0 11px 22px -5px rgba(50,50,93,.25), 0 6px 12px -8px rgba(0,0,0,.3), 0 -3px 12px -3px rgba(0,0,0,.025);
+    box-shadow: $shadow-stripe;
+    border-radius: 10px;
   }
 }
 
@@ -41,14 +48,6 @@
 
 .section--big {
   padding: 80px 1em;  
-}
-
-.section__media {  
-  .gatsby-image-wrapper {
-    box-shadow: 0 11px 22px -5px rgba(50,50,93,.25), 0 6px 12px -8px rgba(0,0,0,.3), 0 -3px 12px -3px rgba(0,0,0,.025);
-    box-shadow: $shadow-stripe;
-    border-radius: 10px;
-  }
 }
 
 .section--dark {
