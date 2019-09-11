@@ -31,9 +31,8 @@
 
 .grid-two {
   display: grid;
-  grid-template-columns: 1fr 50%;    
-  grid-template-columns: 2 / 1fr;    
-  grid-gap: 2em;
+  grid-template-columns: 1fr 50%;      
+  grid-gap: 50px;
   &--big {
     grid-gap: calc(30px + 3vw);
   }
