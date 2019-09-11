@@ -66,26 +66,26 @@ export default () => (
       </header>
 
       {CONTENT.map(section => (
-        <section className="section">
+        <section key={section.h2} className="section">
           <h2>{section.h2}</h2>
           <div className="grid-two">
             {section.items.map(item => {
               if (!item.isList) {
                 return (
-                  <div className="section__content">
+                  <div key={item.h3.replace(/\s/g,'')} className="section__content">
                     <h3>{item.h3}</h3>
-                    {item.para.map(p => (
-                      <p>{p}</p>
+                    {item.para.map((p, index) => (
+                      <p key={index}>{p}</p>
                     ))}
                   </div>
                 )
               }
               return (
-                <div className="section__content">
+                <div key={item.h3.replace(/\s/g,'')} className="section__content">
                   <h3>{item.h3}</h3>
                   <ul>
-                    {item.para.map(p => (
-                      <li>{p}</li>
+                    {item.para.map((p, index) => (
+                      <li key={index}>{p}</li>
                     ))}
                   </ul>
                 </div>
