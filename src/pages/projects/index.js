@@ -13,7 +13,11 @@ export default ({ data }) => {
         </header>
         <main className="grid-wrap">
           {edges.map(edge => (
-            <Link key={edge.node.id} className="info-link" to={edge.node.fields.slug}>
+            <Link
+              key={edge.node.id}
+              className="info-link"
+              to={edge.node.fields.slug}
+            >
               <h4>{edge.node.frontmatter.title}</h4>
               <Img fluid={edge.node.frontmatter.image.childImageSharp.fluid} />
             </Link>

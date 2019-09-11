@@ -74,11 +74,13 @@ export default function ProjectTemplate({ data }) {
               posts the `frontmatter.blog` arr still exists. 
 
             */}
-            {(frontmatter.blog && (frontmatter.blog.length > 0)) ? <h2>Blog</h2> : null}
+            {frontmatter.blog && frontmatter.blog.length > 0 ? (
+              <h2>Blog</h2>
+            ) : null}
             {frontmatter.blog
               ? frontmatter.blog.map(post => {
                   return (
-                    <LazyLoad key={post.title.replace(/\s/g,'')}>
+                    <LazyLoad key={post.title.replace(/\s/g, "")}>
                       <article key={post.title} className="card">
                         <div className="card__title">
                           <h3>{post.title}</h3>
@@ -98,7 +100,10 @@ export default function ProjectTemplate({ data }) {
                           if there is no card__img 
                           
                         */}
-                        <div style={post.image ? null : {marginTop: `-50px`}} className="card__content">
+                        <div
+                          style={post.image ? null : { marginTop: `-50px` }}
+                          className="card__content"
+                        >
                           <div
                             dangerouslySetInnerHTML={{
                               __html: converter.makeHtml(post.body),

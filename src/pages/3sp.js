@@ -72,7 +72,10 @@ export default () => (
             {section.items.map(item => {
               if (!item.isList) {
                 return (
-                  <div key={item.h3.replace(/\s/g,'')} className="section__content">
+                  <div
+                    key={item.h3.replace(/\s/g, "")}
+                    className="section__content"
+                  >
                     <h3>{item.h3}</h3>
                     {item.para.map((p, index) => (
                       <p key={index}>{p}</p>
@@ -81,7 +84,10 @@ export default () => (
                 )
               }
               return (
-                <div key={item.h3.replace(/\s/g,'')} className="section__content">
+                <div
+                  key={item.h3.replace(/\s/g, "")}
+                  className="section__content"
+                >
                   <h3>{item.h3}</h3>
                   <ul>
                     {item.para.map((p, index) => (

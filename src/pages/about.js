@@ -6,7 +6,7 @@ const CONTENT = [
   {
     h3: "Real World Research Experience",
     p:
-    "Thanks to the STEMatics grant, Bergen Community College is equipped with top of the line research equipment and facilities. This enables students to build skills in current technologies being used in modern industry.",
+      "Thanks to the STEMatics grant, Bergen Community College is equipped with top of the line research equipment and facilities. This enables students to build skills in current technologies being used in modern industry.",
     key: "research",
   },
   {
@@ -19,15 +19,13 @@ const CONTENT = [
     h3: "Resources",
     p:
       "Majoring in STEM is a difficult task, so be sure to utilize our free prep classes and award-winning tutoring services to get the support you need.",
-      key: "resources",
+    key: "resources",
   },
-  
 ]
 
 export default () => (
   <Layout>
     <div className="container" style={{ paddingBottom: "10vh" }}>
-
       <header className="header">
         <h1>STEM at BCC</h1>
         <p />
@@ -104,7 +102,6 @@ export default () => (
           </ul>
         </div>
       </section>
-
     </div>
   </Layout>
 )
