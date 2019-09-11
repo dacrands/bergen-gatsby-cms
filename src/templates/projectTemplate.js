@@ -92,7 +92,13 @@ export default function ProjectTemplate({ data }) {
                             <Img fixed={post.image.childImageSharp.fixed} />
                           </div>
                         ) : null}
-                        <div className="card__content">
+                        {/*
+
+                          Remove white-space above card__content 
+                          if there is no card__img 
+                          
+                        */}
+                        <div style={post.image ? null : {marginTop: `-50px`}} className="card__content">
                           <div
                             dangerouslySetInnerHTML={{
                               __html: converter.makeHtml(post.body),
