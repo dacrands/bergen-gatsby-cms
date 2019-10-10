@@ -15,26 +15,6 @@
     font-weight: 100;
     font-size: 24px;
   }  
-  label {    
-    display: flex;
-    flex-direction: column;
-    margin-bottom: 1.5rem;
-    font-size: 14px;
-    font-weight: bold;
-    color: $primary-light;
-  }
-  select,
-  input,
-  textarea {
-    // outline: 1px solid green;    
-    font-size: 18px;
-    display: block;    
-    margin-top: 0.15rem;
-    border: none;    
-    padding: 0.5rem 0.25rem;
-    background: $bg;    
-
-  }
   p:last-of-type {
     margin-bottom: 0;
   }
@@ -44,4 +24,23 @@
     cursor: pointer;
     width: 100%;
   }
+}
+
+.form__item {
+  font-size: 18px;
+  display: block;    
+  margin-top: 0.15rem;
+  border: none;    
+  padding: 0.5rem 0.25rem;
+  background: $bg;    
+
+}
+
+.form__label {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 1.5rem;
+  font-size: 14px;
+  font-weight: bold;
+  color: $primary-light;
 }
