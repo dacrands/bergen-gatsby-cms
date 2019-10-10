@@ -69,10 +69,11 @@ class Form extends React.Component {
             <input name="bot-field" onChange={this.handleChange} />
           </label>
         </p>
-        <p className="form__item">
-          <label>
+        <p>
+          <label className="form__label">
             Name
             <input
+              className="form__item"
               required
               type="text"
               name="name"
@@ -80,10 +81,11 @@ class Form extends React.Component {
             />
           </label>
         </p>
-        <p className="form__item">
-          <label>
+        <p>
+          <label className="form__label">
             Email
             <input
+              className="form__item"
               required
               type="email"
               name="email"
@@ -91,10 +93,10 @@ class Form extends React.Component {
             />
           </label>
         </p>
-        <p className="form__item">
-          <label>
+        <p>
+          <label className="form__label">
             Major
-            <select required name="major" onChange={this.handleChange}>
+            <select className="form__item" required name="major" onChange={this.handleChange}>
               {MAJORS.map(m => (
                 <option key={m} value={m}>
                   {m}
@@ -103,10 +105,11 @@ class Form extends React.Component {
             </select>
           </label>
         </p>
-        <p className="form__item">
-          <label>
+        <p>
+          <label className="form__label">
             Research Interests:
             <textarea
+              className="form__item"
               required
               rows="5"
               name="message"
