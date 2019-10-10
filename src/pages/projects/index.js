@@ -28,7 +28,7 @@ export default ({ data }) => {
           .filter(edge => {
             return edge.node.frontmatter.title
                       .toLowerCase()
-                      .includes(query)
+                      .includes(query.toLowerCase())
           })
           // Display filtered links
           .map(edge => (
