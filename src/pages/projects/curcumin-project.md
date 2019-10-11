@@ -31,6 +31,48 @@ mentors:
     name: Ara Kahyaoglu
 blog:
   - body: >-
+      On June 25, 2019 A new method was done using a blank paper disc. We
+      inserted the blank paper disc into the solution then inserted on the
+      swapped TSA and left it for 24 hours. Unfortunately no inhibition of
+      bacteria was shown. 
+
+
+      ![](/img/screen-shot-2019-10-11-at-7.18.08-pm.png)
+    date: 2019-06-25T23:16:55.320Z
+    title: 'Week 6 '
+    image: /img/screen-shot-2019-10-11-at-7.17.25-pm.png
+  - body: >-
+      **Dichloromethane Extraction Process** 
+
+
+      In order to isolate the curcumin from the turmeric powder, an extraction
+      process was used where Methylene Chloride was the solvent and the turmeric
+      powder was the solute.
+
+
+      Post extraction the product is filtered, then tested for it’s
+      concentration.    
+
+
+      **Difficulties in Determining Concentration**
+
+
+      The new curcumin reaction taking place in the lab could possibly be very
+      useful.  However, HPLC has confirmed that the reaction produces a number
+      of side products, which is not uncommon or unexpected.  This means it will
+      be impossible to determine the extinction coefficient of the new
+      compound.  The extinction coefficient is necessary to determine the
+      concentration of this new compound in solution.  UV spectra will have to
+      serve only as a means of determining the maximum wavelength of the
+      compound.  Once an LCMS spectra is run, it will be easier to separate the
+      major product of the reaction from the other side products.
+
+
+      ![](/img/screen-shot-2019-10-11-at-7.16.08-pm.png)
+    date: 2019-06-17T23:14:37.021Z
+    title: 'Week 5 '
+    image: /img/screen-shot-2019-10-11-at-7.15.10-pm.png
+  - body: >-
       **Argus Lab Testing:**
 
 
