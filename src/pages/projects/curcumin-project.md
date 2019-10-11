@@ -31,6 +31,23 @@ mentors:
     name: Ara Kahyaoglu
 blog:
   - body: >-
+      **Argus Lab Testing:**
+
+
+      When the chemical structure of a molecule changes, it's maximum wavelength
+      changes as well.  This can be observed visually by a color change.  That
+      color change can be measured quantitatively using UV-Vis spectroscopy.
+
+
+      This week it was observed that when curcumin is reacted with yeast, there
+      is a loss of color.  This means that curcumin is undergoing a structural
+      change.  This structural change will eventually be identified using NMR. 
+      Before an NMR spectra is run, the chemical modeling software Argus Lab can
+      be used comparatively with UV-Vis spectra to anticipate possible
+      structural changes.
+    date: 2019-06-11T23:13:50.781Z
+    title: 'Week 4 '
+  - body: >-
       **Using HPLC to Test Curcumin Samples**
 
 
