@@ -31,6 +31,47 @@ mentors:
     name: Ara Kahyaoglu
 blog:
   - body: >-
+      **Using HPLC to Test Curcumin Samples**
+
+
+      Above is a brief visual of the process of the HPLC
+
+
+      HPLC (High Performance Liquid Chromatography Instrument) is used to
+      separate the injected substance based on polarity. The instrument detects
+      what wavelength the substance absorbs ultraviolet rays. The results are
+      shown on the chrotagram as a series of peaks with y-axis as milli-Volts
+      vs. time on the x-axis. The detection wavelength was set to 440 nm and
+      then to 280nm. Multiple curcumin substances were evaluated before
+      potentially being added to the sunscreen.  
+
+
+      ![](/img/screen-shot-2019-10-11-at-7.12.57-pm.png)
+
+
+      The picture above is an example of chromatogram results from an HPLC which
+      displays the different peaks of the substance.
+    date: 2019-06-05T23:10:48.283Z
+    title: 'Week 3 '
+    image: /img/screen-shot-2019-10-11-at-7.11.29-pm.png
+  - body: >-
+      **Different Ratios in Sunscreen**
+
+
+      On Wednesday, 10 different sunscreens were made for future testing.  Five
+      had zinc oxide (ZnO) and the other five did not.  Each group of five had
+      consistently increasing amounts of curcumin.  Increasing the amount of
+      curcumin in the sunscreens meant also increasing the amount of alcohol in
+      the sunscreen because the curcumin is kept in an ethanol solution as it is
+      not water soluble.  Increasing the amount of alcohol in the sunscreen
+      meant that the more curcumin solution that was added, the more runny the
+      resulting sunscreen would become.  The results of the sunscreens initially
+      did not show an exact pattern of increasing or decreasing viscosity,
+      however once the sunscreens were left overnight, they all became more
+      evenly viscous.
+    date: 2019-05-30T23:08:10.667Z
+    title: 'Week 2 '
+  - body: >-
       **Types of UV Radiation: Our Objective**
 
 
