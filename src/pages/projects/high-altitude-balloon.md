@@ -11,7 +11,7 @@ abstract: >-
   developed to enable operation of the hardware, record information gathered by
   temperature, humidity, and pressure sensors, and conduct a sound level vs air
   pressure experiment.
-meeting: 'Monday through Thursday  8:00 am - 12:00 pm, 1:00 pm - 3:00 pm'
+meeting: Friday 10- 11 am at STEM lab
 students:
   - email: zcitti@me.bergen.edu
     name: Zachary Citti
