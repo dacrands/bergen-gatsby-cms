@@ -16,10 +16,12 @@ abstract: >-
   look into electron behavior in materials that has never been seen before!
 meeting: 'Monday-Thursday: 10am-12am, 1pm-2pm'
 students:
-  - email: dgordon@me.bergen.edu
-    name: David Gordon
-  - email: jeanpierrealvarez96@gmail.com
-    name: Jean-Pierre Alvares
+  - email: nuchida(at)me.bergen.edu
+    name: Nami Uchida
+  - email: jtotaro(at)me.bergen.edu
+    name: John Totaro
+  - email: sdoroshevich(at)me.bergen.edu
+    name: Svetlana Doroshevich
 mentors:
   - email: haldolaarachchige@gmail.com
     name: Dr. Neel Haldolaraachchige
