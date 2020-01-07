@@ -1,6 +1,6 @@
 ---
 templateKey: projectTemplate
-title: Dirac Electron in IrGa and Magnetism in FeGa
+title: COMPUTATIONAL MATERIALS
 image: /img/comp-mats.jpg
 abstract: >-
   The goal of our project is to find new semiconducting materials through
