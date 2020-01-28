@@ -6,9 +6,9 @@ import Layout from "../components/Layout"
 import Video from "../components/Video"
 import Form from "../components/Form"
 
-import Professor from "../assets/professor.svg"
-import Research from "../assets/research.svg"
-import GradCap from "../assets/grad-cap.svg"
+import Teamwork from "../assets/teamwork.svg"
+import Startup from "../assets/startup.svg"
+import Readers from "../assets/readers.svg"
 
 export default ({ data }) => {
   return (
@@ -32,7 +32,7 @@ export default ({ data }) => {
       <section className="section section--border section--big bg-light">
         <div className="row container center">
           <div className="col section__media">
-            <Research className="fluid" />
+            <Startup className="fluid" />
           </div>
           <div className="col section__content">
             <h2>Research</h2>
@@ -66,7 +66,7 @@ export default ({ data }) => {
             </Link>
           </div>
           <div className="col section__media">            
-            <GradCap className="fluid" />
+            <Teamwork className="fluid" />
           </div>
         </div>
       </section>
@@ -74,7 +74,7 @@ export default ({ data }) => {
       <section className="section section--border section--big bg-light">
         <div className="row container center">
           <div className="col section__media">
-            <Professor className="fluid" />
+            <Readers className="fluid" />
           </div>
           <div className="col section__content">
             <h2>Running Start Program</h2>
