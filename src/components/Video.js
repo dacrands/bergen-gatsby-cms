@@ -35,7 +35,7 @@ class Video extends Component {
           className="video__wrapper"
           onClick={this.loadVideo.bind(this)}
           ref="videoWrap"
-          embed="n1hHr62viSU"
+          embed={this.state.embed}
         >
           <div className="play__button" />
         </div>
