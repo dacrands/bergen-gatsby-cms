@@ -9,8 +9,7 @@ import Teamwork from "../assets/teamwork.svg"
 import Startup from "../assets/startup.svg"
 import Readers from "../assets/readers.svg"
 
-export default () => {
-  return (
+export default () => (
     <Layout>
       <header className="landing">
         <div className="landing__title">
@@ -127,4 +126,3 @@ export default () => {
       </section>
     </Layout>
   )
-}
