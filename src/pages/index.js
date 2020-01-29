@@ -1,5 +1,5 @@
 import React from "react"
-import { graphql, Link } from "gatsby"
+import { Link } from "gatsby"
 
 import Layout from "../components/Layout"
 import Video from "../components/Video"
@@ -128,35 +128,3 @@ export default ({ data }) => {
     </Layout>
   )
 }
-
-export const query = graphql`
-  query {
-    image1: file(relativePath: { regex: "/landing-1/" }) {
-      id
-      childImageSharp {
-        id
-        fluid {
-          ...GatsbyImageSharpFluid
-        }
-      }
-    }
-    image2: file(relativePath: { regex: "/landing-2/" }) {
-      id
-      childImageSharp {
-        id
-        fluid {
-          ...GatsbyImageSharpFluid
-        }
-      }
-    }
-    image3: file(relativePath: { regex: "/solar/" }) {
-      id
-      childImageSharp {
-        id
-        fluid {
-          ...GatsbyImageSharpFluid
-        }
-      }
-    }
-  }
-`
