@@ -9,7 +9,7 @@ import Teamwork from "../assets/teamwork.svg"
 import Startup from "../assets/startup.svg"
 import Readers from "../assets/readers.svg"
 
-export default ({ data }) => {
+export default () => {
   return (
     <Layout>
       <header className="landing">
