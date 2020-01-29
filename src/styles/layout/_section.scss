@@ -7,7 +7,7 @@
     font-weight: 600;
     text-transform: uppercase;
     letter-spacing: .15em;
-  } 
+  }
   .btn {
     margin-top: 0.75rem;
   }
@@ -34,7 +34,10 @@
   }
 }
 
-.section__media {  
+.section__media {
+  svg {
+    max-height: 350px;
+  }  
   .gatsby-image-wrapper {
     box-shadow: 0 11px 22px -5px rgba(50,50,93,.25), 0 6px 12px -8px rgba(0,0,0,.3), 0 -3px 12px -3px rgba(0,0,0,.025);
     box-shadow: $shadow-stripe;
