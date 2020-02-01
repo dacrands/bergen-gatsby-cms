@@ -35,7 +35,7 @@ export default () => (
           <div className="col section__content">
             <h2>Research</h2>
             <p>
-              From rockets to algae biodiesel, Bergen Community college offers
+              From rockets to algae biodiesel, Bergen Community College offers
               STEM students a wide variety of research opportunities.
             </p>
             <p>
