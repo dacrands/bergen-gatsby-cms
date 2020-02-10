@@ -38,6 +38,17 @@ const rawContentObj = {
       "Joined a 3SP Faculty Research Mentor’s project team for Summer I or Summer II internship",
     ],
   },
+  content5: {
+    isList: true,
+    title: "Ongoing Requirements to remain in good standing",
+    body: [
+      "Maintaining minimum 3.75 Cumulative GPA",
+      "Contributing member of the STEM Student Union club",
+      "Punctual and responsive to official 3SP communications",
+      "Working to complete 3SP Academic, Research and Service Requirements",
+      "Successfully completed an on campus 3SP Summer I or Summer II internship",
+    ],
+  },
 }
 
 
@@ -58,7 +69,7 @@ export default ({ data }) => (
       <section className="section section--med">        
         <Info content={rawContentObj.content3} />
         <Info content={rawContentObj.content4} />
-        <Info content={rawContentObj.content4} />
+        <Info content={rawContentObj.content5} />
       </section>      
     </div>
   </Layout>
