@@ -59,12 +59,12 @@ export default ({ data }) => (
         <h1>STEM Student Scholars</h1>
       </header>
       <section className="section section--med row">
-        <Info content={rawContentObj.content1} />
         <Media media={data.image1.childImageSharp.fluid} />
+        <Info content={rawContentObj.content1} />
       </section>      
       <section className="section section--med row">
-        <Media media={data.image2.childImageSharp.fluid} />
         <Info content={rawContentObj.content2} />
+        <Media media={data.image2.childImageSharp.fluid} />
       </section>      
       <section className="section">
         <h2>Requirements</h2> 
