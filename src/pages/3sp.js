@@ -67,6 +67,7 @@ export default ({ data }) => (
         <Info content={rawContentObj.content2} />
       </section>      
       <section className="section">
+        <h2>Requirements</h2> 
         <Info content={rawContentObj.content3} />
         <Info content={rawContentObj.content4} />
         <Info content={rawContentObj.content5} />
