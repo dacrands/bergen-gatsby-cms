@@ -47,15 +47,15 @@ export default ({ data }) => (
       <header className="header">
         <h1>STEM Student Scholars</h1>
       </header>
-      <section className="section section--big row">
+      <section className="section section--med row">
         <Info content={rawContentObj.content1} />
         <Media media={data.image1.childImageSharp.fluid} />
       </section>      
-      <section className="section section--big row">
+      <section className="section section--med row">
         <Media media={data.image2.childImageSharp.fluid} />
         <Info content={rawContentObj.content2} />
       </section>      
-      <section className="section section--big">        
+      <section className="section section--med">        
         <Info content={rawContentObj.content3} />
         <Info content={rawContentObj.content4} />
         <Info content={rawContentObj.content4} />
