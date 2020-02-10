@@ -22,7 +22,7 @@ const rawContentObj = {
   },
   content3 :{
     isList: true,
-    title: "Eligibility Requirements",
+    title: "Eligibility",
     body: [
       "STEM degree seeking",
       "Minimum 3.75 Cumulative GPA",
@@ -31,7 +31,7 @@ const rawContentObj = {
   },
   content4: {
     isList: true,
-    title: "Admission Requirements",
+    title: "Admission",
     body: [
       "Attended one information session",
       "Completed and submitted a 3SP application",
@@ -66,7 +66,7 @@ export default ({ data }) => (
         <Media media={data.image2.childImageSharp.fluid} />
         <Info content={rawContentObj.content2} />
       </section>      
-      <section className="section section--med">        
+      <section className="section">
         <Info content={rawContentObj.content3} />
         <Info content={rawContentObj.content4} />
         <Info content={rawContentObj.content5} />
