@@ -10,6 +10,7 @@ const CONTENT = [
       "Thanks to the STEMatics grant, Bergen Community College is equipped with top of the line research equipment and facilities. This enables students to build skills in current technologies being used in modern industry.",
     key: "research",
     img: "image3",
+    imgAlt: "3D printer in BCC research facility",
   },
   {
     h3: "Hands-on Faculty",
@@ -17,6 +18,7 @@ const CONTENT = [
       "At Bergen Community College, our STEM faculty understand the value of proper research experience in a student's academic career. Our program provides students the guidance and support they need to ask the scientific questions that interest them most.",
     key: "faculty",
     img: "image2",
+    imgAlt: "Students working in BCC resesarch facility",
   },
   {
     h3: "Resources",
@@ -24,6 +26,7 @@ const CONTENT = [
       "Majoring in STEM is a difficult task, so be sure to utilize our free prep classes and award-winning tutoring services to get the support you need.",
     key: "resources",
     img: "image1",
+    imgAlt: "Students studying together",
   },
 ]
 
@@ -45,7 +48,7 @@ export default ({ data }) => (
               <div className="section__media col">
                 <Img
                   fluid={data[text.img].childImageSharp.fluid}
-                  alt={"test"}
+                  alt={"students working at research facility"}
                 />
               </div>
             </section>
@@ -57,7 +60,7 @@ export default ({ data }) => (
               <div className="section__media col">
                 <Img
                   fluid={data[text.img].childImageSharp.fluid}
-                  alt={"test"}
+                  alt={text.imgAlt}
                 />
               </div>
               <div key={text.key} className="section__content col">
