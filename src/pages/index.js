@@ -52,7 +52,7 @@ export default () => (
       <section className="section section--border section--big bg-med">
         <div className="row container center">
           <div className="col section__content">
-            <h2>STEM Student Scholars (3SP)</h2>
+            <h2>STEM Student Scholars</h2>
             <p>
               Promotes excellence in knowledge, skills and ability of a select
               group of STEM students to ensure their success in securing
@@ -60,7 +60,7 @@ export default () => (
               4-year institution.
             </p>
             <Link to="/3sp" className="btn">
-              3SP
+              Student Scholars
             </Link>
           </div>
           <div className="col section__media">            
