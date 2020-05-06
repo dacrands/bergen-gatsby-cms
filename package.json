@@ -10,7 +10,7 @@
     "format": "prettier --write src/**/*.{js,jsx}",
     "start": "npm run develop",
     "serve": "gatsby serve",
-    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\""
+    "test": "cypress open"
   },
   "dependencies": {
     "gatsby": "^2.19.39",
@@ -39,6 +39,7 @@
     "showdown": "^1.9.1"
   },
   "devDependencies": {
+    "cypress": "^4.5.0",
     "prettier": "^1.19.1"
   },
   "repository": {
