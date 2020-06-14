@@ -3,23 +3,22 @@ import Img from "gatsby-image"
 
 import Layout from "../components/Layout"
 
-
 const rawContentObj = {
-  content1 : {
+  content1: {
     isList: false,
     title: "Benefits",
     body: [
       "Students who successfully participate in the program shall have an opportunity in their second summer in the program to participate in an internship off campus in their target 4-year college or industry.",
     ],
   },
-  content2 : {
+  content2: {
     isList: false,
     title: "Purpose",
     body: [
       "The STEM Student Scholars Program shall promote excellence in knowledge, skills and ability of a select group of STEM students to ensure their success in securing research internships and successful transfer to their targeted 4-year institution.",
     ],
   },
-  content3 :{
+  content3: {
     isList: true,
     title: "Eligibility",
     body: [
@@ -50,7 +49,6 @@ const rawContentObj = {
   },
 }
 
-
 export default ({ data }) => (
   <Layout>
     <div style={{ paddingBottom: "80px" }} className="container">
@@ -58,24 +56,25 @@ export default ({ data }) => (
         <h1>STEM Student Scholars</h1>
       </header>
       <section className="section section--med row">
-        <Media 
-          alt="Group photo of stem scholars" 
-          media={data.image1.childImageSharp.fluid} 
+        <Media
+          alt="Group photo of stem scholars"
+          media={data.image1.childImageSharp.fluid}
         />
         <Info content={rawContentObj.content1} />
-      </section>      
+      </section>
       <section className="section section--med row">
         <Info content={rawContentObj.content2} />
-        <Media 
-          alt="Aerial drone created by stem scholars" 
-          media={data.image2.childImageSharp.fluid} />
-      </section>      
+        <Media
+          alt="Aerial drone created by stem scholars"
+          media={data.image2.childImageSharp.fluid}
+        />
+      </section>
       <section className="section">
-        <h2>Requirements</h2> 
+        <h2>Requirements</h2>
         <Info content={rawContentObj.content3} />
         <Info content={rawContentObj.content4} />
         <Info content={rawContentObj.content5} />
-      </section>      
+      </section>
     </div>
   </Layout>
 )
@@ -103,9 +102,8 @@ export const query = graphql`
   }
 `
 
-
-const Info = (props) => {
-  if (!props.content.isList) {    
+const Info = props => {
+  if (!props.content.isList) {
     return (
       <div
         key={props.content.title.replace(/\s/g, "")}
@@ -133,11 +131,8 @@ const Info = (props) => {
   )
 }
 
-const Media = (props) => (
+const Media = props => (
   <div className="section__media col">
-    <Img
-      fluid={props.media}
-      alt={props.alt}
-    />
+    <Img fluid={props.media} alt={props.alt} />
   </div>
 )

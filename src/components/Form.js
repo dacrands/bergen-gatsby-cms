@@ -96,7 +96,12 @@ class Form extends React.Component {
         <p>
           <label className="form__label">
             Major
-            <select className="form__item" required name="major" onChange={this.handleChange}>
+            <select
+              className="form__item"
+              required
+              name="major"
+              onChange={this.handleChange}
+            >
               {MAJORS.map(m => (
                 <option key={m} value={m}>
                   {m}

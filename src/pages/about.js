@@ -32,11 +32,11 @@ const CONTENT = [
 
 export default ({ data }) => (
   <Layout>
-    <div className="container" >
+    <div className="container">
       <header className="header">
-        <h1>STEM at BCC</h1>        
+        <h1>STEM at BCC</h1>
       </header>
-      
+
       {CONTENT.map((text, index) => {
         if (index % 2 === 0) {
           return (
@@ -55,7 +55,6 @@ export default ({ data }) => (
           )
         } else {
           return (
-
             <div className="row section section--med">
               <div className="section__media col">
                 <Img
@@ -134,7 +133,6 @@ export default ({ data }) => (
     </div>
   </Layout>
 )
-
 
 export const query = graphql`
   query {
