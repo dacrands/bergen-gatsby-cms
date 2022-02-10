@@ -31,7 +31,7 @@
     "gatsby-transformer-remark": "^2.8.14",
     "gatsby-transformer-sharp": "^2.5.4",
     "netlify-cms": "^2.10.50",
-    "node-sass": "^4.14.1",
+    "node-sass": "^7.0.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-helmet": "^5.2.1",
